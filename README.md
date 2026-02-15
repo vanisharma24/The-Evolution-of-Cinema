@@ -82,8 +82,8 @@ Created for the **Data Storytelling Challenge** - February 2026
 
 **Vani Sharma**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/vanisharma24)
-- Project: [Cinema Data Story](https://github.com/vanisharma24/The-Evolution-of-Cinema)
+- GitHub: [@vanisharma24](https://github.com/vanisharma24)
+- Project: [The Evolution of Cinema](https://github.com/vanisharma24/The-Evolution-of-Cinema)
 
 ## 📜 License
 
