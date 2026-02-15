@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Evolution of Cinema: A Data Story</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Libre+Baskerville:wght@400&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Libre Baskerville', serif;
+            background-color: #FFFBF7;
+            color: #1B2D45;
+            line-height: 1.9;
+            font-size: 17px;
+            overflow-x: hidden;
+        }
+
+        /* Gentle fade animation */
+        @keyframes gentleFade {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 100px 60px;
+            animation: gentleFade 1.5s ease;
+        }
+
+        /* Minimalist header */
+        header {
+            text-align: center;
+            margin-bottom: 120px;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            font-weight: 500;
+            margin-bottom: 16px;
+            letter-spacing: -0.5px;
+            color: #1B2D45;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: #6B7C92;
+            font-weight: 400;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-top: 8px;
+        }
+
+        .divider {
+            width: 60px;
+            height: 1px;
+            background-color: #1B2D45;
+            margin: 40px auto;
+        }
+
+        /* Typography */
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 32px;
+            font-weight: 500;
+            margin: 100px 0 50px 0;
+            color: #1B2D45;
+            text-align: center;
+        }
+
+        h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-weight: 500;
+            margin: 80px 0 30px 0;
+            color: #1B2D45;
+        }
+
+        p {
+            margin-bottom: 24px;
+            color: #3A4A5E;
+            font-size: 17px;
+            line-height: 1.9;
+        }
+
+        /* Clean intro section */
+        .intro-text {
+            font-size: 20px;
+            line-height: 1.8;
+            color: #2C3E50;
+            max-width: 700px;
+            margin: 60px auto;
+            text-align: center;
+        }
+
+        /* Visualization styling */
+        .viz-section {
+            margin: 100px 0;
+        }
+
+        .viz-container {
+            margin: 60px 0;
+        }
+
+        .viz-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: opacity 0.4s ease;
+        }
+
+        .viz-container img:hover {
+            opacity: 0.95;
+        }
+
+        .viz-caption {
+            text-align: center;
+            font-size: 14px;
+            color: #8B9AAA;
+            margin-top: 20px;
+            font-style: italic;
+        }
+
+        /* Key insight box - ultra minimal */
+        .insight-box {
+            border-left: 2px solid #1B2D45;
+            padding-left: 30px;
+            margin: 50px 0;
+            font-size: 19px;
+            color: #2C3E50;
+            line-height: 1.7;
+        }
+
+        /* Methodology - clean card */
+        .method-card {
+            border: 1px solid #E8E8E8;
+            padding: 40px;
+            margin: 80px 0;
+            background: #FFFFFF;
+        }
+
+        .method-card h3 {
+            margin-top: 0;
+            font-size: 20px;
+            margin-bottom: 24px;
+        }
+
+        .method-card ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .method-card li {
+            padding: 8px 0;
+            color: #3A4A5E;
+            font-size: 16px;
+        }
+
+        .method-card li strong {
+            color: #1B2D45;
+            font-weight: 400;
+        }
+
+        /* Links */
+        a {
+            color: #1B2D45;
+            text-decoration: none;
+            border-bottom: 1px solid #1B2D45;
+            transition: opacity 0.3s ease;
+        }
+
+        a:hover {
+            opacity: 0.6;
+        }
+
+        /* Footer - minimal */
+        footer {
+            margin-top: 150px;
+            padding-top: 40px;
+            border-top: 1px solid #E8E8E8;
+            text-align: center;
+            font-size: 14px;
+            color: #8B9AAA;
+        }
+
+        footer p {
+            margin: 8px 0;
+            font-size: 14px;
+        }
+
+        /* Number styling for findings */
+        .finding-number {
+            font-family: 'Playfair Display', serif;
+            font-size: 14px;
+            color: #8B9AAA;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        /* Scroll reveal animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.8s ease, transform 0.8s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Staggered delays for smooth sequential reveals */
+        .reveal:nth-child(1) { transition-delay: 0.1s; }
+        .reveal:nth-child(2) { transition-delay: 0.2s; }
+        .reveal:nth-child(3) { transition-delay: 0.3s; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 60px 30px;
+            }
+
+            h1 {
+                font-size: 36px;
+            }
+
+            h2 {
+                font-size: 28px;
+            }
+
+            .intro-text {
+                font-size: 18px;
+            }
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        
+        <!-- Minimal Header -->
+        <header>
+            <h1>The Evolution of Cinema</h1>
+            <div class="divider"></div>
+            <p class="subtitle">A Data Story</p>
+        </header>
+
+        <!-- Introduction -->
+        <section class="reveal">
+            <p class="intro-text">
+                Are movies getting better or worse? Using data from 1,000 IMDB films spanning 1940 to 2024, 
+                this analysis uncovers the truth behind cinema's evolution—and challenges our assumptions 
+                about modern filmmaking, box office success, and the golden age.
+            </p>
+        </section>
+
+        <!-- Methodology -->
+        <div class="method-card reveal">
+            <h3>Methodology</h3>
+            <ul>
+                <li><strong>Dataset</strong> — 1,000 IMDB movies (1940-2024)</li>
+                <li><strong>Source</strong> — <a href="https://www.kaggle.com/datasets/ashrafkhetran/imdb-movies-dataset-trends-and-eda-insights/data" target="_blank">Kaggle</a></li>
+                <li><strong>Tools</strong> — Python, Pandas, Matplotlib, Seaborn</li>
+                <li><strong>Analysis</strong> — Temporal trends, correlation analysis, genre distribution</li>
+            </ul>
+        </div>
+
+        <!-- Findings Section -->
+        <section class="viz-section">
+            <h2 class="reveal">Findings</h2>
+
+            <!-- Finding 1 -->
+            <div class="reveal">
+                <span class="finding-number">01</span>
+                <h3>The Quality Decline</h3>
+                
+                <div class="viz-container">
+                    <img src="ratings_by_decade.png" alt="Average Movie Rating by Decade">
+                    <p class="viz-caption">Average IMDB ratings from 1940 to 2024</p>
+                </div>
+
+                <div class="insight-box">
+                    Movies from the 1940s-1970s averaged ratings above 8.0, peaking at 8.20 in the 1970s. 
+                    Modern films hover around 6.8—a drop of over 1.3 points.
+                </div>
+
+                <p>
+                    The data reveals an undeniable trend: audience-rated quality has declined significantly 
+                    since the 1970s. While film production exploded in the 2000s, average ratings tell a story 
+                    of quantity over quality. The golden age wasn't just nostalgia—it was measurably real.
+                </p>
+            </div>
+
+            <!-- Finding 2 -->
+            <div class="reveal">
+                <span class="finding-number">02</span>
+                <h3>Money Doesn't Buy Quality</h3>
+                
+                <div class="viz-container">
+                    <img src="revenue_vs_rating.png" alt="Box Office Revenue vs Movie Rating">
+                    <p class="viz-caption">Relationship between box office revenue and ratings</p>
+                </div>
+
+                <div class="insight-box">
+                    Correlation: 0.115—box office revenue has almost no relationship with movie ratings. 
+                    Blockbusters aren't necessarily better movies.
+                </div>
+
+                <p>
+                    Perhaps the most surprising discovery: financial success and quality are nearly independent. 
+                    The data shatters the assumption that higher budgets or bigger box office numbers indicate 
+                    better films. The movie industry has mastered making money, but not necessarily making art.
+                </p>
+            </div>
+
+            <!-- Finding 3 -->
+            <div class="reveal">
+                <span class="finding-number">03</span>
+                <h3>Genre Evolution</h3>
+                
+                <div class="viz-container">
+                    <img src="genre_evolution.png" alt="Genre Evolution Across Decades">
+                    <p class="viz-caption">Distribution of top genres from 1940 to 2024</p>
+                </div>
+
+                <p>
+                    The explosion of production in the 2000s brought unprecedented genre diversity. 
+                    Documentary, Horror, Musical, Fantasy, and Comedy emerged as dominant forces, 
+                    showing how the industry expanded beyond traditional Hollywood fare—even as 
+                    average quality declined.
+                </p>
+            </div>
+
+        </section>
+
+        <!-- Conclusion -->
+        <section class="reveal">
+            <h2>Conclusion</h2>
+            
+            <p>
+                The data tells a clear story: cinema has evolved from a craft focused on quality to 
+                an industry optimized for quantity and profit. The 1970s represented a creative peak 
+                that we haven't returned to, even as production budgets and movie counts have skyrocketed.
+            </p>
+            
+            <p>
+                However, this isn't entirely pessimistic. The explosion in genre diversity and sheer 
+                number of films means audiences have more choices than ever. While average quality 
+                has declined, the accessibility of filmmaking has democratized cinema in unprecedented ways.
+            </p>
+            
+            <p>
+                The golden age may be behind us in aggregate ratings, but perhaps we're entering a new era: 
+                one where quality films coexist with mass-market entertainment, and viewers have the power 
+                to choose their own golden age from an ever-expanding library of cinema.
+            </p>
+        </section>
+
+        <!-- Footer -->
+        <footer class="reveal">
+            <p>Data Storytelling Challenge</p>
+            <p>Built with Python | Pandas | Matplotlib | Seaborn | Numpy & Curiosity</p>
+            <p>Created by Vani Sharma</p>
+        </footer>
+
+    </div>
+
+    <script>
+        // Smooth scroll-triggered reveal animations
+        function reveal() {
+            const reveals = document.querySelectorAll('.reveal');
+            
+            reveals.forEach(element => {
+                const windowHeight = window.innerHeight;
+                const elementTop = element.getBoundingClientRect().top;
+                const elementVisible = 100;
+                
+                if (elementTop < windowHeight - elementVisible) {
+                    element.classList.add('active');
+                }
+            });
+        }
+
+        // Run on scroll
+        window.addEventListener('scroll', reveal);
+        
+        // Run on page load to show first elements
+        reveal();
+    </script>
+</body>
+</html>

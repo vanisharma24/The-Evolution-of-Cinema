@@ -1,0 +1,1001 @@
+movie_id,title,year,certificate,runtime_minutes,genre,rating,metascore,description,director,stars,votes,gross_millions
+tt1000835,Dark Love 728,2004,PG-13,103,"Action, Musical",9.5,,A critically acclaimed action masterpiece.,Park Chan-wook,"Matt Damon, Leonardo DiCaprio, Meryl Streep, Robert De Niro",774648,204.79
+tt1000768,First Awakening 661,2012,R,159,"War, Animation",9.5,,An epic war tale directed by Ridley Scott.,Ridley Scott,"Matt Damon, Jack Nicholson, Chris Hemsworth, Zendaya",297518,951.58
+tt1000652,The Dreams 545,2008,R,77,"Action, Mystery, War",9.5,100.0,An epic action tale directed by Spike Lee.,Spike Lee,"Natalie Portman, Mark Ruffalo, Viola Davis, Harrison Ford, Margot Robbie",583752,372.85
+tt1000538,Last Mission 431,2019,PG-13,116,Biography,9.5,,A critically acclaimed biography masterpiece.,Jordan Peele,"Al Pacino, Gary Oldman, Keanu Reeves, Kate Winslet",187450,
+tt1000159,The Story 52,2000,R,126,Mystery,9.5,99.0,A mystery film set in 2000.,Park Chan-wook,"Zendaya, Chris Hemsworth, Viola Davis, Mark Ruffalo",642106,252.83
+tt1000840,Dark Legend 733,2023,R,123,Crime,9.5,98.0,A crime film set in 2023.,Sam Mendes,"Gary Oldman, Morgan Freeman, Keanu Reeves",207806,808.8
+tt1000678,A Revolution 571,2000,PG,141,Romance,9.3,,An epic romance tale directed by Coen Brothers.,Coen Brothers,"Edward Norton, Al Pacino, Jennifer Lawrence",215726,64.12
+tt1000073,The Lord of the Rings: The Fellowship of the Ring,2000,PG,121,"Fantasy, Action",9.1,98.0,An epic fantasy tale directed by Ang Lee.,Ang Lee,"Emma Stone, Denzel Washington, Chris Hemsworth",7274,24.5
+tt1000484,The Mission 377,2021,PG,124,Crime,9.1,95.0,A critically acclaimed crime masterpiece.,Guillermo del Toro,"Mark Ruffalo, Natalie Portman, Zendaya",279682,
+tt1000293,Last Love 186,2023,PG-13,143,War,9.1,88.0,A war film set in 2023.,Peter Jackson,"Leonardo DiCaprio, Gary Oldman, Meryl Streep, Amy Adams, Keanu Reeves",54004,
+tt1000282,Dark Story 175,2009,R,125,Adventure,9.0,,A adventure film set in 2009.,Francis Ford Coppola,"Morgan Freeman, Viola Davis, Scarlett Johansson",46006,
+tt1000035,Star Wars,1945,R,128,"Fantasy, Romance",9.0,75.0,A thrilling fantasy adventure.,Stanley Kubrick,"Meryl Streep, Al Pacino, Daniel Day-Lewis, Anthony Hopkins, Mark Ruffalo",93356,124.78
+tt1000430,First Adventures 323,2014,PG-13,127,"War, Family, Crime",9.0,96.0,A war film set in 2014.,Robert Zemeckis,"Florence Pugh, Brad Pitt, Chris Hemsworth",118662,131.58
+tt1000388,Lost Mystery 281,2022,PG,140,"War, Adventure",9.0,,A war film set in 2022.,Ridley Scott,"Emma Stone, Brad Pitt, Keanu Reeves, Tom Cruise",955084,
+tt1000996,Secret Destiny 889,2002,PG-13,97,"Western, Musical",9.0,,A thrilling western adventure.,Akira Kurosawa,"Harrison Ford, Johnny Depp, Edward Norton, Keanu Reeves",1164424,
+tt1000425,Secret Chronicles 318,2013,PG-13,122,"Biography, Horror",8.9,75.0,A critically acclaimed biography masterpiece.,Ridley Scott,"Robert Downey Jr., Kate Winslet, Tom Cruise",216018,
+tt1000010,Goodfellas,1977,PG,107,"Fantasy, Family, Action",8.9,100.0,An epic fantasy tale directed by Ava DuVernay.,Ava DuVernay,"Amy Adams, Jack Nicholson, Brad Pitt, Leonardo DiCaprio, Mark Ruffalo",70408,19.98
+tt1000194,Secret Journey 87,1997,PG-13,132,"War, Documentary",8.8,84.0,A war film set in 1997.,Frank Darabont,"Zendaya, Amy Adams, Harrison Ford, Scarlett Johansson",157304,181.29
+tt1000024,Life is Beautiful,1960,PG-13,119,"Documentary, Fantasy, War",8.8,,A critically acclaimed documentary masterpiece.,Quentin Tarantino,"Matt Damon, Edward Norton, Mark Ruffalo, Viola Davis, Denzel Washington",1411,263.5
+tt1000027,Terminator 2,1963,PG-13,127,Horror,8.8,100.0,A thrilling horror adventure.,Martin Scorsese,"Cate Blanchett, Mark Ruffalo, Natalie Portman",33020,218.75
+tt1000039,Psycho,1961,PG-13,96,"Mystery, Drama",8.7,90.0,A thrilling mystery adventure.,Wong Kar-wai,"Scarlett Johansson, Zendaya, Mark Ruffalo, Anthony Hopkins",221952,186.09
+tt1000367,Final Journey 260,2024,PG,70,Adventure,8.7,72.0,A adventure film set in 2024.,Stanley Kubrick,"Samuel L. Jackson, Jack Nicholson, Edward Norton, Harrison Ford, Tom Hanks",97124,642.62
+tt1000475,Final Secrets 368,2011,PG,80,"Documentary, Romance",8.7,,A documentary film set in 2011.,Bong Joon-ho,"Mark Ruffalo, Daniel Day-Lewis, Jack Nicholson, Brad Pitt, Margot Robbie",22886,
+tt1000532,A Mission 425,2018,PG,132,"Action, Mystery",8.7,84.0,An epic action tale directed by Greta Gerwig.,Greta Gerwig,"Zendaya, Robert Downey Jr., Daniel Day-Lewis",123542,987.17
+tt1000739,The Mission 632,2004,PG,118,Animation,8.7,86.0,A critically acclaimed animation masterpiece.,Alfred Hitchcock,"Scarlett Johansson, Samuel L. Jackson, Matt Damon",82668,50.27
+tt1000070,The Departed,1987,R,131,"Comedy, Documentary",8.7,77.0,A critically acclaimed comedy masterpiece.,Christopher Nolan,"Margot Robbie, Brad Pitt, Anthony Hopkins, Gary Oldman",300536,38.26
+tt1000085,Dances with Wolves,1992,G,110,Adventure,8.7,,A adventure film set in 1992.,Sam Mendes,"Mark Ruffalo, Jennifer Lawrence, Jack Nicholson, Emma Stone",41424,204.77
+tt1000337,Final Adventures 230,2017,PG,123,"Adventure, Musical",8.7,76.0,An epic adventure tale directed by Park Chan-wook.,Park Chan-wook,"Harrison Ford, Edward Norton, Denzel Washington, Tom Cruise",42588,67.67
+tt1000406,Lost Story 299,2023,R,103,"Comedy, Sci-Fi",8.7,,A comedy film set in 2023.,Ridley Scott,"Scarlett Johansson, Tom Cruise, Will Smith, Cate Blanchett",20164,698.26
+tt1000641,A Revolution 534,2003,PG-13,124,"Romance, War, Western",8.7,84.0,A romance film set in 2003.,Ang Lee,"Matt Damon, Emma Stone, Margot Robbie",30152,481.83
+tt1000022,Casablanca,1949,R,118,"Thriller, Action",8.6,92.0,A thriller film set in 1949.,Danny Boyle,"Tom Hanks, Jennifer Lawrence, Natalie Portman, Robert De Niro, Jack Nicholson",123595,281.54
+tt1000498,Last Mystery 391,2014,PG,150,"Biography, Crime",8.6,,A critically acclaimed biography masterpiece.,Kathryn Bigelow,"Brad Pitt, Daniel Day-Lewis, Gary Oldman",2500000,386.05
+tt1000030,The Avengers,1976,PG-13,121,"Drama, Horror",8.6,78.0,A thrilling drama adventure.,Danny Boyle,"Johnny Depp, Cate Blanchett, Timothée Chalamet, Scarlett Johansson",25064,
+tt1000153,An Mission 46,1990,R,96,"Comedy, Action",8.6,100.0,A comedy film set in 1990.,Francis Ford Coppola,"Keanu Reeves, Jack Nicholson, Robert Downey Jr., Chris Hemsworth",126252,203.62
+tt1000827,An Chronicles 720,2022,PG,154,Action,8.6,75.0,An epic action tale directed by Akira Kurosawa.,Akira Kurosawa,"Zendaya, Al Pacino, Florence Pugh",37916,572.53
+tt1000084,The Silence of the Lambs,1988,R,162,Romance,8.6,,An epic romance tale directed by Martin Scorsese.,Martin Scorsese,"Margot Robbie, Johnny Depp, Al Pacino",7354,
+tt1000747,An Legend 640,2013,G,131,"Sci-Fi, Romance",8.6,86.0,A thrilling sci-fi adventure.,Clint Eastwood,"Mark Ruffalo, Chris Hemsworth, Natalie Portman, Robert De Niro, Denzel Washington",11460,
+tt1000911,Final Mystery 804,2017,PG,102,"Comedy, Family",8.6,,A thrilling comedy adventure.,Ava DuVernay,"Tom Cruise, Harrison Ford, Cate Blanchett",53996,
+tt1000018,Whiplash,1972,PG-13,140,Documentary,8.6,84.0,A thrilling documentary adventure.,Guillermo del Toro,"Viola Davis, Al Pacino, Keanu Reeves, Kate Winslet, Denzel Washington",20403,163.31
+tt1000067,The Kings Speech,1984,PG-13,131,Drama,8.6,,A thrilling drama adventure.,David Fincher,"Zendaya, Natalie Portman, Johnny Depp, Gary Oldman",349068,204.76
+tt1000058,Guardians of the Galaxy,1983,R,125,"Fantasy, Romance",8.5,,A fantasy film set in 1983.,Martin Scorsese,"Samuel L. Jackson, Zendaya, Al Pacino, Kate Winslet",73263,
+tt1000207,A Empire 100,2024,PG,129,"Mystery, Thriller",8.5,76.0,An epic mystery tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Brad Pitt, Matt Damon, Meryl Streep",901014,632.39
+tt1000310,The Awakening 203,2013,PG,108,"Sci-Fi, Crime",8.5,93.0,A critically acclaimed sci-fi masterpiece.,Edgar Wright,"Mark Ruffalo, Viola Davis, Meryl Streep, Chris Hemsworth",13644,489.01
+tt1000099,Rocky,1988,R,126,Adventure,8.5,90.0,A adventure film set in 1988.,David Fincher,"Robert De Niro, Mark Ruffalo, Al Pacino, Timothée Chalamet, Amy Adams",184750,
+tt1000076,American Beauty,1998,R,105,"Drama, Action",8.5,,A thrilling drama adventure.,Christopher Nolan,"Meryl Streep, Amy Adams, Florence Pugh",40038,39.02
+tt1000086,Driving Miss Daisy,1984,PG,128,"Fantasy, Sci-Fi",8.5,90.0,A fantasy film set in 1984.,Sam Mendes,"Al Pacino, Samuel L. Jackson, Robert De Niro, Tom Hanks",17888,23.19
+tt1000541,First Legend 434,2002,PG,106,"Musical, Thriller",8.5,95.0,A thrilling musical adventure.,Martin Scorsese,"Johnny Depp, Amy Adams, Natalie Portman, Margot Robbie, Meryl Streep",605142,498.25
+tt1000078,Titanic,1996,R,162,"Comedy, Western, Romance",8.5,88.0,A critically acclaimed comedy masterpiece.,Greta Gerwig,"Al Pacino, Mark Ruffalo, Emma Stone, Leonardo DiCaprio",5740,
+tt1000506,Lost Chronicles 399,2006,G,99,Thriller,8.5,85.0,A critically acclaimed thriller masterpiece.,Bong Joon-ho,"Kate Winslet, Jack Nicholson, Robert De Niro",747654,52.74
+tt1000945,An Mystery 838,2020,PG-13,114,Thriller,8.5,73.0,A critically acclaimed thriller masterpiece.,Frank Darabont,"Florence Pugh, Denzel Washington, Tom Hanks, Johnny Depp, Zendaya",1372418,128.5
+tt1000002,The Dark Knight,1944,Not Rated,151,"Thriller, Sci-Fi",8.5,82.0,An epic thriller tale directed by Sam Mendes.,Sam Mendes,"Timothée Chalamet, Mark Ruffalo, Florence Pugh, Johnny Depp",35528,137.85
+tt1000013,Interstellar,1974,PG-13,123,Documentary,8.5,,A critically acclaimed documentary masterpiece.,Bong Joon-ho,"Timothée Chalamet, Christian Bale, Emma Stone",92908,267.33
+tt1000011,The Silence of the Lambs,1970,NC-17,98,"Mystery, Romance, Action",8.5,,An epic mystery tale directed by Stanley Kubrick.,Stanley Kubrick,"Scarlett Johansson, Harrison Ford, Meryl Streep, Matt Damon, Gary Oldman",11510,63.84
+tt1000576,Lost Journey 469,2019,PG,127,"Fantasy, Thriller",8.5,98.0,A fantasy film set in 2019.,Quentin Tarantino,"Will Smith, Jennifer Lawrence, Robert De Niro",85642,461.89
+tt1000055,Top Gun: Maverick,1998,PG-13,128,"Adventure, Family",8.5,,A critically acclaimed adventure masterpiece.,Ridley Scott,"Margot Robbie, Kate Winslet, Denzel Washington",2060246,59.8
+tt1000048,1917,1962,Not Rated,125,"Animation, Mystery",8.5,86.0,An epic animation tale directed by Ang Lee.,Ang Lee,"Leonardo DiCaprio, Jack Nicholson, Samuel L. Jackson",11235,185.74
+tt1000021,The Usual Suspects,1962,R,96,"Sci-Fi, Fantasy",8.5,81.0,An epic sci-fi tale directed by Steven Spielberg.,Steven Spielberg,"Emma Stone, Harrison Ford, Edward Norton, Anthony Hopkins",549453,297.89
+tt1000813,Secret Legend 706,2005,PG-13,87,"Fantasy, Crime",8.4,,A critically acclaimed fantasy masterpiece.,Akira Kurosawa,"Edward Norton, Christian Bale, Viola Davis, Denzel Washington",951056,478.05
+tt1000049,Everything Everywhere All at Once,1975,R,93,"Animation, Western",8.4,98.0,A animation film set in 1975.,Hayao Miyazaki,"Zendaya, Tom Hanks, Amy Adams",112172,174.69
+tt1000041,Blade Runner,1968,PG-13,91,Adventure,8.4,88.0,A critically acclaimed adventure masterpiece.,Robert Zemeckis,"Keanu Reeves, Gary Oldman, Jack Nicholson, Tom Hanks, Al Pacino",1920324,84.58
+tt1000937,A Journey 830,2023,PG-13,107,Romance,8.4,93.0,An epic romance tale directed by Wong Kar-wai.,Wong Kar-wai,"Brad Pitt, Meryl Streep, Morgan Freeman",73960,835.91
+tt1000052,Dune,2000,PG-13,157,"Drama, Crime",8.4,,A drama film set in 2000.,Ang Lee,"Leonardo DiCaprio, Natalie Portman, Will Smith, Robert De Niro",20054,193.94
+tt1000044,La La Land,1940,PG-13,98,"Animation, Mystery",8.4,81.0,A critically acclaimed animation masterpiece.,Ang Lee,"Brad Pitt, Chris Hemsworth, Margot Robbie, Cate Blanchett, Amy Adams",18091,
+tt1000341,A Empire 234,2013,NC-17,162,"Comedy, Animation",8.4,71.0,A critically acclaimed comedy masterpiece.,Ridley Scott,"Morgan Freeman, Keanu Reeves, Tom Cruise",230412,
+tt1000256,An Kingdom 149,2022,PG-13,107,"Western, Mystery",8.4,,A western film set in 2022.,Wong Kar-wai,"Chris Hemsworth, Daniel Day-Lewis, Robert De Niro",346200,512.3
+tt1000322,First Journey 215,2007,PG-13,106,"Western, Thriller",8.4,81.0,A critically acclaimed western masterpiece.,Akira Kurosawa,"Robert Downey Jr., Mark Ruffalo, Meryl Streep, Al Pacino",112746,383.09
+tt1000733,Final Quest 626,2003,Not Rated,129,"War, Romance, Fantasy",8.4,76.0,A war film set in 2003.,Stanley Kubrick,"Anthony Hopkins, Amy Adams, Tom Hanks, Will Smith, Margot Robbie",89930,473.41
+tt1000069,No Country for Old Men,1997,R,130,Drama,8.4,70.0,A thrilling drama adventure.,Greta Gerwig,"Tom Cruise, Keanu Reeves, Cate Blanchett",2500000,217.75
+tt1000140,A Chronicles 33,1997,R,161,"Musical, Documentary, Adventure",8.4,88.0,A thrilling musical adventure.,Denis Villeneuve,"Brad Pitt, Jack Nicholson, Anthony Hopkins, Margot Robbie, Keanu Reeves",82428,
+tt1000770,Secret Legend 663,2001,PG,113,Biography,8.4,,A critically acclaimed biography masterpiece.,Christopher Nolan,"Leonardo DiCaprio, Margot Robbie, Anthony Hopkins, Chris Hemsworth, Tom Hanks",169100,
+tt1000675,Last Journey 568,2003,PG,123,Family,8.4,80.0,An epic family tale directed by Steven Spielberg.,Steven Spielberg,"Emma Stone, Edward Norton, Daniel Day-Lewis, Amy Adams",768016,185.42
+tt1000763,A Destiny 656,2004,PG,148,"Family, Sci-Fi",8.4,,A critically acclaimed family masterpiece.,Hayao Miyazaki,"Amy Adams, Harrison Ford, Margot Robbie, Jack Nicholson, Scarlett Johansson",519922,415.45
+tt1000019,The Prestige,1969,PG-13,113,"Romance, Drama",8.3,69.0,A romance film set in 1969.,Christopher Nolan,"Natalie Portman, Robert De Niro, Meryl Streep, Edward Norton, Zendaya",310406,169.85
+tt1000145,Secret Dreams 38,1981,G,121,"Mystery, Action",8.3,,An epic mystery tale directed by Clint Eastwood.,Clint Eastwood,"Kate Winslet, Scarlett Johansson, Florence Pugh",9064,
+tt1000377,Last Legend 270,2024,PG-13,128,"Thriller, Action",8.3,,A thrilling thriller adventure.,David Fincher,"Morgan Freeman, Natalie Portman, Florence Pugh, Christian Bale, Robert Downey Jr.",236438,150.6
+tt1000236,An Dreams 129,2001,PG,78,"Sci-Fi, Adventure, Family",8.3,,A sci-fi film set in 2001.,Quentin Tarantino,"Chris Hemsworth, Kate Winslet, Robert Downey Jr., Matt Damon",164336,
+tt1000590,Lost Chronicles 483,2019,PG,120,"Documentary, Biography",8.3,,A thrilling documentary adventure.,Frank Darabont,"Robert Downey Jr., Denzel Washington, Daniel Day-Lewis, Brad Pitt, Leonardo DiCaprio",47058,
+tt1000050,Oppenheimer,1982,PG-13,125,Romance,8.3,93.0,A romance film set in 1982.,Guillermo del Toro,"Amy Adams, Zendaya, Jack Nicholson, Kate Winslet, Margot Robbie",25906,282.5
+tt1000051,Barbie,1983,NC-17,124,Adventure,8.3,80.0,A thrilling adventure adventure.,Coen Brothers,"Matt Damon, Mark Ruffalo, Christian Bale, Timothée Chalamet, Edward Norton",24607,106.21
+tt1000032,Avatar,1974,NC-17,125,"Documentary, Action, Comedy",8.3,,A documentary film set in 1974.,Quentin Tarantino,"Gary Oldman, Brad Pitt, Scarlett Johansson",72402,
+tt1000038,Vertigo,1955,PG-13,116,"Family, Mystery",8.3,70.0,A thrilling family adventure.,Ridley Scott,"Al Pacino, Keanu Reeves, Zendaya, Denzel Washington, Jack Nicholson",68203,255.59
+tt1000023,City of Lights,1943,R,107,"Family, Crime",8.3,92.0,A critically acclaimed family masterpiece.,Quentin Tarantino,"Keanu Reeves, Robert Downey Jr., Scarlett Johansson",721707,18.05
+tt1000801,Lost Destiny 694,2024,R,114,"Action, Sci-Fi",8.3,90.0,A thrilling action adventure.,Christopher Nolan,"Tom Hanks, Chris Hemsworth, Anthony Hopkins, Cate Blanchett, Amy Adams",894336,676.44
+tt1000774,An Mystery 667,2015,R,129,"Musical, Thriller",8.3,82.0,A critically acclaimed musical masterpiece.,Stanley Kubrick,"Margot Robbie, Tom Cruise, Harrison Ford, Daniel Day-Lewis, Cate Blanchett",118746,434.07
+tt1000190,Secret Kingdom 83,1982,PG-13,120,"Romance, Horror",8.3,68.0,An epic romance tale directed by Sam Mendes.,Sam Mendes,"Kate Winslet, Florence Pugh, Tom Cruise, Gary Oldman",117325,106.37
+tt1000910,Lost Mystery 803,2010,PG,144,"Western, Documentary",8.3,,A thrilling western adventure.,Spike Lee,"Zendaya, Al Pacino, Matt Damon",278582,385.34
+tt1000037,Citizen Kane,1957,NC-17,119,"Action, Adventure",8.2,85.0,A action film set in 1957.,Jordan Peele,"Natalie Portman, Johnny Depp, Daniel Day-Lewis",2500000,
+tt1000222,An Empire 115,2006,PG-13,114,Musical,8.2,73.0,An epic musical tale directed by Peter Jackson.,Peter Jackson,"Tom Hanks, Anthony Hopkins, Tom Cruise, Meryl Streep, Samuel L. Jackson",2244,266.4
+tt1000007,Forrest Gump,1969,PG-13,115,"Biography, Horror",8.2,,An epic biography tale directed by Bong Joon-ho.,Bong Joon-ho,"Will Smith, Mark Ruffalo, Chris Hemsworth",8476,
+tt1000210,The Story 103,2002,PG-13,86,"Thriller, Family, Fantasy",8.2,,A thrilling thriller adventure.,Bong Joon-ho,"Tom Cruise, Jennifer Lawrence, Matt Damon",94478,
+tt1000008,Inception,1959,PG-13,109,"Musical, Mystery",8.2,,A thrilling musical adventure.,Robert Zemeckis,"Will Smith, Robert Downey Jr., Morgan Freeman, Harrison Ford, Anthony Hopkins",12782,
+tt1000025,Spirited Away,1964,PG,136,"War, Family",8.2,89.0,An epic war tale directed by Edgar Wright.,Edgar Wright,"Harrison Ford, Amy Adams, Jennifer Lawrence",45880,
+tt1000036,The Shining,1950,R,125,"Mystery, Thriller",8.2,,A mystery film set in 1950.,Martin Scorsese,"Natalie Portman, Amy Adams, Will Smith",4040,254.37
+tt1000304,A Empire 197,2008,PG,124,"Mystery, Biography",8.2,,A thrilling mystery adventure.,Wong Kar-wai,"Christian Bale, Harrison Ford, Chris Hemsworth, Morgan Freeman, Tom Hanks",103798,110.53
+tt1000309,The Empire 202,2013,PG,127,"Comedy, Sci-Fi",8.2,75.0,A thrilling comedy adventure.,Pedro Almodóvar,"Timothée Chalamet, Robert De Niro, Anthony Hopkins, Al Pacino, Leonardo DiCaprio",108500,
+tt1000287,An War 180,2003,R,89,"Documentary, Fantasy, Western",8.2,72.0,A thrilling documentary adventure.,Guillermo del Toro,"Denzel Washington, Cate Blanchett, Morgan Freeman, Johnny Depp",1770838,432.74
+tt1000984,Dark Empire 877,2002,PG,129,War,8.2,73.0,A critically acclaimed war masterpiece.,Hayao Miyazaki,"Margot Robbie, Brad Pitt, Emma Stone, Viola Davis, Harrison Ford",28846,10.23
+tt1000750,A Destiny 643,2019,PG-13,117,Thriller,8.2,95.0,A thriller film set in 2019.,Park Chan-wook,"Robert De Niro, Timothée Chalamet, Will Smith",13580,677.4
+tt1000075,Gladiator,1980,PG-13,141,"Horror, Comedy",8.2,70.0,An epic horror tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Denzel Washington, Viola Davis, Christian Bale, Florence Pugh",14266,131.65
+tt1000788,First Destiny 681,2001,PG,107,"Musical, Animation",8.2,95.0,A thrilling musical adventure.,Edgar Wright,"Jennifer Lawrence, Viola Davis, Samuel L. Jackson, Zendaya",53606,46.22
+tt1000093,Gandhi,1982,G,112,Musical,8.2,85.0,A musical film set in 1982.,Bong Joon-ho,"Timothée Chalamet, Matt Damon, Margot Robbie",193981,182.49
+tt1000077,Shakespeare in Love,1985,PG-13,124,"Family, War, Fantasy",8.2,92.0,A family film set in 1985.,Danny Boyle,"Margot Robbie, Will Smith, Robert De Niro, Florence Pugh, Morgan Freeman",27034,
+tt1000062,The Revenant,1991,PG-13,129,"Comedy, Western",8.2,,A thrilling comedy adventure.,Ryan Coogler,"Harrison Ford, Daniel Day-Lewis, Natalie Portman",33622,148.97
+tt1000057,Avatar: The Way of Water,1987,PG,103,"Musical, Documentary",8.2,,An epic musical tale directed by James Cameron.,James Cameron,"Harrison Ford, Florence Pugh, Meryl Streep, Kate Winslet",119856,54.62
+tt1000080,Braveheart,1980,R,104,"Drama, Mystery, Family",8.2,68.0,A thrilling drama adventure.,Edgar Wright,"Chris Hemsworth, Jack Nicholson, Natalie Portman, Tom Cruise, Jennifer Lawrence",153246,107.19
+tt1000728,The Legend 621,2008,R,75,"Mystery, Western",8.2,84.0,An epic mystery tale directed by Bong Joon-ho.,Bong Joon-ho,"Zendaya, Johnny Depp, Cate Blanchett, Natalie Portman, Chris Hemsworth",14146,
+tt1000721,An Journey 614,2022,PG,142,"Animation, Action",8.2,95.0,A animation film set in 2022.,Ava DuVernay,"Harrison Ford, Florence Pugh, Kate Winslet, Robert Downey Jr.",26120,316.14
+tt1000505,First Kingdom 398,2019,PG,117,"Biography, Mystery, Romance",8.2,75.0,A critically acclaimed biography masterpiece.,Christopher Nolan,"Mark Ruffalo, Brad Pitt, Timothée Chalamet, Florence Pugh, Tom Cruise",308464,225.6
+tt1000120,An Empire 13,1992,PG-13,130,"Sci-Fi, Family, Crime",8.2,72.0,A thrilling sci-fi adventure.,Ron Howard,"Johnny Depp, Margot Robbie, Matt Damon, Al Pacino",101722,126.87
+tt1000443,Secret Kingdom 336,2024,PG-13,131,"Crime, Comedy, Drama",8.2,,An epic crime tale directed by Christopher Nolan.,Christopher Nolan,"Cate Blanchett, Robert De Niro, Scarlett Johansson, Jack Nicholson",745112,287.21
+tt1000462,Last Kingdom 355,2003,R,146,"Musical, Family",8.2,83.0,A musical film set in 2003.,Alfred Hitchcock,"Denzel Washington, Will Smith, Leonardo DiCaprio",125636,177.65
+tt1000359,An Legend 252,2000,PG-13,111,Biography,8.2,97.0,A thrilling biography adventure.,Alfred Hitchcock,"Johnny Depp, Tom Hanks, Al Pacino, Emma Stone",428684,294.49
+tt1000275,A Mystery 168,2020,NC-17,149,"Crime, Thriller",8.2,82.0,A thrilling crime adventure.,Clint Eastwood,"Meryl Streep, Robert De Niro, Samuel L. Jackson",54658,186.68
+tt1000632,Final Story 525,2003,R,114,Documentary,8.2,97.0,An epic documentary tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Robert Downey Jr., Margot Robbie, Anthony Hopkins, Matt Damon",277762,251.71
+tt1000712,A Quest 605,2024,R,122,"Action, Mystery",8.2,70.0,A action film set in 2024.,Francis Ford Coppola,"Amy Adams, Morgan Freeman, Kate Winslet",18666,491.06
+tt1000519,The Kingdom 412,2013,PG-13,103,War,8.1,,An epic war tale directed by Ryan Coogler.,Ryan Coogler,"Robert Downey Jr., Scarlett Johansson, Anthony Hopkins, Morgan Freeman, Viola Davis",79734,916.56
+tt1000444,Lost Secrets 337,2001,PG-13,115,"Family, Crime",8.1,71.0,A family film set in 2001.,Frank Darabont,"Edward Norton, Morgan Freeman, Scarlett Johansson, Natalie Portman",149664,62.77
+tt1000014,The Green Mile,1940,PG-13,117,"Crime, Adventure",8.1,70.0,A crime film set in 1940.,Sam Mendes,"Keanu Reeves, Margot Robbie, Al Pacino, Daniel Day-Lewis",7820,
+tt1000349,Final Kingdom 242,2012,NC-17,88,"Fantasy, Drama, Documentary",8.1,85.0,An epic fantasy tale directed by Wes Anderson.,Wes Anderson,"Emma Stone, Cate Blanchett, Samuel L. Jackson",949114,
+tt1000947,Last Mystery 840,2024,PG-13,89,Animation,8.1,,A animation film set in 2024.,Hayao Miyazaki,"Emma Stone, Tom Hanks, Meryl Streep, Denzel Washington",20774,640.57
+tt1000000,The Shawshank Redemption,1950,G,129,"Romance, Musical",8.1,85.0,A romance film set in 1950.,Sam Mendes,"Emma Stone, Jennifer Lawrence, Natalie Portman, Zendaya, Denzel Washington",189823,156.84
+tt1000001,The Godfather,1970,R,150,Sci-Fi,8.1,75.0,An epic sci-fi tale directed by Taika Waititi.,Taika Waititi,"Florence Pugh, Meryl Streep, Daniel Day-Lewis, Denzel Washington",50569,7.41
+tt1000978,First Mystery 871,2016,R,137,"Comedy, Action, Thriller",8.1,,A comedy film set in 2016.,Edgar Wright,"Cate Blanchett, Robert De Niro, Al Pacino, Timothée Chalamet, Tom Hanks",48396,421.14
+tt1000020,The Lion King,1944,PG,110,"Romance, War",8.1,,An epic romance tale directed by Ridley Scott.,Ridley Scott,"Gary Oldman, Florence Pugh, Anthony Hopkins, Kate Winslet, Al Pacino",13668,
+tt1000333,Dark Legend 226,2015,PG-13,131,"Animation, Mystery",8.1,75.0,A critically acclaimed animation masterpiece.,Akira Kurosawa,"Natalie Portman, Timothée Chalamet, Viola Davis",479306,986.48
+tt1000898,Lost Awakening 791,2001,Not Rated,126,Thriller,8.1,88.0,A critically acclaimed thriller masterpiece.,Ridley Scott,"Robert De Niro, Robert Downey Jr., Timothée Chalamet",606704,297.96
+tt1000061,Mad Max: Fury Road,1984,PG-13,129,"Animation, Musical, Sci-Fi",8.1,74.0,A thrilling animation adventure.,Spike Lee,"Gary Oldman, Anthony Hopkins, Kate Winslet, Robert De Niro, Al Pacino",209676,214.86
+tt1000874,An Secrets 767,2008,PG-13,121,"Horror, Adventure, Fantasy",8.1,96.0,A critically acclaimed horror masterpiece.,David Fincher,"Robert De Niro, Scarlett Johansson, Al Pacino, Denzel Washington, Matt Damon",221414,153.64
+tt1000875,Final Journey 768,2013,PG-13,102,Crime,8.1,,A crime film set in 2013.,Francis Ford Coppola,"Jack Nicholson, Will Smith, Matt Damon",341124,
+tt1000735,A Love 628,2016,R,129,"Adventure, Biography",8.1,77.0,A critically acclaimed adventure masterpiece.,James Cameron,"Tom Hanks, Viola Davis, Natalie Portman",204140,
+tt1000696,An Revolution 589,2004,PG,110,Animation,8.1,72.0,A thrilling animation adventure.,James Cameron,"Robert Downey Jr., Matt Damon, Christian Bale, Daniel Day-Lewis, Mark Ruffalo",195488,474.92
+tt1000095,Ordinary People,1993,PG,80,"Mystery, Adventure, Biography",8.1,,A mystery film set in 1993.,Denis Villeneuve,"Chris Hemsworth, Robert Downey Jr., Brad Pitt, Matt Damon",289416,
+tt1000059,Thor: Ragnarok,1987,PG-13,149,"War, Adventure",8.1,71.0,A critically acclaimed war masterpiece.,Guillermo del Toro,"Denzel Washington, Zendaya, Harrison Ford",2500000,222.6
+tt1000072,Million Dollar Baby,1993,PG,104,"Family, Sci-Fi",8.1,86.0,A critically acclaimed family masterpiece.,Greta Gerwig,"Keanu Reeves, Natalie Portman, Johnny Depp",57820,123.67
+tt1000818,An Adventures 711,2023,PG-13,133,"Horror, Sci-Fi",8.1,,A critically acclaimed horror masterpiece.,Quentin Tarantino,"Jennifer Lawrence, Scarlett Johansson, Leonardo DiCaprio, Margot Robbie",50164,477.01
+tt1000437,Dark Destiny 330,2005,PG-13,136,"War, Western",8.1,,A critically acclaimed war masterpiece.,Denis Villeneuve,"Jack Nicholson, Daniel Day-Lewis, Meryl Streep, Jennifer Lawrence, Christian Bale",276470,97.99
+tt1000689,Final Kingdom 582,2020,Not Rated,117,Documentary,8.1,,An epic documentary tale directed by Stanley Kubrick.,Stanley Kubrick,"Chris Hemsworth, Edward Norton, Daniel Day-Lewis, Tom Hanks",480446,
+tt1000071,Crash,1995,G,133,"Drama, Comedy",8.1,82.0,A critically acclaimed drama masterpiece.,Guillermo del Toro,"Denzel Washington, Daniel Day-Lewis, Keanu Reeves",373846,
+tt1000962,A Legend 855,2019,R,109,"Biography, Sci-Fi",8.0,72.0,A biography film set in 2019.,Francis Ford Coppola,"Robert De Niro, Morgan Freeman, Tom Cruise, Robert Downey Jr.",33606,422.17
+tt1000042,The Grand Budapest Hotel,1978,PG-13,100,"Drama, Romance, War",8.0,74.0,An epic drama tale directed by Stanley Kubrick.,Stanley Kubrick,"Mark Ruffalo, Jennifer Lawrence, Tom Cruise, Christian Bale, Anthony Hopkins",41716,
+tt1000029,Django Unchained,1964,R,126,"Biography, Documentary",8.0,66.0,A critically acclaimed biography masterpiece.,Park Chan-wook,"Amy Adams, Margot Robbie, Natalie Portman",77580,196.37
+tt1000003,Pulp Fiction,1972,PG-13,130,"Musical, Documentary",8.0,81.0,A critically acclaimed musical masterpiece.,Hayao Miyazaki,"Margot Robbie, Christian Bale, Daniel Day-Lewis",17864,16.48
+tt1000028,Back to the Future,1961,Not Rated,103,Crime,8.0,,A critically acclaimed crime masterpiece.,James Cameron,"Amy Adams, Jennifer Lawrence, Natalie Portman, Daniel Day-Lewis, Mark Ruffalo",141814,273.15
+tt1000031,Toy Story,1971,PG-13,113,"Musical, Family",8.0,,An epic musical tale directed by Ryan Coogler.,Ryan Coogler,"Brad Pitt, Harrison Ford, Viola Davis",3999,283.32
+tt1000063,Birdman,1995,R,89,"Sci-Fi, Musical",8.0,,A sci-fi film set in 1995.,Quentin Tarantino,"Jack Nicholson, Emma Stone, Tom Hanks",216338,249.36
+tt1000596,Last Story 489,2012,NC-17,126,"Western, Action",8.0,92.0,An epic western tale directed by Ryan Coogler.,Ryan Coogler,"Emma Stone, Will Smith, Leonardo DiCaprio",3594,337.62
+tt1000621,First Love 514,2017,Not Rated,85,Horror,8.0,68.0,A horror film set in 2017.,Steven Spielberg,"Zendaya, Harrison Ford, Meryl Streep, Jennifer Lawrence, Jack Nicholson",4945,
+tt1000719,An Legend 612,2000,PG,113,Horror,8.0,88.0,A critically acclaimed horror masterpiece.,Taika Waititi,"Margot Robbie, Edward Norton, Anthony Hopkins",138210,
+tt1000089,Platoon,1995,PG-13,91,Crime,8.0,90.0,A critically acclaimed crime masterpiece.,George Lucas,"Harrison Ford, Tom Hanks, Anthony Hopkins",72846,87.53
+tt1000097,The Deer Hunter,1985,PG,110,"Mystery, Western, Drama",8.0,88.0,A mystery film set in 1985.,Coen Brothers,"Robert De Niro, Zendaya, Samuel L. Jackson, Jack Nicholson, Leonardo DiCaprio",128485,289.11
+tt1000096,Kramer vs. Kramer,1998,NC-17,125,"Action, Adventure, Mystery",8.0,75.0,An epic action tale directed by Wes Anderson.,Wes Anderson,"Jack Nicholson, Viola Davis, Johnny Depp, Timothée Chalamet, Robert De Niro",43818,298.31
+tt1000092,Terms of Endearment,1991,NC-17,123,Biography,8.0,66.0,A critically acclaimed biography masterpiece.,Ron Howard,"Cate Blanchett, Viola Davis, Harrison Ford",66483,
+tt1000552,Dark Mission 445,2013,R,123,Animation,8.0,78.0,A critically acclaimed animation masterpiece.,Ron Howard,"Brad Pitt, Anthony Hopkins, Matt Damon, Daniel Day-Lewis",13229,974.82
+tt1000380,A Empire 273,2013,PG-13,114,"Documentary, Biography, Drama",8.0,,A thrilling documentary adventure.,Christopher Nolan,"Tom Cruise, Robert De Niro, Al Pacino, Timothée Chalamet, Margot Robbie",47806,
+tt1000542,A Quest 435,2011,R,111,"Crime, Action, Family",8.0,67.0,A crime film set in 2011.,Ang Lee,"Samuel L. Jackson, Matt Damon, Al Pacino, Johnny Depp",66289,
+tt1000553,Final Mission 446,2007,R,142,"Animation, Horror",8.0,83.0,A animation film set in 2007.,David Fincher,"Natalie Portman, Al Pacino, Tom Hanks, Edward Norton",50156,402.57
+tt1000132,A Dreams 25,1991,PG,85,"Sci-Fi, Musical, Documentary",8.0,,A sci-fi film set in 1991.,Danny Boyle,"Meryl Streep, Robert De Niro, Samuel L. Jackson, Margot Robbie",50422,259.46
+tt1000586,An Mission 479,2000,R,152,"Documentary, Sci-Fi, Comedy",8.0,76.0,A documentary film set in 2000.,Peter Jackson,"Cate Blanchett, Edward Norton, Al Pacino, Robert Downey Jr., Scarlett Johansson",700778,45.63
+tt1000320,Final Chronicles 213,2008,R,132,"Adventure, Documentary",8.0,,An epic adventure tale directed by Coen Brothers.,Coen Brothers,"Robert De Niro, Jack Nicholson, Leonardo DiCaprio, Tom Cruise, Natalie Portman",80400,
+tt1000015,Parasite,1970,PG-13,105,Fantasy,8.0,68.0,An epic fantasy tale directed by Spike Lee.,Spike Lee,"Chris Hemsworth, Leonardo DiCaprio, Samuel L. Jackson, Florence Pugh",175405,78.17
+tt1000009,The Matrix,1949,R,127,"Biography, Western",8.0,84.0,A critically acclaimed biography masterpiece.,Pedro Almodóvar,"Cate Blanchett, Harrison Ford, Will Smith",23193,89.85
+tt1000956,Secret Love 849,2016,R,130,"Drama, Fantasy",7.9,,An epic drama tale directed by Taika Waititi.,Taika Waititi,"Mark Ruffalo, Keanu Reeves, Tom Cruise",23018,823.99
+tt1000951,An Love 844,2003,PG,124,Documentary,7.9,,A thrilling documentary adventure.,Robert Zemeckis,"Leonardo DiCaprio, Samuel L. Jackson, Matt Damon, Mark Ruffalo, Amy Adams",27728,
+tt1000045,Get Out,1960,PG-13,150,"Fantasy, Mystery",7.9,,A fantasy film set in 1960.,Sam Mendes,"Morgan Freeman, Cate Blanchett, Harrison Ford, Matt Damon",22160,210.01
+tt1000863,A Journey 756,2008,PG,118,"Family, Animation, Drama",7.9,65.0,A thrilling family adventure.,Clint Eastwood,"Emma Stone, Mark Ruffalo, Will Smith, Keanu Reeves",30153,133.74
+tt1000054,Spider-Man: No Way Home,1989,PG,143,"Sci-Fi, Mystery",7.9,68.0,A thrilling sci-fi adventure.,Greta Gerwig,"Matt Damon, Florence Pugh, Johnny Depp",152395,
+tt1000056,The Batman,1995,R,115,"Documentary, Musical, War",7.9,72.0,An epic documentary tale directed by Danny Boyle.,Danny Boyle,"Kate Winslet, Viola Davis, Christian Bale, Al Pacino, Tom Hanks",15767,245.49
+tt1000060,Wonder Woman,1990,Not Rated,132,Horror,7.9,,An epic horror tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Jack Nicholson, Brad Pitt, Gary Oldman, Denzel Washington, Will Smith",12011,
+tt1000082,Schindler's List,1982,PG,110,"Sci-Fi, Fantasy",7.9,,A sci-fi film set in 1982.,Jordan Peele,"Margot Robbie, Kate Winslet, Will Smith, Scarlett Johansson",507552,23.37
+tt1000226,Final Journey 119,2020,PG,138,"Drama, Horror, Fantasy",7.9,68.0,A thrilling drama adventure.,Sam Mendes,"Brad Pitt, Al Pacino, Anthony Hopkins, Tom Cruise, Scarlett Johansson",176752,417.81
+tt1000223,Last Revolution 116,2022,PG-13,141,"Drama, Comedy",7.9,,An epic drama tale directed by Spike Lee.,Spike Lee,"Florence Pugh, Jack Nicholson, Tom Hanks, Robert Downey Jr., Anthony Hopkins",2670,100.43
+tt1000615,Lost Chronicles 508,2012,PG,99,"Action, Fantasy",7.9,,A critically acclaimed action masterpiece.,Denis Villeneuve,"Edward Norton, Harrison Ford, Denzel Washington, Chris Hemsworth, Meryl Streep",16329,869.63
+tt1000034,Jurassic Park,1957,PG,113,"War, Adventure",7.9,76.0,A critically acclaimed war masterpiece.,Alfred Hitchcock,"Johnny Depp, Jennifer Lawrence, Cate Blanchett, Tom Cruise, Samuel L. Jackson",28204,89.57
+tt1000983,The Quest 876,2010,PG,87,Animation,7.9,,An epic animation tale directed by Frank Darabont.,Frank Darabont,"Emma Stone, Leonardo DiCaprio, Natalie Portman",192165,466.0
+tt1000017,The Departed,1978,R,112,"Family, Crime, Fantasy",7.9,,A family film set in 1978.,Stanley Kubrick,"Kate Winslet, Tom Cruise, Florence Pugh, Robert De Niro, Morgan Freeman",89920,212.07
+tt1000139,Dark Quest 32,1986,G,122,War,7.9,65.0,A war film set in 1986.,James Cameron,"Emma Stone, Keanu Reeves, Brad Pitt, Viola Davis",39753,
+tt1000549,Secret War 442,2019,PG,139,Family,7.9,67.0,A thrilling family adventure.,Wong Kar-wai,"Meryl Streep, Robert Downey Jr., Gary Oldman, Natalie Portman, Scarlett Johansson",2500000,
+tt1000131,Secret Adventures 24,1995,PG,156,"Adventure, Thriller",7.9,76.0,A thrilling adventure adventure.,Quentin Tarantino,"Jack Nicholson, Gary Oldman, Amy Adams",29620,
+tt1000516,Secret Quest 409,2012,PG-13,135,"Drama, Thriller",7.9,,An epic drama tale directed by Steven Spielberg.,Steven Spielberg,"Leonardo DiCaprio, Meryl Streep, Brad Pitt",51522,550.44
+tt1000496,Final Quest 389,2000,PG-13,89,"Drama, Thriller",7.9,79.0,A thrilling drama adventure.,Bong Joon-ho,"Tom Cruise, Keanu Reeves, Johnny Depp",26165,218.12
+tt1000480,An Mystery 373,2005,PG,133,"Romance, Sci-Fi",7.9,90.0,A thrilling romance adventure.,Francis Ford Coppola,"Harrison Ford, Matt Damon, Daniel Day-Lewis, Tom Hanks, Mark Ruffalo",78553,499.98
+tt1000467,Last Mystery 360,2002,R,130,"Western, Adventure",7.9,86.0,A western film set in 2002.,James Cameron,"Harrison Ford, Jennifer Lawrence, Natalie Portman, Christian Bale",176033,339.8
+tt1000352,Dark Quest 245,2007,G,119,"Western, Comedy",7.9,81.0,A critically acclaimed western masterpiece.,Ridley Scott,"Daniel Day-Lewis, Natalie Portman, Anthony Hopkins, Edward Norton",135320,454.59
+tt1000284,An Mission 177,2004,PG-13,107,Biography,7.9,,A thrilling biography adventure.,Wong Kar-wai,"Meryl Streep, Brad Pitt, Jack Nicholson",504214,
+tt1000269,Lost Dreams 162,2024,PG-13,110,Western,7.9,91.0,A critically acclaimed western masterpiece.,Greta Gerwig,"Harrison Ford, Scarlett Johansson, Anthony Hopkins, Amy Adams",15647,
+tt1000650,A Kingdom 543,2023,PG,84,"Thriller, Western",7.9,74.0,A thriller film set in 2023.,Steven Spielberg,"Scarlett Johansson, Kate Winslet, Florence Pugh, Amy Adams",15388,404.1
+tt1000299,Secret Awakening 192,2021,PG,122,"Western, Biography, Comedy",7.9,,A critically acclaimed western masterpiece.,Park Chan-wook,"Al Pacino, Daniel Day-Lewis, Matt Damon",17581,
+tt1000079,The English Patient,1989,PG-13,123,Biography,7.9,,A biography film set in 1989.,Akira Kurosawa,"Harrison Ford, Jennifer Lawrence, Johnny Depp",129033,
+tt1000690,Dark Empire 583,2008,Not Rated,139,"Comedy, War",7.9,79.0,A comedy film set in 2008.,Bong Joon-ho,"Samuel L. Jackson, Chris Hemsworth, Keanu Reeves, Harrison Ford, Jennifer Lawrence",68390,
+tt1000692,Final Empire 585,2013,PG,132,"Mystery, Thriller",7.9,74.0,A thrilling mystery adventure.,Steven Spielberg,"Margot Robbie, Scarlett Johansson, Robert De Niro, Robert Downey Jr., Emma Stone",48573,311.03
+tt1000098,Annie Hall,1993,PG-13,127,"Musical, Animation, Biography",7.9,74.0,A musical film set in 1993.,Alfred Hitchcock,"Scarlett Johansson, Christian Bale, Kate Winslet, Robert De Niro",230821,
+tt1000878,A Awakening 771,2024,PG-13,153,Romance,7.8,,A critically acclaimed romance masterpiece.,Akira Kurosawa,"Daniel Day-Lewis, Mark Ruffalo, Harrison Ford, Tom Cruise, Emma Stone",79694,983.71
+tt1000297,Secret Quest 190,2001,PG,130,"Comedy, Crime",7.8,,An epic comedy tale directed by Ava DuVernay.,Ava DuVernay,"Harrison Ford, Morgan Freeman, Amy Adams",345913,95.88
+tt1000296,Dark Destiny 189,2010,R,131,"Family, Crime",7.8,82.0,A thrilling family adventure.,Stanley Kubrick,"Timothée Chalamet, Denzel Washington, Keanu Reeves, Florence Pugh, Morgan Freeman",204991,155.33
+tt1000238,An Mystery 131,2002,PG,119,"Horror, Crime, Action",7.8,76.0,A horror film set in 2002.,Quentin Tarantino,"Zendaya, Meryl Streep, Johnny Depp, Chris Hemsworth, Timothée Chalamet",71064,13.22
+tt1000091,Amadeus,1987,PG,120,Fantasy,7.8,73.0,An epic fantasy tale directed by Quentin Tarantino.,Quentin Tarantino,"Anthony Hopkins, Zendaya, Matt Damon",71849,
+tt1000649,Lost Adventures 542,2008,PG-13,119,"Animation, Romance",7.8,78.0,An epic animation tale directed by Wes Anderson.,Wes Anderson,"Mark Ruffalo, Will Smith, Amy Adams, Robert Downey Jr.",55431,
+tt1000622,A Destiny 515,2016,PG-13,140,"War, Comedy",7.8,,A critically acclaimed war masterpiece.,Kathryn Bigelow,"Tom Hanks, Margot Robbie, Florence Pugh",11655,243.84
+tt1000656,Dark Mission 549,2015,G,116,"Sci-Fi, Adventure, Musical",7.8,69.0,A sci-fi film set in 2015.,Danny Boyle,"Johnny Depp, Amy Adams, Robert De Niro",145850,939.39
+tt1000599,Lost Journey 492,2012,R,104,"Fantasy, Thriller",7.8,,An epic fantasy tale directed by Akira Kurosawa.,Akira Kurosawa,"Amy Adams, Margot Robbie, Scarlett Johansson, Jennifer Lawrence, Jack Nicholson",61819,78.05
+tt1000423,Final War 316,2016,R,144,"Crime, Comedy, Musical",7.8,68.0,A thrilling crime adventure.,Francis Ford Coppola,"Keanu Reeves, Anthony Hopkins, Florence Pugh",149299,
+tt1000373,Lost Empire 266,2007,R,141,"Western, Sci-Fi",7.8,,A critically acclaimed western masterpiece.,Edgar Wright,"Florence Pugh, Amy Adams, Christian Bale, Natalie Portman",355238,297.95
+tt1000508,A Revolution 401,2016,R,112,Horror,7.8,,A thrilling horror adventure.,Ridley Scott,"Meryl Streep, Denzel Washington, Cate Blanchett, Daniel Day-Lewis",1011433,
+tt1000005,The Lord of the Rings: The Return of the King,1977,R,108,"Animation, Sci-Fi",7.8,67.0,A thrilling animation adventure.,Coen Brothers,"Morgan Freeman, Cate Blanchett, Tom Hanks",57557,159.65
+tt1000040,Alien,1964,PG,135,"Comedy, Family",7.8,72.0,A comedy film set in 1964.,Edgar Wright,"Johnny Depp, Anthony Hopkins, Margot Robbie, Florence Pugh, Jack Nicholson",294597,187.49
+tt1000900,Lost Dreams 793,2001,PG-13,127,"Animation, Adventure, Musical",7.8,,A animation film set in 2001.,Sam Mendes,"Margot Robbie, Kate Winslet, Brad Pitt, Edward Norton, Matt Damon",1224943,
+tt1000065,Argo,2000,R,127,"Fantasy, War",7.8,79.0,An epic fantasy tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Natalie Portman, Amy Adams, Robert De Niro",75401,121.92
+tt1000068,Slumdog Millionaire,1982,PG-13,92,Thriller,7.8,70.0,A critically acclaimed thriller masterpiece.,Edgar Wright,"Edward Norton, Margot Robbie, Brad Pitt, Jennifer Lawrence",77786,
+tt1000053,No Time to Die,1997,PG-13,133,"Horror, Musical",7.8,,An epic horror tale directed by Jordan Peele.,Jordan Peele,"Anthony Hopkins, Daniel Day-Lewis, Morgan Freeman, Zendaya, Emma Stone",194975,101.17
+tt1000783,A Secrets 676,2006,PG,112,"Thriller, Family",7.8,77.0,A thrilling thriller adventure.,Edgar Wright,"Al Pacino, Robert De Niro, Jennifer Lawrence",151071,497.82
+tt1000861,An Revolution 754,2021,R,144,"Sci-Fi, Romance, Crime",7.8,86.0,An epic sci-fi tale directed by Taika Waititi.,Taika Waititi,"Harrison Ford, Mark Ruffalo, Margot Robbie, Natalie Portman, Emma Stone",23423,779.9
+tt1000823,A Awakening 716,2001,PG,115,"Action, Documentary",7.8,,An epic action tale directed by Ridley Scott.,Ridley Scott,"Robert De Niro, Brad Pitt, Johnny Depp, Jack Nicholson",2075699,168.77
+tt1000791,Secret Revolution 684,2014,PG,130,"Documentary, Crime",7.8,69.0,A critically acclaimed documentary masterpiece.,Bong Joon-ho,"Cate Blanchett, Florence Pugh, Emma Stone, Mark Ruffalo, Gary Oldman",525838,359.71
+tt1000809,Secret Secrets 702,2001,G,118,Western,7.8,88.0,A thrilling western adventure.,Stanley Kubrick,"Florence Pugh, Robert De Niro, Samuel L. Jackson, Margot Robbie",36275,410.67
+tt1000230,An Adventures 123,2011,PG,112,"Adventure, Crime",7.8,,An epic adventure tale directed by Danny Boyle.,Danny Boyle,"Will Smith, Gary Oldman, Scarlett Johansson",11830,418.09
+tt1000318,Lost Legend 211,2013,R,118,Musical,7.8,92.0,A musical film set in 2013.,Martin Scorsese,"Jack Nicholson, Meryl Streep, Keanu Reeves",100116,794.83
+tt1000347,First War 240,2023,R,110,"Western, Drama",7.8,65.0,A critically acclaimed western masterpiece.,Denis Villeneuve,"Kate Winslet, Brad Pitt, Leonardo DiCaprio, Daniel Day-Lewis, Cate Blanchett",56513,
+tt1000884,Secret Quest 777,2005,PG,130,"Family, Horror",7.7,87.0,A thrilling family adventure.,Hayao Miyazaki,"Tom Cruise, Florence Pugh, Tom Hanks",22320,59.64
+tt1000849,A Mission 742,2013,PG,108,"Crime, Musical, Documentary",7.7,,A critically acclaimed crime masterpiece.,Edgar Wright,"Matt Damon, Anthony Hopkins, Meryl Streep, Chris Hemsworth, Scarlett Johansson",1373213,197.06
+tt1000179,Lost Mission 72,1996,PG-13,112,"Horror, Western, Animation",7.7,82.0,A critically acclaimed horror masterpiece.,Coen Brothers,"Emma Stone, Tom Hanks, Amy Adams, Morgan Freeman",25201,
+tt1000046,Black Panther,1969,R,136,Romance,7.7,,A critically acclaimed romance masterpiece.,Francis Ford Coppola,"Viola Davis, Brad Pitt, Chris Hemsworth, Jennifer Lawrence",50532,
+tt1000064,12 Years a Slave,1985,PG,124,"Crime, Sci-Fi, Romance",7.7,,A critically acclaimed crime masterpiece.,Spike Lee,"Florence Pugh, Samuel L. Jackson, Al Pacino",46580,5.2
+tt1000066,The Artist,1994,PG,121,"War, Sci-Fi, Musical",7.7,86.0,A critically acclaimed war masterpiece.,Edgar Wright,"Jack Nicholson, Margot Robbie, Florence Pugh",102403,210.2
+tt1000845,Lost Mystery 738,2001,R,114,Musical,7.7,77.0,A thrilling musical adventure.,Edgar Wright,"Jack Nicholson, Edward Norton, Zendaya, Viola Davis, Tom Hanks",237442,182.23
+tt1000083,Unforgiven,1984,PG,128,"Sci-Fi, Thriller",7.7,76.0,An epic sci-fi tale directed by Park Chan-wook.,Park Chan-wook,"Gary Oldman, Morgan Freeman, Harrison Ford, Zendaya",142338,
+tt1000976,First Quest 869,2003,R,151,Crime,7.7,69.0,A thrilling crime adventure.,Jordan Peele,"Timothée Chalamet, Morgan Freeman, Samuel L. Jackson, Cate Blanchett, Will Smith",220517,345.98
+tt1000279,The Secrets 172,2020,R,100,Drama,7.7,88.0,A thrilling drama adventure.,Coen Brothers,"Anthony Hopkins, Robert De Niro, Harrison Ford, Chris Hemsworth",43434,229.99
+tt1000579,Secret Love 472,2013,PG,98,Comedy,7.7,88.0,A thrilling comedy adventure.,Christopher Nolan,"Zendaya, Amy Adams, Leonardo DiCaprio, Viola Davis, Jennifer Lawrence",779119,218.64
+tt1000294,Lost Mission 187,2015,PG-13,110,"Thriller, Western",7.7,64.0,A critically acclaimed thriller masterpiece.,Stanley Kubrick,"Leonardo DiCaprio, Gary Oldman, Natalie Portman, Brad Pitt, Zendaya",166514,
+tt1000271,An Quest 164,2003,PG-13,123,"Fantasy, Crime",7.7,83.0,A fantasy film set in 2003.,Denis Villeneuve,"Mark Ruffalo, Leonardo DiCaprio, Robert De Niro, Gary Oldman",6448,296.25
+tt1000129,Final Mystery 22,1983,PG-13,157,"Romance, Biography, Mystery",7.7,90.0,An epic romance tale directed by James Cameron.,James Cameron,"Meryl Streep, Leonardo DiCaprio, Brad Pitt",15120,
+tt1000559,First War 452,2023,Not Rated,150,Crime,7.7,,A thrilling crime adventure.,Ryan Coogler,"Mark Ruffalo, Robert Downey Jr., Emma Stone, Viola Davis, Edward Norton",31337,170.25
+tt1000378,First Journey 271,2015,PG-13,115,Biography,7.7,87.0,A biography film set in 2015.,Ridley Scott,"Cate Blanchett, Kate Winslet, Gary Oldman",356541,
+tt1000409,Secret Mystery 302,2000,Not Rated,117,War,7.7,65.0,A war film set in 2000.,Coen Brothers,"Christian Bale, Timothée Chalamet, Chris Hemsworth",1649172,
+tt1000346,An Kingdom 239,2008,NC-17,124,"Musical, Family, War",7.7,81.0,A musical film set in 2008.,Ava DuVernay,"Edward Norton, Jack Nicholson, Christian Bale, Samuel L. Jackson, Keanu Reeves",748548,
+tt1000150,Dark Revolution 43,1989,PG-13,118,"Documentary, Family",7.7,92.0,A documentary film set in 1989.,Martin Scorsese,"Cate Blanchett, Margot Robbie, Keanu Reeves, Al Pacino",8188,157.48
+tt1000544,First Quest 437,2009,Not Rated,107,"Musical, Adventure",7.7,,A musical film set in 2009.,Ang Lee,"Anthony Hopkins, Leonardo DiCaprio, Mark Ruffalo, Cate Blanchett",36237,181.15
+tt1000502,Dark Journey 395,2018,G,133,Animation,7.7,,A animation film set in 2018.,Bong Joon-ho,"Edward Norton, Tom Hanks, Cate Blanchett",68364,191.29
+tt1000499,The Empire 392,2005,PG-13,144,"Horror, Thriller, War",7.7,65.0,An epic horror tale directed by Akira Kurosawa.,Akira Kurosawa,"Brad Pitt, Margot Robbie, Daniel Day-Lewis, Keanu Reeves, Anthony Hopkins",145625,474.7
+tt1000124,A Destiny 17,1984,NC-17,149,"Crime, Adventure",7.7,67.0,A crime film set in 1984.,Sam Mendes,"Scarlett Johansson, Brad Pitt, Natalie Portman",907953,270.91
+tt1000723,Dark Destiny 616,2024,R,129,"Drama, Sci-Fi, Comedy",7.7,73.0,A thrilling drama adventure.,Jordan Peele,"Kate Winslet, Natalie Portman, Matt Damon, Margot Robbie",53427,578.84
+tt1000111,A Mystery 4,1992,R,106,"Drama, Adventure, Crime",7.7,,A drama film set in 1992.,Bong Joon-ho,"Jennifer Lawrence, Meryl Streep, Emma Stone",48021,256.13
+tt1000246,Lost Destiny 139,2005,PG,153,"Mystery, Action",7.7,67.0,An epic mystery tale directed by Stanley Kubrick.,Stanley Kubrick,"Jennifer Lawrence, Florence Pugh, Kate Winslet, Chris Hemsworth",3784,433.65
+tt1000081,Forrest Gump,1984,R,137,Fantasy,7.7,74.0,An epic fantasy tale directed by George Lucas.,George Lucas,"Florence Pugh, Emma Stone, Al Pacino, Jack Nicholson",21750,
+tt1000661,An Story 554,2012,R,137,"Biography, Romance",7.7,77.0,A thrilling biography adventure.,Jordan Peele,"Al Pacino, Natalie Portman, Christian Bale, Will Smith, Johnny Depp",129266,
+tt1000094,Chariots of Fire,1984,R,151,"Biography, Comedy, Family",7.7,,An epic biography tale directed by Sam Mendes.,Sam Mendes,"Jack Nicholson, Timothée Chalamet, Chris Hemsworth, Margot Robbie, Brad Pitt",880921,
+tt1000088,The Last Emperor,1993,PG-13,114,Horror,7.7,,A thrilling horror adventure.,Peter Jackson,"Jennifer Lawrence, Robert Downey Jr., Viola Davis",692883,68.34
+tt1000796,An Dreams 689,2017,PG-13,137,Thriller,7.7,,An epic thriller tale directed by Danny Boyle.,Danny Boyle,"Mark Ruffalo, Amy Adams, Will Smith",3754,886.53
+tt1000869,The Mission 762,2013,G,75,"Animation, Family",7.6,76.0,A critically acclaimed animation masterpiece.,Spike Lee,"Viola Davis, Edward Norton, Tom Cruise",405271,
+tt1000950,Lost Chronicles 843,2019,R,109,"Biography, Drama",7.6,,A critically acclaimed biography masterpiece.,George Lucas,"Brad Pitt, Robert De Niro, Denzel Washington",11415,
+tt1000828,An Chronicles 721,2017,PG-13,109,"Horror, Biography",7.6,,A critically acclaimed horror masterpiece.,David Fincher,"Samuel L. Jackson, Timothée Chalamet, Cate Blanchett",33500,646.3
+tt1000841,Lost Dreams 734,2000,PG,113,"Fantasy, Mystery, Musical",7.6,81.0,A fantasy film set in 2000.,Taika Waititi,"Daniel Day-Lewis, Tom Cruise, Scarlett Johansson, Zendaya, Gary Oldman",123504,167.38
+tt1000776,Last Kingdom 669,2024,PG,133,Action,7.6,70.0,A action film set in 2024.,Stanley Kubrick,"Harrison Ford, Matt Damon, Margot Robbie, Denzel Washington",38524,699.85
+tt1000821,An Legend 714,2004,R,95,Western,7.6,71.0,An epic western tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Emma Stone, Will Smith, Cate Blanchett, Robert Downey Jr.",226598,197.19
+tt1000043,Moonlight,1957,PG-13,109,"War, Romance",7.6,70.0,A thrilling war adventure.,Francis Ford Coppola,"Samuel L. Jackson, Jennifer Lawrence, Viola Davis, Cate Blanchett",39815,23.66
+tt1000187,Final Adventures 80,1984,PG-13,161,"Documentary, Mystery, Musical",7.6,81.0,A critically acclaimed documentary masterpiece.,Robert Zemeckis,"Denzel Washington, Daniel Day-Lewis, Jack Nicholson, Christian Bale, Natalie Portman",22029,
+tt1000006,Fight Club,1966,R,101,"Musical, Action",7.6,66.0,A thrilling musical adventure.,George Lucas,"Mark Ruffalo, Margot Robbie, Amy Adams",323724,126.06
+tt1000033,Titanic,1940,R,115,Musical,7.6,84.0,A musical film set in 1940.,Steven Spielberg,"Harrison Ford, Mark Ruffalo, Gary Oldman",19114,139.52
+tt1000335,Dark Revolution 228,2012,PG-13,127,"Comedy, Thriller",7.6,63.0,An epic comedy tale directed by Spike Lee.,Spike Lee,"Tom Cruise, Amy Adams, Edward Norton",155244,
+tt1000348,Last Awakening 241,2003,PG-13,116,"Sci-Fi, War, Mystery",7.6,66.0,A sci-fi film set in 2003.,Ridley Scott,"Matt Damon, Margot Robbie, Robert Downey Jr., Cate Blanchett",159290,263.02
+tt1000991,An Kingdom 884,2005,Not Rated,159,"Adventure, Comedy",7.6,,A adventure film set in 2005.,Taika Waititi,"Timothée Chalamet, Harrison Ford, Kate Winslet",70166,318.3
+tt1000117,First Empire 10,1989,PG-13,149,"Action, Crime",7.6,,An epic action tale directed by Wes Anderson.,Wes Anderson,"Harrison Ford, Amy Adams, Zendaya, Keanu Reeves, Chris Hemsworth",28261,128.48
+tt1000125,A Love 18,1983,R,104,Horror,7.6,78.0,A thrilling horror adventure.,Quentin Tarantino,"Denzel Washington, Jack Nicholson, Tom Hanks, Morgan Freeman, Gary Oldman",47296,196.91
+tt1000537,Final Revolution 430,2002,R,88,"Musical, Horror",7.6,88.0,A critically acclaimed musical masterpiece.,Wong Kar-wai,"Brad Pitt, Morgan Freeman, Viola Davis, Meryl Streep, Florence Pugh",53276,358.22
+tt1000272,An Kingdom 165,2014,G,125,Action,7.6,85.0,An epic action tale directed by Stanley Kubrick.,Stanley Kubrick,"Natalie Portman, Morgan Freeman, Al Pacino",67739,738.99
+tt1000604,Dark Adventures 497,2018,PG-13,152,Thriller,7.6,72.0,A critically acclaimed thriller masterpiece.,Quentin Tarantino,"Harrison Ford, Timothée Chalamet, Tom Hanks, Scarlett Johansson, Robert Downey Jr.",40022,793.27
+tt1000737,Lost Revolution 630,2011,PG,132,Comedy,7.6,76.0,A comedy film set in 2011.,Pedro Almodóvar,"Gary Oldman, Harrison Ford, Kate Winslet, Brad Pitt",30389,
+tt1000985,The Revolution 878,2006,PG-13,154,"Romance, Horror",7.6,,A romance film set in 2006.,David Fincher,"Margot Robbie, Denzel Washington, Johnny Depp, Daniel Day-Lewis, Robert Downey Jr.",41989,446.79
+tt1000404,Dark Mystery 297,2006,R,105,Horror,7.6,,An epic horror tale directed by Ryan Coogler.,Ryan Coogler,"Al Pacino, Chris Hemsworth, Scarlett Johansson",38467,118.55
+tt1000744,Lost War 637,2017,PG,80,Documentary,7.6,,An epic documentary tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Johnny Depp, Scarlett Johansson, Tom Hanks",9732,
+tt1000090,Out of Africa,1995,G,148,"Horror, Adventure",7.6,,A critically acclaimed horror masterpiece.,Wes Anderson,"Will Smith, Denzel Washington, Amy Adams",342746,171.87
+tt1000074,A Beautiful Mind,1984,PG-13,133,Biography,7.6,,A biography film set in 1984.,Clint Eastwood,"Florence Pugh, Brad Pitt, Will Smith",17698,
+tt1000047,Joker,1967,PG-13,146,Musical,7.6,,A musical film set in 1967.,Frank Darabont,"Gary Oldman, Harrison Ford, Meryl Streep, Florence Pugh, Al Pacino",47388,
+tt1000940,First Story 833,2005,PG-13,114,"Crime, Western",7.6,73.0,An epic crime tale directed by Wong Kar-wai.,Wong Kar-wai,"Margot Robbie, Samuel L. Jackson, Natalie Portman, Tom Hanks",55639,
+tt1000477,Dark Adventures 370,2018,NC-17,136,"Animation, War, Adventure",7.6,65.0,A critically acclaimed animation masterpiece.,Alfred Hitchcock,"Amy Adams, Matt Damon, Denzel Washington, Morgan Freeman",24968,796.22
+tt1000191,First Kingdom 84,1984,PG,115,"Comedy, Crime",7.5,72.0,A comedy film set in 1984.,Alfred Hitchcock,"Robert De Niro, Amy Adams, Mark Ruffalo",1302,
+tt1000894,Last Dreams 787,2022,G,113,Adventure,7.5,61.0,A critically acclaimed adventure masterpiece.,Kathryn Bigelow,"Zendaya, Al Pacino, Meryl Streep, Christian Bale",98971,496.0
+tt1000812,First Destiny 705,2021,PG,117,Adventure,7.5,72.0,An epic adventure tale directed by Steven Spielberg.,Steven Spielberg,"Amy Adams, Johnny Depp, Will Smith, Timothée Chalamet",31096,
+tt1000192,A Mission 85,1996,PG-13,124,Horror,7.5,64.0,A thrilling horror adventure.,Stanley Kubrick,"Anthony Hopkins, Chris Hemsworth, Scarlett Johansson, Jennifer Lawrence, Robert Downey Jr.",6516,
+tt1000938,An Revolution 831,2024,R,156,Comedy,7.5,81.0,A comedy film set in 2024.,David Fincher,"Anthony Hopkins, Leonardo DiCaprio, Christian Bale, Florence Pugh",123389,346.51
+tt1000523,Last Dreams 416,2011,PG,109,"War, Mystery",7.5,86.0,A thrilling war adventure.,Coen Brothers,"Gary Oldman, Mark Ruffalo, Viola Davis, Harrison Ford",9123,217.68
+tt1000493,Lost Secrets 386,2022,Not Rated,111,"Documentary, Action, Western",7.5,90.0,An epic documentary tale directed by George Lucas.,George Lucas,"Matt Damon, Robert De Niro, Florence Pugh",34226,179.08
+tt1000521,Dark Awakening 414,2013,R,137,"Romance, Biography",7.5,,An epic romance tale directed by Spike Lee.,Spike Lee,"Florence Pugh, Samuel L. Jackson, Robert De Niro, Leonardo DiCaprio",39261,336.96
+tt1000302,Lost Chronicles 195,2004,PG-13,92,"Horror, Fantasy",7.5,,A thrilling horror adventure.,Kathryn Bigelow,"Johnny Depp, Zendaya, Robert Downey Jr.",157664,
+tt1000485,Lost Secrets 378,2013,PG-13,84,"Adventure, Animation",7.5,,A critically acclaimed adventure masterpiece.,Clint Eastwood,"Edward Norton, Johnny Depp, Harrison Ford, Natalie Portman, Robert De Niro",106057,134.93
+tt1000820,Dark Mission 713,2013,PG,121,"Romance, Horror, Crime",7.5,,A thrilling romance adventure.,Steven Spielberg,"Gary Oldman, Al Pacino, Florence Pugh",123423,
+tt1000803,The War 696,2002,G,97,"Comedy, Mystery, Thriller",7.5,78.0,A critically acclaimed comedy masterpiece.,Ridley Scott,"Jennifer Lawrence, Robert De Niro, Matt Damon",601329,
+tt1000802,Final War 695,2021,PG-13,94,"Documentary, War",7.5,68.0,An epic documentary tale directed by Ava DuVernay.,Ava DuVernay,"Zendaya, Samuel L. Jackson, Mark Ruffalo",202216,193.82
+tt1000620,Dark Destiny 513,2008,PG,117,Adventure,7.5,61.0,A thrilling adventure adventure.,Quentin Tarantino,"Morgan Freeman, Meryl Streep, Matt Damon",196857,252.52
+tt1000683,First War 576,2003,R,123,"Thriller, Animation",7.5,,A thrilling thriller adventure.,Christopher Nolan,"Margot Robbie, Brad Pitt, Keanu Reeves",16306,50.49
+tt1000640,An Empire 533,2001,PG-13,80,"Fantasy, Biography",7.5,69.0,A critically acclaimed fantasy masterpiece.,Denis Villeneuve,"Scarlett Johansson, Robert Downey Jr., Viola Davis, Daniel Day-Lewis",11978,138.91
+tt1000624,First Story 517,2023,R,113,"Crime, Animation",7.5,63.0,A thrilling crime adventure.,Martin Scorsese,"Johnny Depp, Anthony Hopkins, Al Pacino, Robert De Niro, Scarlett Johansson",427394,294.93
+tt1000594,Last Secrets 487,2007,PG-13,89,"Western, Thriller",7.5,69.0,An epic western tale directed by Steven Spielberg.,Steven Spielberg,"Johnny Depp, Jennifer Lawrence, Christian Bale",67755,
+tt1000671,First Story 564,2010,PG,101,Crime,7.5,71.0,A critically acclaimed crime masterpiece.,Kathryn Bigelow,"Kate Winslet, Samuel L. Jackson, Al Pacino, Viola Davis",44768,419.28
+tt1000663,The Love 556,2006,PG-13,128,"Drama, Crime",7.5,,A drama film set in 2006.,George Lucas,"Leonardo DiCaprio, Chris Hemsworth, Timothée Chalamet",185616,97.71
+tt1000104,Patton,1993,R,136,"Family, Action",7.5,87.0,A family film set in 1993.,George Lucas,"Harrison Ford, Amy Adams, Jennifer Lawrence, Chris Hemsworth",424309,
+tt1000461,Lost Revolution 354,2003,R,107,Action,7.5,72.0,A action film set in 2003.,Bong Joon-ho,"Gary Oldman, Kate Winslet, Jack Nicholson, Christian Bale",93801,409.04
+tt1000353,First Revolution 246,2001,G,112,"Biography, Action",7.5,68.0,A biography film set in 2001.,Hayao Miyazaki,"Anthony Hopkins, Chris Hemsworth, Daniel Day-Lewis, Florence Pugh, Brad Pitt",1000,466.22
+tt1000968,First Dreams 861,2017,PG,89,"Crime, Mystery",7.5,71.0,An epic crime tale directed by Pedro Almodóvar.,Pedro Almodóvar,"Mark Ruffalo, Tom Cruise, Brad Pitt, Gary Oldman, Meryl Streep",32071,268.63
+tt1000016,Gladiator,1969,PG-13,126,"Romance, Thriller",7.5,,A thrilling romance adventure.,Kathryn Bigelow,"Scarlett Johansson, Brad Pitt, Amy Adams, Johnny Depp",58413,124.6
+tt1000326,Last Kingdom 219,2003,G,88,Sci-Fi,7.5,70.0,A thrilling sci-fi adventure.,Quentin Tarantino,"Viola Davis, Tom Hanks, Matt Damon",194599,249.78
+tt1000899,Final Revolution 792,2015,NC-17,93,"Family, Romance",7.4,60.0,An epic family tale directed by Guillermo del Toro.,Guillermo del Toro,"Meryl Streep, Florence Pugh, Christian Bale, Daniel Day-Lewis",439503,70.08
+tt1000954,An Mission 847,2024,PG,97,Animation,7.4,84.0,A animation film set in 2024.,Edgar Wright,"Zendaya, Florence Pugh, Robert Downey Jr.",110515,236.36
+tt1000004,Schindler's List,1972,PG-13,124,Drama,7.4,,An epic drama tale directed by James Cameron.,James Cameron,"Chris Hemsworth, Tom Hanks, Amy Adams, Samuel L. Jackson",2701,214.08
+tt1000216,An Quest 109,2024,R,115,"Thriller, Fantasy",7.4,63.0,A critically acclaimed thriller masterpiece.,Christopher Nolan,"Anthony Hopkins, Denzel Washington, Chris Hemsworth, Tom Cruise, Meryl Streep",958796,441.1
+tt1000229,Final Revolution 122,2003,PG,112,"Horror, Fantasy, Documentary",7.4,,A thrilling horror adventure.,Steven Spielberg,"Al Pacino, Amy Adams, Brad Pitt, Keanu Reeves",116587,22.84
+tt1000228,Last Secrets 121,2024,PG,95,"Mystery, Comedy, Thriller",7.4,65.0,A critically acclaimed mystery masterpiece.,Peter Jackson,"Tom Hanks, Margot Robbie, Gary Oldman, Chris Hemsworth, Kate Winslet",41752,467.18
+tt1000814,First Mystery 707,2002,PG,94,"Romance, Sci-Fi",7.4,69.0,A critically acclaimed romance masterpiece.,Akira Kurosawa,"Gary Oldman, Viola Davis, Leonardo DiCaprio",28156,
+tt1000826,An Destiny 719,2022,NC-17,93,Fantasy,7.4,80.0,A critically acclaimed fantasy masterpiece.,Ridley Scott,"Margot Robbie, Anthony Hopkins, Daniel Day-Lewis, Tom Hanks, Keanu Reeves",24129,30.77
+tt1000203,First Legend 96,2019,PG-13,149,"Action, Family",7.4,,A critically acclaimed action masterpiece.,Peter Jackson,"Harrison Ford, Jack Nicholson, Brad Pitt, Viola Davis, Scarlett Johansson",55084,485.13
+tt1000893,An Mystery 786,2005,PG,114,"Comedy, Thriller",7.4,,A comedy film set in 2005.,Christopher Nolan,"Harrison Ford, Edward Norton, Viola Davis",38060,303.01
+tt1000873,First Mission 766,2018,G,149,"Action, Animation, Biography",7.4,75.0,A action film set in 2018.,Wes Anderson,"Christian Bale, Al Pacino, Mark Ruffalo",195552,303.56
+tt1000896,The Adventures 789,2009,PG-13,135,"Adventure, Documentary, Thriller",7.4,,A thrilling adventure adventure.,Wes Anderson,"Robert Downey Jr., Meryl Streep, Daniel Day-Lewis, Timothée Chalamet, Christian Bale",13029,236.54
+tt1000905,Final Destiny 798,2001,PG,77,"Horror, Animation",7.4,72.0,An epic horror tale directed by George Lucas.,George Lucas,"Meryl Streep, Scarlett Johansson, Kate Winslet",225899,
+tt1000697,A Mystery 590,2013,PG-13,126,Biography,7.4,,A critically acclaimed biography masterpiece.,Jordan Peele,"Harrison Ford, Daniel Day-Lewis, Scarlett Johansson, Viola Davis, Emma Stone",10848,
+tt1000771,Dark Story 664,2005,Not Rated,129,Crime,7.4,,An epic crime tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Johnny Depp, Florence Pugh, Matt Damon, Kate Winslet, Keanu Reeves",112688,314.23
+tt1000759,Secret Mystery 652,2022,R,97,"Horror, Sci-Fi",7.4,61.0,A critically acclaimed horror masterpiece.,Frank Darabont,"Daniel Day-Lewis, Brad Pitt, Anthony Hopkins, Jack Nicholson",119836,439.7
+tt1000702,First War 595,2002,R,101,"Documentary, Musical",7.4,82.0,A thrilling documentary adventure.,Francis Ford Coppola,"Samuel L. Jackson, Harrison Ford, Morgan Freeman, Tom Hanks",36573,25.84
+tt1000746,Last Empire 639,2005,PG-13,111,Sci-Fi,7.4,75.0,A critically acclaimed sci-fi masterpiece.,Ang Lee,"Will Smith, Denzel Washington, Daniel Day-Lewis",70181,430.88
+tt1000669,A Revolution 562,2000,PG-13,103,Western,7.4,,A western film set in 2000.,Stanley Kubrick,"Emma Stone, Al Pacino, Morgan Freeman, Matt Damon, Margot Robbie",244349,170.37
+tt1000567,A War 460,2010,PG-13,129,Western,7.4,69.0,A western film set in 2010.,James Cameron,"Jack Nicholson, Tom Hanks, Scarlett Johansson, Denzel Washington",316332,33.07
+tt1000574,A Story 467,2005,PG,134,"Biography, Horror",7.4,72.0,An epic biography tale directed by Robert Zemeckis.,Robert Zemeckis,"Zendaya, Edward Norton, Natalie Portman",14718,243.36
+tt1000289,Lost Chronicles 182,2005,R,126,"Comedy, Fantasy",7.4,66.0,A critically acclaimed comedy masterpiece.,Jordan Peele,"Cate Blanchett, Margot Robbie, Scarlett Johansson, Morgan Freeman",1221153,24.24
+tt1000286,Final Journey 179,2014,R,108,"Action, Adventure",7.4,75.0,An epic action tale directed by Stanley Kubrick.,Stanley Kubrick,"Chris Hemsworth, Zendaya, Gary Oldman, Leonardo DiCaprio, Mark Ruffalo",81176,469.66
+tt1000298,A Quest 191,2024,PG,147,War,7.4,76.0,A war film set in 2024.,Francis Ford Coppola,"Zendaya, Kate Winslet, Viola Davis, Keanu Reeves",46598,182.83
+tt1000657,Secret Legend 550,2006,PG-13,70,"Action, Western",7.4,85.0,An epic action tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Mark Ruffalo, Scarlett Johansson, Zendaya, Leonardo DiCaprio",80186,273.49
+tt1000637,First Legend 530,2023,PG-13,164,"Mystery, Adventure",7.4,81.0,A thrilling mystery adventure.,Spike Lee,"Keanu Reeves, Robert De Niro, Margot Robbie, Meryl Streep",126914,
+tt1000633,An Dreams 526,2023,PG,114,"War, Documentary",7.4,74.0,A war film set in 2023.,Jordan Peele,"Zendaya, Robert Downey Jr., Christian Bale",36289,
+tt1000654,An Adventures 547,2003,PG-13,130,Documentary,7.4,,A thrilling documentary adventure.,Robert Zemeckis,"Daniel Day-Lewis, Leonardo DiCaprio, Robert Downey Jr., Morgan Freeman",137779,217.85
+tt1000280,Secret Dreams 173,2014,PG,119,Mystery,7.4,,An epic mystery tale directed by Martin Scorsese.,Martin Scorsese,"Morgan Freeman, Natalie Portman, Tom Cruise, Emma Stone",11113,
+tt1000257,First Secrets 150,2019,PG,108,"Musical, Action",7.4,73.0,A thrilling musical adventure.,Ridley Scott,"Leonardo DiCaprio, Johnny Depp, Kate Winslet, Harrison Ford, Robert Downey Jr.",257514,
+tt1000105,Midnight Cowboy,1981,PG,120,"Sci-Fi, Thriller, Western",7.4,80.0,A thrilling sci-fi adventure.,David Fincher,"Cate Blanchett, Brad Pitt, Meryl Streep",22556,270.63
+tt1000709,Last Mission 602,2008,PG-13,142,Crime,7.4,62.0,A crime film set in 2008.,Park Chan-wook,"Leonardo DiCaprio, Tom Cruise, Scarlett Johansson, Cate Blanchett, Florence Pugh",175831,367.09
+tt1000109,Lost Mission 2,1991,R,135,"Horror, Musical",7.4,72.0,A critically acclaimed horror masterpiece.,Alfred Hitchcock,"Brad Pitt, Chris Hemsworth, Kate Winslet",153663,246.13
+tt1000664,Dark War 557,2008,PG-13,143,Horror,7.4,,A horror film set in 2008.,Sam Mendes,"Samuel L. Jackson, Will Smith, Denzel Washington",101434,16.37
+tt1000528,The Mission 421,2001,PG-13,128,Adventure,7.4,,A critically acclaimed adventure masterpiece.,Christopher Nolan,"Edward Norton, Emma Stone, Mark Ruffalo, Samuel L. Jackson",78015,
+tt1000148,Lost Mystery 41,1996,PG,93,"Family, Animation",7.4,,An epic family tale directed by Wes Anderson.,Wes Anderson,"Timothée Chalamet, Florence Pugh, Robert Downey Jr.",103766,154.02
+tt1000427,Secret Quest 320,2002,NC-17,116,"Documentary, Comedy, Horror",7.4,80.0,An epic documentary tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Robert De Niro, Florence Pugh, Meryl Streep",251463,50.39
+tt1000312,Secret Empire 205,2020,PG-13,99,Comedy,7.4,,A comedy film set in 2020.,Taika Waititi,"Amy Adams, Edward Norton, Samuel L. Jackson, Morgan Freeman, Florence Pugh",86310,68.48
+tt1000486,Last Mystery 379,2022,PG-13,145,"Documentary, Adventure",7.4,76.0,A documentary film set in 2022.,Peter Jackson,"Edward Norton, Anthony Hopkins, Tom Hanks, Jennifer Lawrence",48645,360.08
+tt1000121,Secret Quest 14,1990,PG-13,128,Adventure,7.4,,A thrilling adventure adventure.,David Fincher,"Al Pacino, Brad Pitt, Edward Norton, Daniel Day-Lewis",32799,6.39
+tt1000155,Final Destiny 48,1980,PG-13,115,Drama,7.4,79.0,An epic drama tale directed by Sam Mendes.,Sam Mendes,"Mark Ruffalo, Al Pacino, Chris Hemsworth, Natalie Portman, Zendaya",111907,168.75
+tt1000141,First Mission 34,1987,PG-13,139,"Western, Sci-Fi, Documentary",7.4,68.0,An epic western tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Mark Ruffalo, Margot Robbie, Natalie Portman, Cate Blanchett",279881,289.26
+tt1000332,Lost Mission 225,2002,G,155,Adventure,7.4,81.0,A thrilling adventure adventure.,Jordan Peele,"Emma Stone, Edward Norton, Keanu Reeves",25418,
+tt1000407,The Love 300,2022,NC-17,126,"Western, Drama",7.4,75.0,A thrilling western adventure.,Quentin Tarantino,"Edward Norton, Gary Oldman, Will Smith, Morgan Freeman",111379,311.08
+tt1000142,An Kingdom 35,1991,PG-13,100,Adventure,7.4,,A critically acclaimed adventure masterpiece.,Jordan Peele,"Morgan Freeman, Zendaya, Mark Ruffalo, Amy Adams, Gary Oldman",292914,
+tt1000144,First Mission 37,1989,PG-13,114,"Western, Thriller",7.4,,A critically acclaimed western masterpiece.,Robert Zemeckis,"Mark Ruffalo, Anthony Hopkins, Jennifer Lawrence",342049,164.65
+tt1000344,The Mission 237,2000,R,127,Action,7.4,66.0,A action film set in 2000.,Coen Brothers,"Mark Ruffalo, Anthony Hopkins, Chris Hemsworth, Florence Pugh",29004,272.04
+tt1000971,An Chronicles 864,2009,PG-13,135,"Fantasy, Sci-Fi",7.4,,An epic fantasy tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Tom Hanks, Keanu Reeves, Chris Hemsworth, Cate Blanchett",958297,393.93
+tt1000972,Secret Mission 865,2003,PG-13,116,"Romance, Sci-Fi, War",7.4,79.0,A thrilling romance adventure.,Robert Zemeckis,"Gary Oldman, Tom Hanks, Mark Ruffalo",69362,392.36
+tt1000026,The Pianist,1949,PG-13,121,"Family, War, Documentary",7.4,,A family film set in 1949.,Ridley Scott,"Jennifer Lawrence, Samuel L. Jackson, Natalie Portman, Timothée Chalamet",25839,
+tt1000012,Saving Private Ryan,1942,NC-17,124,"Musical, Adventure",7.4,79.0,A critically acclaimed musical masterpiece.,Kathryn Bigelow,"Leonardo DiCaprio, Chris Hemsworth, Jack Nicholson",4899,
+tt1000582,Final Chronicles 475,2007,PG-13,139,"Fantasy, War",7.3,,A thrilling fantasy adventure.,Stanley Kubrick,"Anthony Hopkins, Jack Nicholson, Will Smith",79568,79.4
+tt1000379,Final Journey 272,2015,R,95,Biography,7.3,71.0,An epic biography tale directed by Danny Boyle.,Danny Boyle,"Jennifer Lawrence, Johnny Depp, Tom Cruise, Gary Oldman",171400,257.46
+tt1000389,Last Journey 282,2014,PG,131,"Biography, Thriller, War",7.3,69.0,A critically acclaimed biography masterpiece.,Taika Waititi,"Robert Downey Jr., Meryl Streep, Tom Cruise, Johnny Depp, Morgan Freeman",215372,375.78
+tt1000295,Dark Journey 188,2000,PG-13,156,"Drama, Western",7.3,80.0,A drama film set in 2000.,Ridley Scott,"Daniel Day-Lewis, Matt Damon, Florence Pugh, Emma Stone, Leonardo DiCaprio",34928,94.93
+tt1000261,Lost Story 154,2004,PG,132,Drama,7.3,83.0,A drama film set in 2004.,Steven Spielberg,"Viola Davis, Edward Norton, Brad Pitt",302903,437.64
+tt1000573,A Empire 466,2016,PG,111,War,7.3,,A war film set in 2016.,Greta Gerwig,"Jack Nicholson, Johnny Depp, Emma Stone, Morgan Freeman, Jennifer Lawrence",40565,206.1
+tt1000662,The Legend 555,2022,R,134,"Family, War",7.3,75.0,A thrilling family adventure.,Denis Villeneuve,"Florence Pugh, Emma Stone, Zendaya",22874,
+tt1000136,Lost Kingdom 29,2000,G,122,Family,7.3,59.0,A critically acclaimed family masterpiece.,Stanley Kubrick,"Chris Hemsworth, Keanu Reeves, Mark Ruffalo, Natalie Portman, Emma Stone",174106,124.01
+tt1000833,Dark Mission 726,2005,PG,126,"War, Biography",7.3,87.0,A critically acclaimed war masterpiece.,Danny Boyle,"Tom Hanks, Chris Hemsworth, Meryl Streep, Morgan Freeman, Johnny Depp",255832,190.34
+tt1000842,Last Love 735,2014,R,128,"Drama, Documentary",7.3,64.0,A thrilling drama adventure.,Akira Kurosawa,"Robert De Niro, Chris Hemsworth, Jennifer Lawrence",1309054,350.03
+tt1000837,Lost Destiny 730,2015,PG-13,130,"Action, Romance",7.3,,A critically acclaimed action masterpiece.,Taika Waititi,"Amy Adams, Harrison Ford, Christian Bale, Florence Pugh",40846,
+tt1000914,Secret Story 807,2019,PG-13,120,"Musical, Family",7.3,71.0,A critically acclaimed musical masterpiece.,Robert Zemeckis,"Timothée Chalamet, Morgan Freeman, Meryl Streep, Margot Robbie, Jennifer Lawrence",1347,385.4
+tt1000708,Dark Legend 601,2010,PG,120,"Adventure, Documentary, Musical",7.3,62.0,A critically acclaimed adventure masterpiece.,Edgar Wright,"Robert De Niro, Timothée Chalamet, Scarlett Johansson",10186,195.21
+tt1000563,An Empire 456,2021,R,114,"Drama, Mystery",7.3,77.0,A drama film set in 2021.,Ava DuVernay,"Emma Stone, Margot Robbie, Scarlett Johansson",29367,81.07
+tt1000556,Final Destiny 449,2002,PG-13,136,"Crime, Animation, Thriller",7.3,,A thrilling crime adventure.,Steven Spielberg,"Robert De Niro, Viola Davis, Natalie Portman, Gary Oldman",41839,423.87
+tt1000488,Dark Empire 381,2012,PG-13,108,"Thriller, Adventure",7.3,86.0,A critically acclaimed thriller masterpiece.,Greta Gerwig,"Viola Davis, Jack Nicholson, Tom Cruise, Zendaya, Robert Downey Jr.",732967,
+tt1000778,An Kingdom 671,2005,PG-13,137,"Comedy, Crime",7.3,65.0,A critically acclaimed comedy masterpiece.,Ron Howard,"Leonardo DiCaprio, Meryl Streep, Anthony Hopkins, Natalie Portman, Morgan Freeman",126880,
+tt1000482,Final Kingdom 375,2006,PG,109,Action,7.3,59.0,A action film set in 2006.,James Cameron,"Chris Hemsworth, Florence Pugh, Harrison Ford, Christian Bale, Edward Norton",383626,53.03
+tt1000886,A Love 779,2004,PG,123,"Western, Horror",7.3,67.0,An epic western tale directed by Bong Joon-ho.,Bong Joon-ho,"Anthony Hopkins, Will Smith, Daniel Day-Lewis",10266,
+tt1000231,Lost Adventures 124,2002,R,132,"Musical, Mystery",7.3,81.0,A thrilling musical adventure.,Coen Brothers,"Daniel Day-Lewis, Meryl Streep, Anthony Hopkins, Margot Robbie",37634,477.8
+tt1000769,Dark Love 662,2008,Not Rated,116,"Fantasy, Biography",7.3,,A fantasy film set in 2008.,Stanley Kubrick,"Kate Winslet, Jack Nicholson, Tom Cruise, Samuel L. Jackson",226722,100.44
+tt1000522,Secret Revolution 415,2004,PG,121,"Musical, Comedy",7.3,,An epic musical tale directed by Ang Lee.,Ang Lee,"Will Smith, Johnny Depp, Al Pacino, Margot Robbie, Brad Pitt",5745,201.39
+tt1000305,Secret War 198,2024,PG-13,125,"Drama, Documentary",7.3,,A drama film set in 2024.,Kathryn Bigelow,"Robert Downey Jr., Johnny Depp, Kate Winslet, Timothée Chalamet",79214,234.44
+tt1000470,A Mission 363,2010,R,146,"Thriller, Biography, Sci-Fi",7.3,,A thrilling thriller adventure.,Edgar Wright,"Leonardo DiCaprio, Chris Hemsworth, Denzel Washington, Harrison Ford, Cate Blanchett",118637,
+tt1000473,Final Kingdom 366,2022,R,130,Romance,7.3,,An epic romance tale directed by Edgar Wright.,Edgar Wright,"Timothée Chalamet, Johnny Depp, Natalie Portman",299168,319.23
+tt1000808,A Legend 701,2006,R,89,"Documentary, Drama",7.3,,A critically acclaimed documentary masterpiece.,Clint Eastwood,"Christian Bale, Robert De Niro, Denzel Washington, Viola Davis",141221,413.99
+tt1000805,A Destiny 698,2006,G,125,"Adventure, Comedy, Documentary",7.3,64.0,A critically acclaimed adventure masterpiece.,Wes Anderson,"Denzel Washington, Al Pacino, Anthony Hopkins",99796,
+tt1000602,Last Secrets 495,2006,R,125,"Thriller, Crime, Action",7.3,,An epic thriller tale directed by Christopher Nolan.,Christopher Nolan,"Gary Oldman, Harrison Ford, Robert De Niro, Timothée Chalamet",5587,21.88
+tt1000174,Secret Chronicles 67,1997,Not Rated,106,Animation,7.3,65.0,A animation film set in 1997.,Christopher Nolan,"Johnny Depp, Amy Adams, Edward Norton",19055,206.95
+tt1000440,First Awakening 333,2004,PG-13,121,"Comedy, Family",7.3,,An epic comedy tale directed by Coen Brothers.,Coen Brothers,"Kate Winslet, Brad Pitt, Amy Adams, Will Smith, Christian Bale",53865,376.85
+tt1000871,A Story 764,2022,R,119,"Musical, Drama",7.3,69.0,A thrilling musical adventure.,Ron Howard,"Robert De Niro, Kate Winslet, Tom Hanks",163163,123.14
+tt1000319,Dark Empire 212,2008,R,129,Thriller,7.3,,An epic thriller tale directed by Guillermo del Toro.,Guillermo del Toro,"Cate Blanchett, Matt Damon, Zendaya, Tom Hanks, Al Pacino",117191,157.81
+tt1000890,First War 783,2016,PG,106,"Action, Romance, Horror",7.3,70.0,A critically acclaimed action masterpiece.,Peter Jackson,"Scarlett Johansson, Jennifer Lawrence, Emma Stone, Johnny Depp, Jack Nicholson",88491,486.65
+tt1000889,The Love 782,2008,R,95,"Mystery, Family, Sci-Fi",7.3,88.0,A thrilling mystery adventure.,George Lucas,"Will Smith, Jennifer Lawrence, Scarlett Johansson, Tom Hanks, Edward Norton",153038,278.48
+tt1000887,Dark Story 780,2000,PG-13,102,Crime,7.3,59.0,A crime film set in 2000.,Peter Jackson,"Mark Ruffalo, Samuel L. Jackson, Natalie Portman, Leonardo DiCaprio",14435,
+tt1000350,An Revolution 243,2013,R,107,"Adventure, Thriller, Drama",7.2,,An epic adventure tale directed by Ang Lee.,Ang Lee,"Viola Davis, Morgan Freeman, Scarlett Johansson, Natalie Portman",125623,83.13
+tt1000939,First Destiny 832,2013,PG-13,127,Sci-Fi,7.2,,A critically acclaimed sci-fi masterpiece.,Ang Lee,"Christian Bale, Will Smith, Tom Cruise",3322,384.56
+tt1000926,Last Dreams 819,2021,PG,118,Action,7.2,60.0,A critically acclaimed action masterpiece.,Ang Lee,"Christian Bale, Denzel Washington, Emma Stone, Tom Cruise",222298,249.57
+tt1000616,Lost Revolution 509,2019,R,139,"Horror, Crime",7.2,,A critically acclaimed horror masterpiece.,Ava DuVernay,"Edward Norton, Denzel Washington, Jack Nicholson, Mark Ruffalo, Anthony Hopkins",22712,
+tt1000780,Last Secrets 673,2022,PG-13,133,"Crime, Horror",7.2,57.0,A thrilling crime adventure.,Christopher Nolan,"Gary Oldman, Anthony Hopkins, Will Smith, Cate Blanchett",125245,
+tt1000786,Secret Secrets 679,2014,PG,84,"Documentary, Romance, Adventure",7.2,62.0,A documentary film set in 2014.,Jordan Peele,"Morgan Freeman, Robert De Niro, Gary Oldman",12783,225.86
+tt1000773,Dark Chronicles 666,2019,NC-17,97,"Family, Animation, Western",7.2,83.0,An epic family tale directed by Robert Zemeckis.,Robert Zemeckis,"Timothée Chalamet, Jennifer Lawrence, Florence Pugh",192606,
+tt1000492,The Chronicles 385,2000,PG-13,117,"Documentary, Sci-Fi",7.2,,A documentary film set in 2000.,Hayao Miyazaki,"Harrison Ford, Morgan Freeman, Daniel Day-Lewis, Leonardo DiCaprio, Cate Blanchett",15815,
+tt1000730,A Quest 623,2007,G,88,Biography,7.2,71.0,An epic biography tale directed by Wong Kar-wai.,Wong Kar-wai,"Anthony Hopkins, Tom Hanks, Kate Winslet",1247265,
+tt1000548,First Revolution 441,2010,PG-13,98,"Adventure, Family",7.2,57.0,A adventure film set in 2010.,Edgar Wright,"Edward Norton, Robert Downey Jr., Jack Nicholson, Al Pacino",45219,96.15
+tt1000765,Dark War 658,2017,R,130,"Sci-Fi, Comedy",7.2,,An epic sci-fi tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Will Smith, Samuel L. Jackson, Tom Hanks, Viola Davis, Edward Norton",490116,448.96
+tt1000753,A War 646,2015,Not Rated,123,"Horror, Thriller",7.2,78.0,An epic horror tale directed by Akira Kurosawa.,Akira Kurosawa,"Anthony Hopkins, Tom Cruise, Meryl Streep, Jack Nicholson, Morgan Freeman",109802,252.54
+tt1000263,Lost Secrets 156,2015,PG,86,Documentary,7.2,,An epic documentary tale directed by Frank Darabont.,Frank Darabont,"Florence Pugh, Meryl Streep, Amy Adams, Morgan Freeman, Al Pacino",81759,
+tt1000262,A Legend 155,2013,PG-13,136,"War, Adventure, Western",7.2,75.0,A thrilling war adventure.,Robert Zemeckis,"Anthony Hopkins, Zendaya, Scarlett Johansson, Matt Damon",53892,
+tt1000677,Final Empire 570,2019,R,100,"Crime, Sci-Fi, Documentary",7.2,71.0,A thrilling crime adventure.,Quentin Tarantino,"Chris Hemsworth, Johnny Depp, Zendaya",127797,
+tt1000687,A Story 580,2014,PG-13,117,"Biography, Action",7.2,61.0,A biography film set in 2014.,Sam Mendes,"Matt Damon, Al Pacino, Harrison Ford",51285,321.63
+tt1000922,The Mystery 815,2013,PG-13,119,Fantasy,7.2,80.0,A thrilling fantasy adventure.,James Cameron,"Gary Oldman, Samuel L. Jackson, Viola Davis, Leonardo DiCaprio, Morgan Freeman",27594,
+tt1000398,Last Quest 291,2015,PG,88,"Drama, Horror, Thriller",7.2,,An epic drama tale directed by Robert Zemeckis.,Robert Zemeckis,"Brad Pitt, Chris Hemsworth, Gary Oldman, Kate Winslet, Al Pacino",58136,320.44
+tt1000130,First Secrets 23,1994,PG-13,102,Comedy,7.2,,A critically acclaimed comedy masterpiece.,Ava DuVernay,"Morgan Freeman, Daniel Day-Lewis, Emma Stone",8263,
+tt1000543,Final War 436,2009,PG,137,"War, Documentary",7.2,,A critically acclaimed war masterpiece.,Clint Eastwood,"Denzel Washington, Al Pacino, Edward Norton",16822,
+tt1000819,Secret Revolution 712,2015,R,124,"Musical, Mystery, Crime",7.2,69.0,A critically acclaimed musical masterpiece.,Bong Joon-ho,"Morgan Freeman, Robert Downey Jr., Denzel Washington, Cate Blanchett, Tom Cruise",121540,394.01
+tt1000481,An Journey 374,2018,PG,94,"Crime, Thriller",7.2,75.0,A crime film set in 2018.,Denis Villeneuve,"Mark Ruffalo, Kate Winslet, Margot Robbie",22538,411.23
+tt1000479,An Mission 372,2014,PG-13,152,Musical,7.2,,A musical film set in 2014.,Hayao Miyazaki,"Tom Hanks, Amy Adams, Will Smith",180289,68.8
+tt1000463,Secret Chronicles 356,2000,R,104,"Horror, Musical, Documentary",7.2,,A critically acclaimed horror masterpiece.,Ang Lee,"Florence Pugh, Timothée Chalamet, Margot Robbie, Jennifer Lawrence",21664,158.42
+tt1000895,Lost Adventures 788,2018,R,126,Crime,7.2,,A crime film set in 2018.,Sam Mendes,"Jack Nicholson, Will Smith, Robert Downey Jr., Tom Cruise",5982,29.36
+tt1000913,First Secrets 806,2011,G,137,"Drama, Biography",7.2,60.0,A drama film set in 2011.,Taika Waititi,"Timothée Chalamet, Gary Oldman, Leonardo DiCaprio, Margot Robbie, Emma Stone",119962,30.56
+tt1000311,First Adventures 204,2014,Not Rated,76,Romance,7.2,,A thrilling romance adventure.,Pedro Almodóvar,"Robert Downey Jr., Gary Oldman, Matt Damon",28195,397.7
+tt1000452,A Adventures 345,2009,PG,109,"Fantasy, Romance",7.2,72.0,A thrilling fantasy adventure.,Wong Kar-wai,"Cate Blanchett, Will Smith, Amy Adams, Al Pacino, Florence Pugh",6513,106.79
+tt1000848,An Empire 741,2012,PG-13,168,"Action, Horror",7.2,67.0,A action film set in 2012.,George Lucas,"Matt Damon, Kate Winslet, Robert Downey Jr., Christian Bale",7582,
+tt1000843,First Story 736,2017,G,97,Drama,7.2,,A thrilling drama adventure.,James Cameron,"Matt Damon, Robert De Niro, Samuel L. Jackson",14919,476.26
+tt1000447,Secret Story 340,2024,PG,120,"Mystery, Musical",7.2,81.0,An epic mystery tale directed by Steven Spielberg.,Steven Spielberg,"Kate Winslet, Anthony Hopkins, Keanu Reeves, Scarlett Johansson, Leonardo DiCaprio",357170,172.7
+tt1000436,A Secrets 329,2019,PG-13,141,"Musical, Western",7.2,82.0,A thrilling musical adventure.,Martin Scorsese,"Al Pacino, Robert Downey Jr., Emma Stone, Zendaya, Chris Hemsworth",57668,
+tt1000201,Dark Quest 94,2015,PG,147,"Adventure, Action, Thriller",7.2,70.0,A adventure film set in 2015.,Greta Gerwig,"Florence Pugh, Denzel Washington, Natalie Portman",999683,480.99
+tt1000197,A Dreams 90,1999,PG-13,110,"Romance, Horror",7.2,65.0,A thrilling romance adventure.,Francis Ford Coppola,"Brad Pitt, Robert Downey Jr., Morgan Freeman",98764,
+tt1000860,Lost Revolution 753,2009,PG-13,127,"Mystery, Fantasy, Crime",7.2,70.0,A critically acclaimed mystery masterpiece.,Greta Gerwig,"Timothée Chalamet, Tom Cruise, Gary Oldman",55288,121.64
+tt1000608,The Love 501,2008,PG-13,123,Musical,7.2,82.0,A musical film set in 2008.,Ryan Coogler,"Amy Adams, Chris Hemsworth, Scarlett Johansson, Tom Hanks",11665,
+tt1000999,Secret Mission 892,2005,PG,95,"Mystery, Biography",7.1,63.0,A critically acclaimed mystery masterpiece.,Denis Villeneuve,"Daniel Day-Lewis, Emma Stone, Cate Blanchett, Brad Pitt, Zendaya",47434,275.47
+tt1000981,Secret Dreams 874,2014,PG-13,116,"War, Sci-Fi",7.1,,A thrilling war adventure.,Ryan Coogler,"Mark Ruffalo, Al Pacino, Viola Davis",10704,
+tt1000994,Secret Legend 887,2019,PG,134,"Comedy, Family",7.1,61.0,A comedy film set in 2019.,Wong Kar-wai,"Harrison Ford, Keanu Reeves, Emma Stone, Meryl Streep, Kate Winslet",5002,370.36
+tt1000366,Dark Empire 259,2002,PG,138,Western,7.1,70.0,A critically acclaimed western masterpiece.,Denis Villeneuve,"Meryl Streep, Al Pacino, Gary Oldman, Chris Hemsworth",267537,
+tt1000634,The Secrets 527,2014,R,143,"Horror, Thriller, Fantasy",7.1,84.0,An epic horror tale directed by Peter Jackson.,Peter Jackson,"Natalie Portman, Mark Ruffalo, Keanu Reeves",50972,92.97
+tt1000859,An Dreams 752,2015,PG-13,139,"Family, Sci-Fi, Musical",7.1,,A critically acclaimed family masterpiece.,Akira Kurosawa,"Harrison Ford, Tom Cruise, Robert De Niro, Samuel L. Jackson",837294,199.19
+tt1000959,Lost Destiny 852,2021,G,106,"Mystery, Fantasy",7.1,,A thrilling mystery adventure.,Danny Boyle,"Robert De Niro, Al Pacino, Keanu Reeves",45206,116.22
+tt1000628,Dark Revolution 521,2016,R,119,"Crime, Adventure",7.1,,A thrilling crime adventure.,Christopher Nolan,"Morgan Freeman, Gary Oldman, Samuel L. Jackson",17775,
+tt1000838,First Awakening 731,2017,PG-13,117,"Adventure, Animation",7.1,,A critically acclaimed adventure masterpiece.,Ryan Coogler,"Johnny Depp, Viola Davis, Harrison Ford, Gary Oldman",68107,370.25
+tt1000193,Dark Mystery 86,1996,R,142,Biography,7.1,86.0,A thrilling biography adventure.,Jordan Peele,"Emma Stone, Harrison Ford, Will Smith, Mark Ruffalo",32114,
+tt1000478,Lost Mystery 371,2020,PG,116,Thriller,7.1,76.0,A thrilling thriller adventure.,Akira Kurosawa,"Matt Damon, Anthony Hopkins, Al Pacino, Emma Stone",41231,
+tt1000815,Final Awakening 708,2020,PG,125,"Sci-Fi, Documentary",7.1,63.0,A thrilling sci-fi adventure.,Taika Waititi,"Brad Pitt, Florence Pugh, Amy Adams, Robert De Niro, Tom Hanks",42124,313.06
+tt1000912,Final Chronicles 805,2024,PG,113,"War, Thriller, Animation",7.1,76.0,A thrilling war adventure.,Bong Joon-ho,"Amy Adams, Robert De Niro, Scarlett Johansson, Viola Davis, Mark Ruffalo",616146,24.6
+tt1000483,Last Secrets 376,2016,PG-13,120,Family,7.1,,An epic family tale directed by Ron Howard.,Ron Howard,"Margot Robbie, Tom Cruise, Zendaya, Harrison Ford",769366,
+tt1000375,Final War 268,2011,R,97,"Adventure, Family",7.1,59.0,A adventure film set in 2011.,Hayao Miyazaki,"Robert De Niro, Timothée Chalamet, Edward Norton",19314,
+tt1000518,Final Awakening 411,2009,PG-13,115,Horror,7.1,84.0,A critically acclaimed horror masterpiece.,James Cameron,"Meryl Streep, Jack Nicholson, Harrison Ford",235714,85.71
+tt1000242,A Empire 135,2019,G,120,Thriller,7.1,62.0,An epic thriller tale directed by James Cameron.,James Cameron,"Natalie Portman, Gary Oldman, Meryl Streep, Timothée Chalamet, Zendaya",26645,152.34
+tt1000551,Last War 444,2008,G,112,"Fantasy, Drama, War",7.1,74.0,A critically acclaimed fantasy masterpiece.,Steven Spielberg,"Florence Pugh, Tom Cruise, Margot Robbie",38441,452.31
+tt1000550,First Destiny 443,2006,NC-17,131,"Biography, Western, War",7.1,77.0,A critically acclaimed biography masterpiece.,Sam Mendes,"Florence Pugh, Scarlett Johansson, Keanu Reeves",80143,
+tt1000361,An Adventures 254,2005,PG,161,"Drama, Crime",7.1,,A thrilling drama adventure.,Sam Mendes,"Johnny Depp, Morgan Freeman, Chris Hemsworth, Viola Davis",114126,387.73
+tt1000970,An Secrets 863,2000,PG-13,109,"Horror, Adventure",7.1,,A horror film set in 2000.,Ron Howard,"Gary Oldman, Anthony Hopkins, Robert Downey Jr., Mark Ruffalo, Emma Stone",20001,
+tt1000619,A Legend 512,2014,PG-13,114,"Family, Crime",7.1,81.0,An epic family tale directed by Stanley Kubrick.,Stanley Kubrick,"Mark Ruffalo, Margot Robbie, Robert De Niro, Kate Winslet",88475,28.13
+tt1000966,An Chronicles 859,2019,R,114,Sci-Fi,7.1,82.0,A critically acclaimed sci-fi masterpiece.,Francis Ford Coppola,"Natalie Portman, Jack Nicholson, Matt Damon, Samuel L. Jackson",55923,436.91
+tt1000390,First Dreams 283,2009,G,135,War,7.1,58.0,A war film set in 2009.,Greta Gerwig,"Natalie Portman, Matt Damon, Viola Davis, Leonardo DiCaprio",70003,23.71
+tt1000356,Lost Mission 249,2015,PG,110,Western,7.1,78.0,A thrilling western adventure.,Peter Jackson,"Scarlett Johansson, Matt Damon, Meryl Streep",55805,
+tt1000119,Lost Journey 12,1989,R,114,"Romance, Western",7.1,,A romance film set in 1989.,Pedro Almodóvar,"Robert De Niro, Amy Adams, Cate Blanchett",10386,266.62
+tt1000376,Final Chronicles 269,2017,R,118,"Biography, Action",7.1,,A thrilling biography adventure.,Robert Zemeckis,"Johnny Depp, Keanu Reeves, Jack Nicholson, Denzel Washington",96958,136.33
+tt1000184,An Revolution 77,1981,Not Rated,143,"Adventure, Western",7.0,74.0,A adventure film set in 1981.,George Lucas,"Margot Robbie, Leonardo DiCaprio, Natalie Portman, Anthony Hopkins",59609,121.15
+tt1000877,Final Chronicles 770,2001,PG-13,129,Biography,7.0,74.0,An epic biography tale directed by Spike Lee.,Spike Lee,"Jennifer Lawrence, Emma Stone, Matt Damon, Morgan Freeman",95507,424.8
+tt1000316,Lost Empire 209,2017,PG-13,119,"Family, Thriller",7.0,66.0,A critically acclaimed family masterpiece.,Francis Ford Coppola,"Brad Pitt, Tom Hanks, Amy Adams",41695,417.39
+tt1000421,Lost Kingdom 314,2009,Not Rated,101,"Adventure, Documentary",7.0,77.0,An epic adventure tale directed by Ang Lee.,Ang Lee,"Robert De Niro, Morgan Freeman, Johnny Depp, Brad Pitt, Cate Blanchett",7182,191.12
+tt1000206,Dark Story 99,2017,R,129,"Animation, Adventure",7.0,70.0,An epic animation tale directed by Taika Waititi.,Taika Waititi,"Jennifer Lawrence, Margot Robbie, Robert De Niro, Harrison Ford, Anthony Hopkins",18293,10.35
+tt1000362,A Empire 255,2009,R,140,"Biography, Thriller",7.0,74.0,A thrilling biography adventure.,Hayao Miyazaki,"Viola Davis, Kate Winslet, Anthony Hopkins",40596,
+tt1000738,First Secrets 631,2008,PG-13,110,"Thriller, Musical",7.0,,An epic thriller tale directed by Ron Howard.,Ron Howard,"Brad Pitt, Scarlett Johansson, Keanu Reeves",31098,331.62
+tt1000731,Last Empire 624,2014,Not Rated,92,"Thriller, Comedy",7.0,,A critically acclaimed thriller masterpiece.,Hayao Miyazaki,"Tom Cruise, Morgan Freeman, Christian Bale, Natalie Portman, Viola Davis",22181,110.76
+tt1000714,First Journey 607,2020,R,123,"Romance, Horror",7.0,79.0,A thrilling romance adventure.,Coen Brothers,"Will Smith, Mark Ruffalo, Keanu Reeves, Chris Hemsworth",42838,258.57
+tt1000306,Final Awakening 199,2001,PG-13,111,"Animation, Fantasy",7.0,57.0,A critically acclaimed animation masterpiece.,Stanley Kubrick,"Denzel Washington, Cate Blanchett, Tom Cruise, Scarlett Johansson",299673,279.97
+tt1000301,The Story 194,2023,R,145,Fantasy,7.0,73.0,A thrilling fantasy adventure.,George Lucas,"Timothée Chalamet, Gary Oldman, Margot Robbie, Viola Davis, Tom Cruise",64193,152.84
+tt1000393,The Mission 286,2024,PG,97,"Thriller, Comedy",7.0,84.0,A thriller film set in 2024.,Frank Darabont,"Denzel Washington, Tom Cruise, Cate Blanchett, Amy Adams, Keanu Reeves",483111,
+tt1000154,First Quest 47,1994,PG-13,106,Adventure,7.0,,A critically acclaimed adventure masterpiece.,Ridley Scott,"Daniel Day-Lewis, Harrison Ford, Robert Downey Jr., Johnny Depp, Chris Hemsworth",50589,247.53
+tt1000720,Final Mystery 613,2006,PG,97,"Western, Horror",7.0,,A thrilling western adventure.,Coen Brothers,"Margot Robbie, Amy Adams, Meryl Streep",126415,
+tt1000686,First Empire 579,2003,PG,125,"Action, Biography",7.0,55.0,A critically acclaimed action masterpiece.,Ava DuVernay,"Robert Downey Jr., Tom Hanks, Harrison Ford, Will Smith, Matt Damon",214560,
+tt1000668,First Story 561,2021,PG,82,"Sci-Fi, Horror",7.0,78.0,A thrilling sci-fi adventure.,Wong Kar-wai,"Will Smith, Cate Blanchett, Keanu Reeves",59982,104.54
+tt1000647,Secret Love 540,2022,R,112,Animation,7.0,81.0,A animation film set in 2022.,Ridley Scott,"Will Smith, Al Pacino, Robert De Niro, Keanu Reeves, Gary Oldman",35782,143.5
+tt1000562,Last Journey 455,2019,PG-13,110,"Documentary, Biography",7.0,61.0,A critically acclaimed documentary masterpiece.,James Cameron,"Margot Robbie, Edward Norton, Matt Damon",91576,
+tt1000399,Secret Chronicles 292,2004,Not Rated,131,"Family, War",7.0,84.0,An epic family tale directed by Robert Zemeckis.,Robert Zemeckis,"Meryl Streep, Leonardo DiCaprio, Emma Stone, Robert Downey Jr.",463337,492.8
+tt1000915,A War 808,2009,Not Rated,114,"Sci-Fi, Horror, Animation",7.0,78.0,A sci-fi film set in 2009.,Spike Lee,"Gary Oldman, Robert De Niro, Tom Cruise, Florence Pugh",10651,62.22
+tt1000921,Final Quest 814,2008,PG-13,107,"Musical, Fantasy, Action",7.0,73.0,An epic musical tale directed by Edgar Wright.,Edgar Wright,"Tom Cruise, Robert Downey Jr., Zendaya",204948,367.63
+tt1000370,Lost Destiny 263,2003,G,116,"Musical, Family",7.0,75.0,A critically acclaimed musical masterpiece.,Wong Kar-wai,"Jennifer Lawrence, Cate Blanchett, Robert Downey Jr., Daniel Day-Lewis, Denzel Washington",220819,84.69
+tt1000245,Secret Mission 138,2010,PG,129,"Mystery, Biography",7.0,67.0,An epic mystery tale directed by Peter Jackson.,Peter Jackson,"Tom Hanks, Timothée Chalamet, Anthony Hopkins, Harrison Ford",261459,19.17
+tt1000243,First War 136,2022,R,104,"Documentary, Mystery",7.0,,A critically acclaimed documentary masterpiece.,James Cameron,"Timothée Chalamet, Daniel Day-Lewis, Tom Hanks, Matt Damon, Cate Blanchett",13800,397.2
+tt1000241,Dark Dreams 134,2016,PG-13,134,"Romance, War",7.0,60.0,A thrilling romance adventure.,Jordan Peele,"Tom Cruise, Zendaya, Brad Pitt, Viola Davis",45434,
+tt1000446,A Adventures 339,2015,R,112,Family,7.0,,A thrilling family adventure.,Ron Howard,"Samuel L. Jackson, Jack Nicholson, Margot Robbie",76180,
+tt1000854,Dark Destiny 747,2016,PG-13,101,Horror,7.0,70.0,An epic horror tale directed by Christopher Nolan.,Christopher Nolan,"Brad Pitt, Margot Robbie, Jennifer Lawrence, Amy Adams",15630,
+tt1000800,Secret Love 693,2016,NC-17,105,Mystery,7.0,78.0,A critically acclaimed mystery masterpiece.,Quentin Tarantino,"Jennifer Lawrence, Chris Hemsworth, Samuel L. Jackson, Kate Winslet, Edward Norton",26369,
+tt1000964,Last Kingdom 857,2010,NC-17,135,"Romance, Sci-Fi, War",7.0,85.0,A thrilling romance adventure.,Martin Scorsese,"Tom Hanks, Timothée Chalamet, Jennifer Lawrence, Viola Davis",128335,55.19
+tt1000993,Last Adventures 886,2019,R,123,"Adventure, Sci-Fi, Action",7.0,64.0,A critically acclaimed adventure masterpiece.,Martin Scorsese,"Scarlett Johansson, Harrison Ford, Edward Norton, Samuel L. Jackson, Keanu Reeves",403741,393.84
+tt1000933,A Legend 826,2006,R,126,"Thriller, Western",7.0,,A thriller film set in 2006.,Wes Anderson,"Natalie Portman, Florence Pugh, Jack Nicholson, Meryl Streep, Samuel L. Jackson",2500000,272.14
+tt1000278,Final Legend 171,2020,PG-13,119,"Comedy, Western, Romance",7.0,83.0,A critically acclaimed comedy masterpiece.,Denis Villeneuve,"Meryl Streep, Anthony Hopkins, Cate Blanchett, Chris Hemsworth, Jack Nicholson",612773,271.97
+tt1000610,Lost War 503,2011,PG-13,134,"Fantasy, Family, Comedy",7.0,59.0,A fantasy film set in 2011.,Wes Anderson,"Harrison Ford, Meryl Streep, Leonardo DiCaprio, Jennifer Lawrence",250122,178.13
+tt1000645,Last Mission 538,2016,PG,89,"Family, Animation, Fantasy",7.0,,An epic family tale directed by David Fincher.,David Fincher,"Timothée Chalamet, Gary Oldman, Natalie Portman, Mark Ruffalo",120757,272.38
+tt1000292,Dark Adventures 185,2024,PG,109,"Adventure, Fantasy",7.0,,A adventure film set in 2024.,George Lucas,"Natalie Portman, Amy Adams, Emma Stone, Will Smith",58417,444.34
+tt1000572,Lost Mission 465,2010,R,126,"Mystery, Romance",7.0,,A thrilling mystery adventure.,Peter Jackson,"Jack Nicholson, Brad Pitt, Scarlett Johansson, Florence Pugh, Anthony Hopkins",173542,299.36
+tt1000252,First Quest 145,2002,PG-13,129,"Western, Biography",7.0,75.0,A thrilling western adventure.,Bong Joon-ho,"Harrison Ford, Al Pacino, Emma Stone, Brad Pitt, Jack Nicholson",16522,97.7
+tt1000566,Secret Destiny 459,2012,PG,130,"Mystery, Drama",7.0,79.0,A thrilling mystery adventure.,Alfred Hitchcock,"Chris Hemsworth, Will Smith, Margot Robbie, Zendaya",101310,271.4
+tt1000219,First Story 112,2006,PG,119,"Fantasy, Comedy",7.0,65.0,A critically acclaimed fantasy masterpiece.,Ang Lee,"Al Pacino, Morgan Freeman, Gary Oldman, Edward Norton",48216,498.57
+tt1000799,First Chronicles 692,2021,PG-13,99,Comedy,7.0,63.0,A critically acclaimed comedy masterpiece.,Akira Kurosawa,"Gary Oldman, Christian Bale, Florence Pugh",66437,320.77
+tt1000901,Dark Secrets 794,2005,PG,140,"Musical, Mystery",7.0,,An epic musical tale directed by Ridley Scott.,Ridley Scott,"Keanu Reeves, Viola Davis, Will Smith",287113,
+tt1000338,Final Revolution 231,2007,PG-13,154,"War, Family",7.0,,A critically acclaimed war masterpiece.,Francis Ford Coppola,"Natalie Portman, Gary Oldman, Will Smith, Robert Downey Jr., Christian Bale",22536,345.8
+tt1000811,A Secrets 704,2012,PG-13,116,"Sci-Fi, Animation",7.0,68.0,A thrilling sci-fi adventure.,Steven Spielberg,"Margot Robbie, Anthony Hopkins, Johnny Depp",34396,450.55
+tt1000472,Dark Awakening 365,2009,PG-13,121,"Western, Sci-Fi",7.0,,A critically acclaimed western masterpiece.,Peter Jackson,"Meryl Streep, Margot Robbie, Chris Hemsworth, Keanu Reeves, Morgan Freeman",592853,
+tt1000218,A Kingdom 111,2015,PG-13,171,"Comedy, Animation",6.9,72.0,A thrilling comedy adventure.,Ridley Scott,"Amy Adams, Mark Ruffalo, Cate Blanchett",61138,34.16
+tt1000464,The Quest 357,2012,R,160,"Thriller, Drama, Western",6.9,73.0,An epic thriller tale directed by Sam Mendes.,Sam Mendes,"Brad Pitt, Tom Hanks, Morgan Freeman, Tom Cruise, Will Smith",34614,487.9
+tt1000420,Dark Mystery 313,2010,G,131,Crime,6.9,60.0,A crime film set in 2010.,Clint Eastwood,"Tom Hanks, Brad Pitt, Anthony Hopkins",134340,
+tt1000998,First Story 891,2020,R,100,"Horror, Drama",6.9,,A horror film set in 2020.,Taika Waititi,"Anthony Hopkins, Timothée Chalamet, Emma Stone, Meryl Streep",88135,
+tt1000365,Final Dreams 258,2009,PG-13,118,"Romance, Action",6.9,72.0,A critically acclaimed romance masterpiece.,Martin Scorsese,"Jack Nicholson, Keanu Reeves, Edward Norton, Gary Oldman, Emma Stone",2989,
+tt1000997,An Love 890,2004,PG-13,132,Documentary,6.9,75.0,A thrilling documentary adventure.,Akira Kurosawa,"Meryl Streep, Harrison Ford, Margot Robbie, Tom Cruise, Leonardo DiCaprio",43550,
+tt1000342,Dark Chronicles 235,2007,NC-17,120,"Animation, Fantasy",6.9,62.0,A critically acclaimed animation masterpiece.,Guillermo del Toro,"Jack Nicholson, Matt Damon, Natalie Portman",150283,388.86
+tt1000205,Last Empire 98,2006,R,122,"Western, Horror",6.9,62.0,A thrilling western adventure.,Robert Zemeckis,"Robert De Niro, Tom Cruise, Johnny Depp",177841,276.37
+tt1000614,First Awakening 507,2004,G,109,"Western, Thriller",6.9,73.0,A western film set in 2004.,Martin Scorsese,"Will Smith, Anthony Hopkins, Chris Hemsworth, Al Pacino",76098,125.2
+tt1000087,Rain Man,1994,PG,118,Mystery,6.9,75.0,A thrilling mystery adventure.,Park Chan-wook,"Christian Bale, Edward Norton, Daniel Day-Lewis",12879,
+tt1000267,Lost Dreams 160,2008,PG-13,109,Thriller,6.9,70.0,A thrilling thriller adventure.,Peter Jackson,"Kate Winslet, Florence Pugh, Matt Damon, Samuel L. Jackson, Jennifer Lawrence",29929,
+tt1000357,Lost War 250,2014,Not Rated,129,"Action, Western, Biography",6.9,60.0,A action film set in 2014.,Robert Zemeckis,"Emma Stone, Viola Davis, Morgan Freeman, Johnny Depp",8738,497.65
+tt1000673,Dark Dreams 566,2009,PG-13,95,"Horror, Comedy",6.9,74.0,A horror film set in 2009.,Guillermo del Toro,"Natalie Portman, Emma Stone, Samuel L. Jackson, Meryl Streep",90768,352.83
+tt1000589,The Kingdom 482,2022,PG-13,116,"Western, Biography",6.9,,A western film set in 2022.,Danny Boyle,"Emma Stone, Tom Hanks, Mark Ruffalo, Gary Oldman",136930,468.09
+tt1000281,Secret Adventures 174,2007,PG-13,127,Sci-Fi,6.9,82.0,An epic sci-fi tale directed by Steven Spielberg.,Steven Spielberg,"Meryl Streep, Jennifer Lawrence, Brad Pitt, Leonardo DiCaprio",125326,
+tt1000646,Secret Story 539,2001,PG-13,141,"Documentary, Thriller",6.9,78.0,A documentary film set in 2001.,Akira Kurosawa,"Christian Bale, Robert Downey Jr., Chris Hemsworth",95042,
+tt1000906,Last Destiny 799,2001,PG-13,108,"Horror, War, Drama",6.9,,A critically acclaimed horror masterpiece.,Greta Gerwig,"Denzel Washington, Viola Davis, Natalie Portman, Harrison Ford, Mark Ruffalo",1122687,
+tt1000431,A Mission 324,2011,PG-13,136,"Animation, Romance",6.9,66.0,A thrilling animation adventure.,Steven Spielberg,"Meryl Streep, Brad Pitt, Johnny Depp, Timothée Chalamet, Daniel Day-Lewis",51620,215.38
+tt1000441,Secret Empire 334,2019,PG,129,"Animation, Adventure",6.9,,An epic animation tale directed by Christopher Nolan.,Christopher Nolan,"Will Smith, Johnny Depp, Kate Winslet, Zendaya, Matt Damon",3092,154.13
+tt1000183,First Legend 76,1998,PG-13,107,"Documentary, Horror",6.9,,A thrilling documentary adventure.,Ron Howard,"Denzel Washington, Tom Cruise, Edward Norton",47405,
+tt1000864,Lost Adventures 757,2013,PG-13,119,War,6.9,56.0,A war film set in 2013.,James Cameron,"Matt Damon, Morgan Freeman, Florence Pugh",213767,249.88
+tt1000872,Last Journey 765,2012,PG-13,105,"War, Comedy",6.9,61.0,A thrilling war adventure.,Ryan Coogler,"Will Smith, Florence Pugh, Samuel L. Jackson",118886,223.78
+tt1000636,A Mission 529,2009,R,96,"Thriller, Western",6.9,,A critically acclaimed thriller masterpiece.,Akira Kurosawa,"Al Pacino, Brad Pitt, Will Smith, Morgan Freeman",805140,
+tt1000212,Secret Story 105,2010,PG-13,136,"War, Family, Mystery",6.9,66.0,A thrilling war adventure.,Ron Howard,"Natalie Portman, Anthony Hopkins, Mark Ruffalo, Samuel L. Jackson, Florence Pugh",8647,498.46
+tt1000209,Final Kingdom 102,2006,PG-13,117,"Western, Action, Biography",6.9,,A western film set in 2006.,Danny Boyle,"Denzel Washington, Will Smith, Tom Cruise, Meryl Streep",309058,464.92
+tt1000963,Secret Mystery 856,2007,PG,127,"Sci-Fi, War, Crime",6.9,64.0,An epic sci-fi tale directed by David Fincher.,David Fincher,"Keanu Reeves, Johnny Depp, Robert De Niro",2450,243.9
+tt1000307,A Destiny 200,2017,PG-13,99,"Comedy, Documentary",6.9,,An epic comedy tale directed by Akira Kurosawa.,Akira Kurosawa,"Keanu Reeves, Denzel Washington, Florence Pugh, Daniel Day-Lewis",20948,
+tt1000748,Final Mission 641,2005,PG-13,152,"Fantasy, Animation, Adventure",6.9,66.0,A critically acclaimed fantasy masterpiece.,Sam Mendes,"Cate Blanchett, Jennifer Lawrence, Zendaya, Robert De Niro, Scarlett Johansson",15550,
+tt1000612,Dark Legend 505,2011,R,97,"Western, Romance, Biography",6.9,82.0,A western film set in 2011.,Kathryn Bigelow,"Jennifer Lawrence, Tom Cruise, Will Smith, Margot Robbie, Harrison Ford",56962,
+tt1000587,Last Quest 480,2007,Not Rated,134,"War, Animation",6.9,,An epic war tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Chris Hemsworth, Matt Damon, Edward Norton, Margot Robbie",5415,
+tt1000128,First Story 21,1995,PG,104,"Thriller, Musical",6.9,55.0,A critically acclaimed thriller masterpiece.,Stanley Kubrick,"Robert De Niro, Jack Nicholson, Samuel L. Jackson, Scarlett Johansson, Emma Stone",99970,5.81
+tt1000371,Final Mission 264,2022,G,129,"Family, Romance",6.9,64.0,A family film set in 2022.,Sam Mendes,"Keanu Reeves, Viola Davis, Scarlett Johansson, Denzel Washington",103511,213.69
+tt1000713,Dark Empire 606,2017,PG-13,90,Drama,6.9,69.0,A thrilling drama adventure.,James Cameron,"Kate Winslet, Cate Blanchett, Emma Stone, Leonardo DiCaprio, Samuel L. Jackson",64623,303.16
+tt1000535,Last Secrets 428,2019,PG,100,"Animation, Fantasy",6.9,,An epic animation tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Viola Davis, Jack Nicholson, Leonardo DiCaprio",684892,
+tt1000323,Lost Secrets 216,2009,PG-13,91,"Western, Fantasy",6.9,75.0,An epic western tale directed by Kathryn Bigelow.,Kathryn Bigelow,"Cate Blanchett, Robert De Niro, Amy Adams, Florence Pugh",21556,370.73
+tt1000724,Final Kingdom 617,2010,PG,113,Drama,6.9,,A drama film set in 2010.,Danny Boyle,"Daniel Day-Lewis, Viola Davis, Denzel Washington, Tom Cruise",17107,486.0
+tt1000560,A Kingdom 453,2008,PG-13,128,"Horror, Animation, Thriller",6.8,76.0,A thrilling horror adventure.,Greta Gerwig,"Natalie Portman, Viola Davis, Edward Norton",15435,346.66
+tt1000577,The War 470,2019,PG-13,113,"Fantasy, Horror",6.8,82.0,A fantasy film set in 2019.,David Fincher,"Zendaya, Robert Downey Jr., Leonardo DiCaprio",37995,208.23
+tt1000682,An Quest 575,2013,PG,120,Sci-Fi,6.8,69.0,An epic sci-fi tale directed by Edgar Wright.,Edgar Wright,"Amy Adams, Meryl Streep, Samuel L. Jackson, Gary Oldman, Matt Damon",36612,198.19
+tt1000794,A War 687,2004,R,126,"Documentary, Action",6.8,,A critically acclaimed documentary masterpiece.,Francis Ford Coppola,"Tom Hanks, Leonardo DiCaprio, Denzel Washington",62893,
+tt1000401,Lost Story 294,2003,PG,130,"Horror, War",6.8,,An epic horror tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Timothée Chalamet, Samuel L. Jackson, Kate Winslet, Will Smith",63633,
+tt1000291,The Revolution 184,2023,PG,105,Mystery,6.8,58.0,A thrilling mystery adventure.,Ron Howard,"Will Smith, Brad Pitt, Morgan Freeman",883668,185.71
+tt1000717,Lost War 610,2005,PG,153,"Musical, War, Horror",6.8,,A critically acclaimed musical masterpiece.,Clint Eastwood,"Chris Hemsworth, Florence Pugh, Johnny Depp, Timothée Chalamet",84630,87.0
+tt1000123,Secret Story 16,1991,PG,104,"Romance, Adventure",6.8,,A thrilling romance adventure.,Martin Scorsese,"Robert Downey Jr., Emma Stone, Tom Cruise, Timothée Chalamet",126373,35.3
+tt1000266,First Revolution 159,2005,PG,120,Drama,6.8,61.0,A critically acclaimed drama masterpiece.,Stanley Kubrick,"Keanu Reeves, Robert De Niro, Will Smith",244611,331.6
+tt1000941,Lost Quest 834,2024,PG,91,"Thriller, Sci-Fi, Action",6.8,58.0,An epic thriller tale directed by Frank Darabont.,Frank Darabont,"Mark Ruffalo, Amy Adams, Daniel Day-Lewis",771551,464.35
+tt1000931,Last Love 824,2015,R,101,"War, Horror",6.8,81.0,A thrilling war adventure.,Spike Lee,"Cate Blanchett, Daniel Day-Lewis, Zendaya, Jack Nicholson, Anthony Hopkins",16770,63.15
+tt1000265,Dark Quest 158,2010,PG-13,141,"Musical, Mystery",6.8,71.0,A musical film set in 2010.,Kathryn Bigelow,"Christian Bale, Meryl Streep, Chris Hemsworth, Samuel L. Jackson",166416,15.28
+tt1000665,The Chronicles 558,2015,PG-13,141,"Musical, Adventure",6.8,,An epic musical tale directed by Frank Darabont.,Frank Darabont,"Meryl Streep, Florence Pugh, Tom Hanks",15949,
+tt1000592,Secret Secrets 485,2016,PG-13,107,"Fantasy, Sci-Fi",6.8,81.0,A fantasy film set in 2016.,Greta Gerwig,"Leonardo DiCaprio, Viola Davis, Cate Blanchett, Morgan Freeman, Robert De Niro",31446,372.81
+tt1000653,Secret Mission 546,2015,R,124,"Comedy, Thriller, War",6.8,67.0,A comedy film set in 2015.,Edgar Wright,"Leonardo DiCaprio, Christian Bale, Tom Cruise",91888,430.74
+tt1000693,A War 586,2017,PG-13,110,Mystery,6.8,,An epic mystery tale directed by Wong Kar-wai.,Wong Kar-wai,"Emma Stone, Viola Davis, Natalie Portman",147533,465.64
+tt1000255,Secret Secrets 148,2007,PG,105,"Animation, Comedy, Mystery",6.8,,A animation film set in 2007.,Ang Lee,"Timothée Chalamet, Harrison Ford, Jennifer Lawrence, Matt Damon",852732,278.5
+tt1000679,Last Mystery 572,2024,R,109,"Musical, Animation",6.8,,A critically acclaimed musical masterpiece.,Pedro Almodóvar,"Anthony Hopkins, Emma Stone, Jennifer Lawrence, Jack Nicholson, Brad Pitt",4214,243.9
+tt1000707,A Awakening 600,2012,PG,135,"Romance, Sci-Fi, Drama",6.8,69.0,An epic romance tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Tom Cruise, Daniel Day-Lewis, Amy Adams, Christian Bale, Zendaya",40362,121.68
+tt1000779,A Revolution 672,2021,PG-13,120,"Adventure, Animation, Fantasy",6.8,,A thrilling adventure adventure.,Sam Mendes,"Johnny Depp, Jennifer Lawrence, Samuel L. Jackson",22237,
+tt1000736,Final Story 629,2008,R,113,Drama,6.8,53.0,An epic drama tale directed by Martin Scorsese.,Martin Scorsese,"Johnny Depp, Gary Oldman, Meryl Streep, Harrison Ford, Anthony Hopkins",9176,23.95
+tt1000146,Dark Dreams 39,1986,R,85,"Adventure, Family",6.8,71.0,A critically acclaimed adventure masterpiece.,James Cameron,"Meryl Streep, Edward Norton, Will Smith, Mark Ruffalo",63912,57.34
+tt1000852,The Destiny 745,2021,PG,70,"Sci-Fi, Thriller, Drama",6.8,68.0,A critically acclaimed sci-fi masterpiece.,Ron Howard,"Cate Blanchett, Kate Winslet, Harrison Ford",97902,206.65
+tt1000169,The Quest 62,1996,NC-17,102,"Adventure, Musical",6.8,,A adventure film set in 1996.,Martin Scorsese,"Keanu Reeves, Morgan Freeman, Al Pacino, Amy Adams, Brad Pitt",17215,248.82
+tt1000364,First Kingdom 257,2004,PG,134,"Documentary, Comedy",6.8,,An epic documentary tale directed by Ang Lee.,Ang Lee,"Amy Adams, Chris Hemsworth, Johnny Depp",179684,
+tt1000453,Lost Mission 346,2014,G,123,"Sci-Fi, Musical",6.8,67.0,An epic sci-fi tale directed by Edgar Wright.,Edgar Wright,"Al Pacino, Chris Hemsworth, Harrison Ford, Johnny Depp",142762,308.6
+tt1000846,An Quest 739,2024,PG,95,"Family, Comedy",6.8,70.0,A family film set in 2024.,Alfred Hitchcock,"Anthony Hopkins, Timothée Chalamet, Jennifer Lawrence, Amy Adams",20653,
+tt1000455,Lost Journey 348,2023,Not Rated,116,"War, Animation",6.8,,A war film set in 2023.,Taika Waititi,"Viola Davis, Chris Hemsworth, Robert De Niro, Gary Oldman",14766,
+tt1000134,A Mission 27,1997,PG-13,120,"Drama, Adventure",6.8,61.0,An epic drama tale directed by Pedro Almodóvar.,Pedro Almodóvar,"Christian Bale, Robert De Niro, Viola Davis, Margot Robbie",30482,
+tt1000178,A Love 71,1988,PG,106,"Animation, Drama",6.8,,A critically acclaimed animation masterpiece.,Danny Boyle,"Jack Nicholson, Mark Ruffalo, Robert De Niro, Keanu Reeves, Robert Downey Jr.",9882,289.1
+tt1000829,Last Dreams 722,2012,R,119,Documentary,6.8,,A documentary film set in 2012.,Guillermo del Toro,"Morgan Freeman, Meryl Streep, Anthony Hopkins",3362,149.84
+tt1000415,Final Chronicles 308,2013,PG,95,"Family, Sci-Fi",6.8,69.0,An epic family tale directed by Greta Gerwig.,Greta Gerwig,"Timothée Chalamet, Robert Downey Jr., Florence Pugh, Leonardo DiCaprio, Tom Cruise",18864,329.34
+tt1000908,Last Revolution 801,2000,R,159,"Adventure, Romance",6.8,82.0,A critically acclaimed adventure masterpiece.,Danny Boyle,"Edward Norton, Natalie Portman, Christian Bale",272991,279.67
+tt1000822,A Secrets 715,2000,PG-13,104,"Biography, Sci-Fi",6.8,77.0,A critically acclaimed biography masterpiece.,Edgar Wright,"Tom Hanks, Edward Norton, Margot Robbie, Daniel Day-Lewis, Matt Damon",166873,260.98
+tt1000897,The War 790,2011,R,115,"Animation, War",6.8,,An epic animation tale directed by Coen Brothers.,Coen Brothers,"Margot Robbie, Natalie Portman, Jennifer Lawrence, Emma Stone",48935,
+tt1000902,Secret Dreams 795,2013,PG-13,122,"Mystery, Biography",6.8,,A critically acclaimed mystery masterpiece.,Alfred Hitchcock,"Keanu Reeves, Cate Blanchett, Natalie Portman, Johnny Depp",35343,14.52
+tt1000163,Last Awakening 56,1991,PG-13,137,"Biography, Animation",6.8,,A critically acclaimed biography masterpiece.,Park Chan-wook,"Meryl Streep, Margot Robbie, Jack Nicholson",551234,202.23
+tt1000170,First Chronicles 63,2000,NC-17,125,"Documentary, War, Fantasy",6.8,60.0,A critically acclaimed documentary masterpiece.,Pedro Almodóvar,"Zendaya, Jack Nicholson, Edward Norton, Brad Pitt",41838,129.1
+tt1000630,Dark Mystery 523,2003,PG,130,"Thriller, Action",6.8,,A thrilling thriller adventure.,Ryan Coogler,"Gary Oldman, Kate Winslet, Edward Norton, Robert Downey Jr.",31114,414.11
+tt1000435,Last Journey 328,2022,PG-13,102,"Romance, Crime",6.8,,A romance film set in 2022.,Park Chan-wook,"Cate Blanchett, Leonardo DiCaprio, Johnny Depp, Kate Winslet",59060,87.8
+tt1000101,The Godfather Part II,1992,G,132,Biography,6.8,62.0,An epic biography tale directed by Stanley Kubrick.,Stanley Kubrick,"Amy Adams, Cate Blanchett, Jack Nicholson, Tom Hanks",71395,252.76
+tt1000732,Last Kingdom 625,2010,PG-13,128,Documentary,6.8,80.0,A thrilling documentary adventure.,Clint Eastwood,"Morgan Freeman, Emma Stone, Tom Hanks, Leonardo DiCaprio, Anthony Hopkins",22874,113.06
+tt1000710,A Love 603,2010,PG-13,128,"Family, Comedy, Action",6.8,75.0,An epic family tale directed by George Lucas.,George Lucas,"Jennifer Lawrence, Samuel L. Jackson, Matt Damon",164274,143.02
+tt1000122,An Adventures 15,1992,R,124,"Drama, Mystery",6.8,,An epic drama tale directed by George Lucas.,George Lucas,"Tom Hanks, Leonardo DiCaprio, Jennifer Lawrence",69321,162.47
+tt1000513,Last Secrets 406,2017,R,70,"Thriller, Animation, Horror",6.8,73.0,A critically acclaimed thriller masterpiece.,Robert Zemeckis,"Kate Winslet, Scarlett Johansson, Margot Robbie",854590,435.31
+tt1000745,A Journey 638,2011,G,134,"Documentary, Family",6.8,74.0,A critically acclaimed documentary masterpiece.,Frank Darabont,"Harrison Ford, Scarlett Johansson, Tom Cruise, Christian Bale",14315,392.17
+tt1000726,Secret Secrets 619,2002,R,160,"Crime, Comedy",6.8,71.0,A crime film set in 2002.,Ang Lee,"Emma Stone, Kate Winslet, Johnny Depp, Timothée Chalamet",45023,239.54
+tt1000177,Last Journey 70,1991,R,86,Drama,6.7,,A critically acclaimed drama masterpiece.,Francis Ford Coppola,"Mark Ruffalo, Robert Downey Jr., Zendaya",9734,124.61
+tt1000817,Secret Secrets 710,2019,PG-13,103,"Musical, Drama",6.7,80.0,A thrilling musical adventure.,Alfred Hitchcock,"Johnny Depp, Margot Robbie, Al Pacino, Tom Cruise",20462,411.63
+tt1000946,Last Chronicles 839,2016,PG-13,164,Comedy,6.7,78.0,A comedy film set in 2016.,Peter Jackson,"Harrison Ford, Amy Adams, Robert Downey Jr., Viola Davis, Tom Cruise",93287,378.74
+tt1000995,Secret War 888,2007,PG,100,"Animation, Musical",6.7,,A animation film set in 2007.,Denis Villeneuve,"Kate Winslet, Will Smith, Anthony Hopkins",68875,
+tt1000942,Last Adventures 835,2017,PG-13,144,"Fantasy, Action",6.7,69.0,A fantasy film set in 2017.,Frank Darabont,"Jennifer Lawrence, Harrison Ford, Mark Ruffalo",249489,
+tt1000314,Secret Story 207,2002,PG-13,133,Thriller,6.7,,A critically acclaimed thriller masterpiece.,David Fincher,"Margot Robbie, Chris Hemsworth, Will Smith, Florence Pugh, Jack Nicholson",955466,385.56
+tt1000631,Last Secrets 524,2023,R,117,"Documentary, Comedy, Sci-Fi",6.7,,A critically acclaimed documentary masterpiece.,Taika Waititi,"Emma Stone, Anthony Hopkins, Margot Robbie, Kate Winslet, Matt Damon",34371,385.32
+tt1000975,Lost Adventures 868,2011,PG-13,125,"Comedy, Animation",6.7,,A thrilling comedy adventure.,Ryan Coogler,"Robert De Niro, Natalie Portman, Leonardo DiCaprio, Mark Ruffalo",82625,81.84
+tt1000974,Lost Mystery 867,2017,Not Rated,116,"Romance, Drama, Biography",6.7,76.0,An epic romance tale directed by James Cameron.,James Cameron,"Edward Norton, Timothée Chalamet, Tom Hanks",68708,
+tt1000600,Final Quest 493,2012,PG-13,158,"Comedy, Action",6.7,,A comedy film set in 2012.,James Cameron,"Robert De Niro, Kate Winslet, Florence Pugh",20689,
+tt1000585,Dark Revolution 478,2002,PG,147,Action,6.7,78.0,A thrilling action adventure.,James Cameron,"Viola Davis, Chris Hemsworth, Leonardo DiCaprio",250023,
+tt1000254,A Mission 147,2015,PG-13,171,"Romance, Biography, Sci-Fi",6.7,65.0,A thrilling romance adventure.,Sam Mendes,"Jack Nicholson, Margot Robbie, Mark Ruffalo, Robert De Niro, Chris Hemsworth",335678,244.54
+tt1000570,First Dreams 463,2003,PG-13,142,"Musical, Horror",6.7,78.0,A musical film set in 2003.,Pedro Almodóvar,"Al Pacino, Samuel L. Jackson, Robert Downey Jr.",2300,127.86
+tt1000609,An Mystery 502,2006,PG,148,"Drama, Musical",6.7,,A drama film set in 2006.,Edgar Wright,"Brad Pitt, Edward Norton, Mark Ruffalo, Morgan Freeman, Kate Winslet",61591,431.54
+tt1000935,Final War 828,2017,R,84,"Musical, Crime",6.7,74.0,A critically acclaimed musical masterpiece.,Ava DuVernay,"Al Pacino, Keanu Reeves, Scarlett Johansson",17161,381.09
+tt1000990,A Dreams 883,2001,PG-13,81,Animation,6.7,78.0,An epic animation tale directed by Peter Jackson.,Peter Jackson,"Florence Pugh, Leonardo DiCaprio, Anthony Hopkins",7688,469.72
+tt1000613,First Love 506,2013,PG,115,"Horror, Comedy",6.7,,A critically acclaimed horror masterpiece.,Ridley Scott,"Scarlett Johansson, Chris Hemsworth, Mark Ruffalo, Natalie Portman, Morgan Freeman",3558,
+tt1000698,A Mystery 591,2014,R,140,"Drama, Mystery",6.7,71.0,An epic drama tale directed by Denis Villeneuve.,Denis Villeneuve,"Jack Nicholson, Anthony Hopkins, Gary Oldman, Cate Blanchett, Tom Hanks",163688,437.94
+tt1000597,Dark Destiny 490,2016,PG,122,"Documentary, Comedy",6.7,,A critically acclaimed documentary masterpiece.,Peter Jackson,"Timothée Chalamet, Emma Stone, Brad Pitt, Will Smith",163899,452.25
+tt1000392,A Dreams 285,2010,NC-17,86,"Animation, Fantasy",6.7,77.0,A animation film set in 2010.,Ava DuVernay,"Meryl Streep, Kate Winslet, Will Smith, Al Pacino, Christian Bale",13590,316.14
+tt1000259,First Secrets 152,2001,R,115,Family,6.7,,A thrilling family adventure.,Ryan Coogler,"Robert Downey Jr., Tom Hanks, Jennifer Lawrence",151904,278.95
+tt1000569,Secret Revolution 462,2002,R,157,"Animation, Horror",6.7,73.0,A thrilling animation adventure.,Ridley Scott,"Emma Stone, Morgan Freeman, Brad Pitt, Margot Robbie, Johnny Depp",13880,347.08
+tt1000547,An Kingdom 440,2021,PG-13,148,"Drama, Romance, Documentary",6.7,76.0,A thrilling drama adventure.,James Cameron,"Viola Davis, Emma Stone, Gary Oldman, Zendaya, Harrison Ford",118013,17.04
+tt1000408,First Empire 301,2024,PG-13,116,War,6.7,,A war film set in 2024.,Jordan Peele,"Daniel Day-Lewis, Cate Blanchett, Timothée Chalamet",63941,363.4
+tt1000756,A Destiny 649,2020,PG-13,109,Family,6.7,75.0,A critically acclaimed family masterpiece.,Sam Mendes,"Matt Damon, Viola Davis, Al Pacino, Timothée Chalamet",100862,398.88
+tt1000372,Last Mission 265,2017,PG-13,168,"Musical, Thriller",6.7,66.0,An epic musical tale directed by Ryan Coogler.,Ryan Coogler,"Edward Norton, Tom Hanks, Christian Bale, Robert Downey Jr.",80954,447.51
+tt1000106,Oliver!,1993,PG-13,126,Horror,6.7,,A critically acclaimed horror masterpiece.,Francis Ford Coppola,"Anthony Hopkins, Mark Ruffalo, Daniel Day-Lewis",69251,247.66
+tt1000442,First War 335,2021,PG-13,101,Documentary,6.7,,A documentary film set in 2021.,Alfred Hitchcock,"Chris Hemsworth, Kate Winslet, Denzel Washington, Leonardo DiCaprio",9754,226.61
+tt1000321,Lost Destiny 214,2005,NC-17,134,"Thriller, Crime",6.7,68.0,A thrilling thriller adventure.,Pedro Almodóvar,"Matt Damon, Kate Winslet, Jack Nicholson, Zendaya",519268,
+tt1000363,Final War 256,2013,PG-13,116,"Adventure, War",6.7,74.0,An epic adventure tale directed by Stanley Kubrick.,Stanley Kubrick,"Keanu Reeves, Timothée Chalamet, Emma Stone",56622,217.04
+tt1000644,Dark Kingdom 537,2017,Not Rated,110,"Mystery, Sci-Fi, Drama",6.7,,A mystery film set in 2017.,Steven Spielberg,"Al Pacino, Timothée Chalamet, Zendaya, Mark Ruffalo",2500000,316.39
+tt1000639,Secret Empire 532,2023,R,107,"Comedy, Documentary",6.6,,An epic comedy tale directed by Guillermo del Toro.,Guillermo del Toro,"Edward Norton, Robert De Niro, Viola Davis",29491,74.58
+tt1000952,First Mission 845,2007,PG-13,105,"Documentary, Comedy",6.6,,A critically acclaimed documentary masterpiece.,Coen Brothers,"Robert De Niro, Johnny Depp, Daniel Day-Lewis",351367,195.26
+tt1000607,Lost Kingdom 500,2010,PG-13,121,"Action, Fantasy",6.6,,A thrilling action adventure.,Ron Howard,"Meryl Streep, Zendaya, Robert De Niro, Gary Oldman, Al Pacino",22583,
+tt1000944,Dark Story 837,2013,PG,151,"Mystery, Western",6.6,74.0,A critically acclaimed mystery masterpiece.,Spike Lee,"Tom Hanks, Meryl Streep, Leonardo DiCaprio, Al Pacino",41561,
+tt1000868,Lost Story 761,2005,PG,107,"Horror, Thriller, Drama",6.6,,A horror film set in 2005.,Greta Gerwig,"Anthony Hopkins, Kate Winslet, Natalie Portman, Scarlett Johansson",24170,
+tt1000182,Last Mystery 75,1999,R,131,Comedy,6.6,79.0,A critically acclaimed comedy masterpiece.,Akira Kurosawa,"Leonardo DiCaprio, Harrison Ford, Meryl Streep, Amy Adams, Florence Pugh",104476,234.79
+tt1000343,First Kingdom 236,2018,PG-13,99,"Thriller, Mystery",6.6,,A critically acclaimed thriller masterpiece.,Pedro Almodóvar,"Jennifer Lawrence, Will Smith, Johnny Depp, Florence Pugh, Amy Adams",4900,271.4
+tt1000856,Dark Journey 749,2020,R,137,Action,6.6,77.0,A thrilling action adventure.,Martin Scorsese,"Daniel Day-Lewis, Tom Hanks, Cate Blanchett, Florence Pugh",63408,120.42
+tt1000487,Dark Quest 380,2003,NC-17,95,"Comedy, Biography",6.6,58.0,A comedy film set in 2003.,Spike Lee,"Scarlett Johansson, Will Smith, Leonardo DiCaprio",16717,209.32
+tt1000329,A Secrets 222,2021,PG-13,137,"Adventure, Musical",6.6,78.0,A thrilling adventure adventure.,Greta Gerwig,"Anthony Hopkins, Viola Davis, Morgan Freeman, Mark Ruffalo, Harrison Ford",62338,
+tt1000217,Last Mission 110,2010,Not Rated,142,Animation,6.6,53.0,An epic animation tale directed by Ron Howard.,Ron Howard,"Al Pacino, Scarlett Johansson, Edward Norton, Robert Downey Jr., Daniel Day-Lewis",11386,118.19
+tt1000825,The War 718,2022,R,134,"Western, Adventure, Thriller",6.6,77.0,A western film set in 2022.,Clint Eastwood,"Jennifer Lawrence, Denzel Washington, Mark Ruffalo",529607,413.19
+tt1000476,The Story 369,2022,PG,115,"Western, Musical",6.6,,A critically acclaimed western masterpiece.,Peter Jackson,"Natalie Portman, Cate Blanchett, Leonardo DiCaprio",94950,330.77
+tt1000807,An War 700,2008,PG,143,"Thriller, Comedy, Crime",6.6,60.0,A thrilling thriller adventure.,Jordan Peele,"Christian Bale, Daniel Day-Lewis, Robert Downey Jr.",56094,275.58
+tt1000795,A Awakening 688,2010,PG-13,104,"Sci-Fi, Crime",6.6,54.0,An epic sci-fi tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Margot Robbie, Kate Winslet, Amy Adams, Timothée Chalamet",14967,
+tt1000862,Last Journey 755,2009,R,93,"Mystery, Adventure",6.6,55.0,A thrilling mystery adventure.,Akira Kurosawa,"Jennifer Lawrence, Daniel Day-Lewis, Amy Adams, Will Smith",18032,110.81
+tt1000880,First Awakening 773,2003,PG-13,156,"Biography, Drama",6.6,,A thrilling biography adventure.,Bong Joon-ho,"Natalie Portman, Edward Norton, Johnny Depp",16790,212.08
+tt1000458,The Secrets 351,2012,PG,149,"Documentary, Crime, War",6.6,,A critically acclaimed documentary masterpiece.,Ang Lee,"Chris Hemsworth, Keanu Reeves, Harrison Ford, Anthony Hopkins",21947,297.22
+tt1000847,Last Awakening 740,2024,G,94,"War, Thriller",6.6,69.0,A thrilling war adventure.,Ridley Scott,"Tom Hanks, Keanu Reeves, Kate Winslet, Robert De Niro, Matt Damon",37694,
+tt1000839,Final Chronicles 732,2002,PG-13,75,"Biography, Western",6.6,77.0,A critically acclaimed biography masterpiece.,Frank Darabont,"Christian Bale, Meryl Streep, Timothée Chalamet, Keanu Reeves, Johnny Depp",16695,443.54
+tt1000727,Secret Mystery 620,2010,PG-13,112,"War, Drama",6.6,55.0,An epic war tale directed by Kathryn Bigelow.,Kathryn Bigelow,"Anthony Hopkins, Tom Hanks, Leonardo DiCaprio",469429,392.75
+tt1000116,First Adventures 9,2000,PG,105,"Romance, Crime",6.6,,A romance film set in 2000.,Coen Brothers,"Daniel Day-Lewis, Margot Robbie, Brad Pitt",95450,86.68
+tt1000501,The Mystery 394,2013,R,119,"Fantasy, Horror",6.6,78.0,An epic fantasy tale directed by Clint Eastwood.,Clint Eastwood,"Jennifer Lawrence, Edward Norton, Cate Blanchett, Amy Adams, Jack Nicholson",30338,84.72
+tt1000507,Final Revolution 400,2024,PG-13,131,Crime,6.6,67.0,A crime film set in 2024.,Clint Eastwood,"Zendaya, Florence Pugh, Kate Winslet, Morgan Freeman, Edward Norton",14197,363.18
+tt1000568,First Destiny 461,2022,PG,128,Comedy,6.6,,A comedy film set in 2022.,Taika Waititi,"Leonardo DiCaprio, Denzel Washington, Samuel L. Jackson, Meryl Streep, Morgan Freeman",164203,
+tt1000705,The Secrets 598,2022,PG-13,109,"Fantasy, Horror",6.6,60.0,An epic fantasy tale directed by Wong Kar-wai.,Wong Kar-wai,"Kate Winslet, Samuel L. Jackson, Will Smith, Meryl Streep",13473,450.61
+tt1000706,Lost Love 599,2000,NC-17,70,"Romance, Family",6.6,60.0,An epic romance tale directed by David Fincher.,David Fincher,"Chris Hemsworth, Amy Adams, Kate Winslet, Robert Downey Jr., Johnny Depp",2233148,114.4
+tt1000916,Lost Secrets 809,2009,R,127,Adventure,6.6,,A critically acclaimed adventure masterpiece.,Ridley Scott,"Jack Nicholson, Florence Pugh, Morgan Freeman, Samuel L. Jackson, Timothée Chalamet",833353,22.81
+tt1000536,First Quest 429,2009,PG,126,"Comedy, Musical",6.6,62.0,A critically acclaimed comedy masterpiece.,Jordan Peele,"Robert Downey Jr., Christian Bale, Robert De Niro",38649,484.78
+tt1000533,A Kingdom 426,2023,R,105,"Mystery, War",6.6,78.0,A thrilling mystery adventure.,Hayao Miyazaki,"Keanu Reeves, Johnny Depp, Tom Hanks",470859,73.46
+tt1000158,Last Mystery 51,1999,R,152,Biography,6.6,,An epic biography tale directed by Ang Lee.,Ang Lee,"Leonardo DiCaprio, Margot Robbie, Jennifer Lawrence",142178,209.57
+tt1000103,The French Connection,1991,R,115,"Horror, Fantasy",6.6,,A critically acclaimed horror masterpiece.,Ron Howard,"Johnny Depp, Jack Nicholson, Al Pacino",311191,18.16
+tt1000749,First Love 642,2003,PG-13,93,"Sci-Fi, Crime",6.6,,A sci-fi film set in 2003.,Spike Lee,"Leonardo DiCaprio, Morgan Freeman, Tom Cruise, Chris Hemsworth",238583,
+tt1000762,Final Awakening 655,2012,PG-13,135,"Biography, Horror",6.6,,A biography film set in 2012.,Taika Waititi,"Margot Robbie, Harrison Ford, Zendaya",24434,
+tt1000655,A Adventures 548,2023,PG-13,121,"Documentary, Mystery",6.6,59.0,A critically acclaimed documentary masterpiece.,Taika Waititi,"Christian Bale, Johnny Depp, Robert Downey Jr., Tom Cruise, Natalie Portman",47719,
+tt1000580,Final Legend 473,2000,R,117,"Documentary, Family, Adventure",6.6,,A thrilling documentary adventure.,Alfred Hitchcock,"Chris Hemsworth, Timothée Chalamet, Kate Winslet",66508,297.17
+tt1000381,An Kingdom 274,2005,NC-17,122,Sci-Fi,6.6,,A critically acclaimed sci-fi masterpiece.,Quentin Tarantino,"Tom Cruise, Robert Downey Jr., Gary Oldman, Daniel Day-Lewis, Mark Ruffalo",61289,202.7
+tt1000923,Final Love 816,2008,R,116,"Thriller, Fantasy, Sci-Fi",6.6,,An epic thriller tale directed by Wes Anderson.,Wes Anderson,"Meryl Streep, Robert De Niro, Daniel Day-Lewis",19538,292.54
+tt1000925,The Legend 818,2003,R,114,"War, Animation",6.6,72.0,A critically acclaimed war masterpiece.,Spike Lee,"Cate Blanchett, Johnny Depp, Natalie Portman, Anthony Hopkins",41679,
+tt1000988,Dark Destiny 881,2008,PG-13,144,Family,6.6,,A family film set in 2008.,Akira Kurosawa,"Kate Winslet, Scarlett Johansson, Edward Norton, Harrison Ford, Jennifer Lawrence",101595,487.1
+tt1000268,A Empire 161,2001,R,111,Sci-Fi,6.5,58.0,A critically acclaimed sci-fi masterpiece.,Danny Boyle,"Jennifer Lawrence, Kate Winslet, Christian Bale, Natalie Portman",83550,51.36
+tt1000213,Dark Adventures 106,2000,Not Rated,94,"Drama, Documentary, Sci-Fi",6.5,76.0,A critically acclaimed drama masterpiece.,Greta Gerwig,"Chris Hemsworth, Scarlett Johansson, Natalie Portman",731997,
+tt1000658,The Quest 551,2013,PG-13,119,"Animation, Horror",6.5,68.0,A critically acclaimed animation masterpiece.,Bong Joon-ho,"Johnny Depp, Jack Nicholson, Natalie Portman",323246,159.82
+tt1000832,Lost Kingdom 725,2021,R,114,Thriller,6.5,,A thrilling thriller adventure.,Steven Spielberg,"Denzel Washington, Leonardo DiCaprio, Will Smith, Chris Hemsworth, Kate Winslet",195938,
+tt1000424,The Revolution 317,2010,PG-13,98,"Musical, Family",6.5,59.0,An epic musical tale directed by Sam Mendes.,Sam Mendes,"Meryl Streep, Natalie Portman, Scarlett Johansson, Cate Blanchett, Kate Winslet",369404,
+tt1000426,Last Adventures 319,2014,PG-13,123,"War, Family",6.5,70.0,A thrilling war adventure.,Akira Kurosawa,"Will Smith, Anthony Hopkins, Tom Hanks, Matt Damon",73153,174.82
+tt1000432,Final Revolution 325,2002,PG-13,138,Western,6.5,72.0,An epic western tale directed by Greta Gerwig.,Greta Gerwig,"Christian Bale, Jack Nicholson, Mark Ruffalo",89419,102.29
+tt1000595,Dark Destiny 488,2009,PG-13,90,"Horror, Animation",6.5,68.0,A critically acclaimed horror masterpiece.,Alfred Hitchcock,"Gary Oldman, Edward Norton, Johnny Depp, Tom Hanks",19375,479.95
+tt1000857,Secret Story 750,2007,R,91,Documentary,6.5,50.0,A documentary film set in 2007.,David Fincher,"Tom Cruise, Robert Downey Jr., Viola Davis",55530,
+tt1000276,An Dreams 169,2004,PG,111,Animation,6.5,73.0,A thrilling animation adventure.,Ava DuVernay,"Leonardo DiCaprio, Keanu Reeves, Viola Davis, Amy Adams",7969,10.43
+tt1000274,First Journey 167,2008,PG,165,"Mystery, Action",6.5,55.0,An epic mystery tale directed by Clint Eastwood.,Clint Eastwood,"Kate Winslet, Robert De Niro, Viola Davis",30691,
+tt1000224,Dark Destiny 117,2016,PG-13,113,Mystery,6.5,72.0,A thrilling mystery adventure.,Frank Darabont,"Matt Damon, Cate Blanchett, Keanu Reeves",7249,
+tt1000469,An Secrets 362,2024,PG-13,150,Mystery,6.5,52.0,A critically acclaimed mystery masterpiece.,Edgar Wright,"Mark Ruffalo, Edward Norton, Scarlett Johansson, Samuel L. Jackson, Morgan Freeman",41099,
+tt1000648,The Destiny 541,2017,R,132,"Animation, Crime",6.5,53.0,A critically acclaimed animation masterpiece.,Greta Gerwig,"Edward Norton, Keanu Reeves, Tom Hanks, Chris Hemsworth",105413,84.41
+tt1000684,Final Awakening 577,2000,PG-13,106,"Action, Romance",6.5,55.0,A critically acclaimed action masterpiece.,James Cameron,"Kate Winslet, Keanu Reeves, Florence Pugh, Amy Adams, Timothée Chalamet",7952,288.18
+tt1000642,Final Quest 535,2022,G,70,"Musical, War, Fantasy",6.5,,A critically acclaimed musical masterpiece.,Spike Lee,"Natalie Portman, Gary Oldman, Denzel Washington, Mark Ruffalo, Margot Robbie",312212,442.26
+tt1000386,Secret Destiny 279,2022,PG-13,139,"Fantasy, Thriller",6.5,51.0,A thrilling fantasy adventure.,Bong Joon-ho,"Emma Stone, Jack Nicholson, Johnny Depp, Edward Norton",1409,78.59
+tt1000928,Dark Love 821,2008,PG,110,"Horror, Adventure, Musical",6.5,,An epic horror tale directed by Ridley Scott.,Ridley Scott,"Jennifer Lawrence, Viola Davis, Anthony Hopkins",18863,
+tt1000360,Dark Destiny 253,2008,PG,113,"Western, Mystery, Sci-Fi",6.5,58.0,A thrilling western adventure.,Quentin Tarantino,"Robert Downey Jr., Margot Robbie, Denzel Washington, Robert De Niro, Mark Ruffalo",36958,12.84
+tt1000558,The Legend 451,2008,PG-13,152,Drama,6.5,52.0,A critically acclaimed drama masterpiece.,George Lucas,"Johnny Depp, Natalie Portman, Florence Pugh, Morgan Freeman, Tom Hanks",371661,
+tt1000288,Final Mission 181,2021,PG,107,Biography,6.5,,A biography film set in 2021.,Ang Lee,"Timothée Chalamet, Emma Stone, Meryl Streep, Jack Nicholson",91931,
+tt1000112,Final Dreams 5,1986,PG,103,"Thriller, Drama",6.5,78.0,A critically acclaimed thriller masterpiece.,Akira Kurosawa,"Kate Winslet, Matt Damon, Amy Adams, Mark Ruffalo, Zendaya",66740,247.93
+tt1000767,First Story 660,2011,PG-13,100,Comedy,6.5,53.0,A comedy film set in 2011.,David Fincher,"Cate Blanchett, Jennifer Lawrence, Matt Damon, Tom Hanks, Viola Davis",87142,389.56
+tt1000303,Lost Dreams 196,2019,Not Rated,163,"Romance, Adventure",6.5,64.0,A critically acclaimed romance masterpiece.,Peter Jackson,"Jennifer Lawrence, Morgan Freeman, Meryl Streep",83176,
+tt1000239,A Mission 132,2005,Not Rated,123,"Family, Adventure",6.5,,A critically acclaimed family masterpiece.,Taika Waititi,"Al Pacino, Chris Hemsworth, Margot Robbie",54972,149.35
+tt1000413,Final Love 306,2021,PG-13,152,"War, Thriller",6.5,72.0,A war film set in 2021.,Steven Spielberg,"Tom Cruise, Timothée Chalamet, Cate Blanchett, Jack Nicholson",44118,232.17
+tt1000785,The Dreams 678,2008,PG-13,125,"Crime, Action",6.5,73.0,An epic crime tale directed by Peter Jackson.,Peter Jackson,"Keanu Reeves, Robert De Niro, Scarlett Johansson, Matt Damon",74241,
+tt1000339,Final Mission 232,2007,R,110,Fantasy,6.5,54.0,An epic fantasy tale directed by Greta Gerwig.,Greta Gerwig,"Viola Davis, Mark Ruffalo, Edward Norton, Meryl Streep",113125,65.64
+tt1000711,First Love 604,2014,PG,131,Horror,6.5,68.0,An epic horror tale directed by Bong Joon-ho.,Bong Joon-ho,"Robert De Niro, Brad Pitt, Tom Cruise, Chris Hemsworth, Denzel Washington",25326,489.89
+tt1000494,Last Story 387,2001,NC-17,154,"Thriller, Mystery",6.4,69.0,An epic thriller tale directed by Coen Brothers.,Coen Brothers,"Morgan Freeman, Robert Downey Jr., Chris Hemsworth, Amy Adams, Samuel L. Jackson",83870,195.76
+tt1000557,An Revolution 450,2020,NC-17,112,"Adventure, Romance, Drama",6.4,72.0,A adventure film set in 2020.,Ron Howard,"Meryl Streep, Morgan Freeman, Timothée Chalamet, Zendaya, Amy Adams",15008,
+tt1000918,An Kingdom 811,2001,PG,118,Mystery,6.4,,A mystery film set in 2001.,Quentin Tarantino,"Robert De Niro, Jack Nicholson, Leonardo DiCaprio",80220,440.2
+tt1000270,The War 163,2013,R,116,"Mystery, Documentary",6.4,57.0,A critically acclaimed mystery masterpiece.,Martin Scorsese,"Harrison Ford, Zendaya, Edward Norton",524639,464.34
+tt1000980,An Chronicles 873,2014,PG,139,Biography,6.4,71.0,A thrilling biography adventure.,Spike Lee,"Tom Hanks, Viola Davis, Kate Winslet, Robert Downey Jr.",156485,317.22
+tt1000199,The War 92,1995,PG-13,100,"Musical, Biography",6.4,64.0,A thrilling musical adventure.,Martin Scorsese,"Al Pacino, Johnny Depp, Denzel Washington, Will Smith",105445,128.97
+tt1000358,Secret Mystery 251,2009,PG-13,139,"Horror, Crime",6.4,,A horror film set in 2009.,Christopher Nolan,"Matt Damon, Gary Oldman, Robert De Niro, Jennifer Lawrence, Viola Davis",5797,92.46
+tt1000300,Final War 193,2002,R,127,"Musical, Sci-Fi",6.4,63.0,A thrilling musical adventure.,George Lucas,"Tom Hanks, Robert Downey Jr., Gary Oldman, Harrison Ford, Brad Pitt",62512,145.21
+tt1000460,A Journey 353,2015,R,133,"Documentary, War",6.4,65.0,An epic documentary tale directed by Ang Lee.,Ang Lee,"Matt Damon, Florence Pugh, Brad Pitt",1522649,44.22
+tt1000680,A War 573,2004,PG-13,106,War,6.4,,An epic war tale directed by Frank Darabont.,Frank Darabont,"Zendaya, Viola Davis, Tom Hanks",27278,170.28
+tt1000866,Final Story 759,2023,NC-17,144,Horror,6.4,,A critically acclaimed horror masterpiece.,Ryan Coogler,"Johnny Depp, Tom Hanks, Mark Ruffalo",3587,220.6
+tt1000685,Lost Kingdom 578,2013,PG-13,103,"Sci-Fi, Drama",6.4,50.0,A sci-fi film set in 2013.,Clint Eastwood,"Keanu Reeves, Emma Stone, Edward Norton",222255,197.9
+tt1000676,The Revolution 569,2019,PG,124,"Fantasy, Documentary",6.4,,An epic fantasy tale directed by Ang Lee.,Ang Lee,"Daniel Day-Lewis, Tom Hanks, Christian Bale, Keanu Reeves",200924,342.49
+tt1000876,Secret Mission 769,2017,PG,111,"Sci-Fi, Adventure",6.4,54.0,A sci-fi film set in 2017.,Christopher Nolan,"Christian Bale, Will Smith, Keanu Reeves, Tom Hanks",93420,
+tt1000195,First Mission 88,1993,PG-13,124,Sci-Fi,6.4,74.0,A critically acclaimed sci-fi masterpiece.,Pedro Almodóvar,"Leonardo DiCaprio, Viola Davis, Amy Adams, Chris Hemsworth, Edward Norton",16734,94.55
+tt1000729,An Dreams 622,2019,PG-13,114,Sci-Fi,6.4,57.0,A critically acclaimed sci-fi masterpiece.,Francis Ford Coppola,"Margot Robbie, Scarlett Johansson, Natalie Portman, Cate Blanchett",144759,
+tt1000929,Secret Destiny 822,2017,PG-13,94,Biography,6.4,77.0,A biography film set in 2017.,Alfred Hitchcock,"Tom Cruise, Chris Hemsworth, Daniel Day-Lewis, Tom Hanks",78601,467.65
+tt1000917,Last Empire 810,2005,PG,151,Action,6.4,,A thrilling action adventure.,Robert Zemeckis,"Al Pacino, Mark Ruffalo, Harrison Ford, Chris Hemsworth, Jack Nicholson",47750,295.29
+tt1000603,Dark Love 496,2023,PG-13,137,"Musical, Documentary, Biography",6.4,,A thrilling musical adventure.,Robert Zemeckis,"Robert De Niro, Kate Winslet, Edward Norton",74621,253.13
+tt1000969,A Awakening 862,2019,PG-13,97,Biography,6.4,78.0,A critically acclaimed biography masterpiece.,Steven Spielberg,"Denzel Washington, Keanu Reeves, Florence Pugh, Robert De Niro, Robert Downey Jr.",394637,
+tt1000168,An Kingdom 61,1995,PG,106,"Adventure, Documentary",6.4,65.0,A adventure film set in 1995.,Ava DuVernay,"Robert De Niro, Scarlett Johansson, Anthony Hopkins, Brad Pitt",24622,249.96
+tt1000629,The War 522,2004,PG,128,"Drama, Adventure, Comedy",6.4,,An epic drama tale directed by George Lucas.,George Lucas,"Edward Norton, Zendaya, Brad Pitt, Daniel Day-Lewis",58590,
+tt1000511,A Chronicles 404,2009,PG-13,117,"Sci-Fi, Horror, Action",6.4,60.0,A critically acclaimed sci-fi masterpiece.,Coen Brothers,"Harrison Ford, Morgan Freeman, Leonardo DiCaprio",5474,82.59
+tt1000514,Final Dreams 407,2024,PG,153,"War, Biography",6.4,,An epic war tale directed by Pedro Almodóvar.,Pedro Almodóvar,"Viola Davis, Matt Damon, Emma Stone",24262,228.57
+tt1000761,Dark Empire 654,2006,PG-13,100,"Musical, Western, War",6.4,77.0,A thrilling musical adventure.,Ron Howard,"Gary Oldman, Matt Damon, Tom Cruise",119741,155.43
+tt1000185,First Chronicles 78,1988,PG-13,111,Mystery,6.4,67.0,A critically acclaimed mystery masterpiece.,Akira Kurosawa,"Natalie Portman, Gary Oldman, Florence Pugh, Daniel Day-Lewis",18775,82.54
+tt1000188,First Adventures 81,1983,PG-13,144,"Family, Horror",6.4,,An epic family tale directed by Danny Boyle.,Danny Boyle,"Zendaya, Cate Blanchett, Harrison Ford",1689,103.72
+tt1000186,Lost Awakening 79,1984,R,127,"Thriller, Horror",6.4,64.0,A thriller film set in 1984.,Robert Zemeckis,"Anthony Hopkins, Cate Blanchett, Johnny Depp, Amy Adams",55483,
+tt1000325,Secret Kingdom 218,2012,R,82,"Horror, Family",6.4,63.0,A critically acclaimed horror masterpiece.,Sam Mendes,"Amy Adams, Daniel Day-Lewis, Viola Davis, Keanu Reeves",1578,420.67
+tt1000400,A Chronicles 293,2015,PG-13,122,"Biography, Crime",6.4,71.0,A critically acclaimed biography masterpiece.,Hayao Miyazaki,"Meryl Streep, Christian Bale, Harrison Ford, Robert De Niro",71929,132.94
+tt1000539,Last Legend 432,2021,R,104,Fantasy,6.4,61.0,A thrilling fantasy adventure.,Robert Zemeckis,"Johnny Depp, Jack Nicholson, Robert Downey Jr.",335262,488.94
+tt1000752,The Kingdom 645,2003,NC-17,137,Horror,6.4,74.0,A horror film set in 2003.,Hayao Miyazaki,"Gary Oldman, Samuel L. Jackson, Zendaya, Al Pacino",1204,
+tt1000509,Secret Empire 402,2016,PG-13,150,Documentary,6.4,67.0,An epic documentary tale directed by Edgar Wright.,Edgar Wright,"Will Smith, Natalie Portman, Matt Damon, Leonardo DiCaprio",11165,
+tt1000227,Final Quest 120,2013,PG,97,"Mystery, Western, Sci-Fi",6.3,77.0,An epic mystery tale directed by Ridley Scott.,Ridley Scott,"Harrison Ford, Cate Blanchett, Brad Pitt, Chris Hemsworth, Tom Cruise",124749,
+tt1000688,First Adventures 581,2020,NC-17,125,"Western, Fantasy",6.3,71.0,A western film set in 2020.,George Lucas,"Emma Stone, Meryl Streep, Robert De Niro, Margot Robbie, Florence Pugh",1543,447.43
+tt1000451,First Secrets 344,2001,PG,135,Comedy,6.3,,A thrilling comedy adventure.,Robert Zemeckis,"Jennifer Lawrence, Keanu Reeves, Al Pacino",1228,79.35
+tt1000273,First Empire 166,2020,PG-13,141,"Adventure, Horror, Romance",6.3,,An epic adventure tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Emma Stone, Will Smith, Edward Norton, Margot Robbie, Samuel L. Jackson",495846,483.91
+tt1000459,An Revolution 352,2024,PG-13,140,"Comedy, Thriller",6.3,53.0,A critically acclaimed comedy masterpiece.,Ryan Coogler,"Will Smith, Natalie Portman, Daniel Day-Lewis",926356,
+tt1000865,An Awakening 758,2008,NC-17,75,Thriller,6.3,67.0,A thriller film set in 2008.,Ang Lee,"Meryl Streep, Denzel Washington, Leonardo DiCaprio",82201,272.26
+tt1000625,Last Love 518,2016,PG-13,147,"Documentary, Family",6.3,,An epic documentary tale directed by Spike Lee.,Spike Lee,"Robert Downey Jr., Jennifer Lawrence, Timothée Chalamet",43746,
+tt1000651,A Adventures 544,2004,R,106,"Thriller, Adventure, Crime",6.3,63.0,An epic thriller tale directed by Akira Kurosawa.,Akira Kurosawa,"Jennifer Lawrence, Al Pacino, Johnny Depp, Daniel Day-Lewis, Amy Adams",470549,
+tt1000967,An Empire 860,2013,PG-13,111,"Musical, Family",6.3,57.0,A musical film set in 2013.,Robert Zemeckis,"Johnny Depp, Natalie Portman, Tom Cruise, Samuel L. Jackson, Robert Downey Jr.",98151,99.87
+tt1000198,Dark Mystery 91,1999,G,140,Family,6.3,48.0,An epic family tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Will Smith, Brad Pitt, Kate Winslet, Leonardo DiCaprio",39942,99.59
+tt1000439,Secret Revolution 332,2008,PG-13,113,Western,6.3,77.0,A critically acclaimed western masterpiece.,Sam Mendes,"Daniel Day-Lewis, Meryl Streep, Leonardo DiCaprio",45231,31.87
+tt1000987,Lost Revolution 880,2014,NC-17,107,"Documentary, Adventure",6.3,54.0,An epic documentary tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Christian Bale, Al Pacino, Viola Davis",12273,
+tt1000208,Secret Empire 101,2003,PG-13,151,"Musical, Documentary",6.3,,A musical film set in 2003.,Clint Eastwood,"Florence Pugh, Scarlett Johansson, Robert De Niro",13569,324.46
+tt1000397,A Adventures 290,2003,PG-13,93,"Fantasy, Musical",6.3,50.0,A thrilling fantasy adventure.,Hayao Miyazaki,"Morgan Freeman, Will Smith, Denzel Washington, Margot Robbie",96729,127.42
+tt1000703,A Empire 596,2001,R,132,"Action, Biography, Animation",6.3,,A critically acclaimed action masterpiece.,Hayao Miyazaki,"Kate Winslet, Edward Norton, Morgan Freeman, Jack Nicholson, Johnny Depp",46901,205.21
+tt1000220,The Journey 113,2011,PG-13,108,"Biography, Western",6.3,,An epic biography tale directed by Wong Kar-wai.,Wong Kar-wai,"Scarlett Johansson, Cate Blanchett, Florence Pugh",57003,21.86
+tt1000114,Dark Mission 7,1980,PG,124,Drama,6.3,57.0,A critically acclaimed drama masterpiece.,Greta Gerwig,"Will Smith, Edward Norton, Anthony Hopkins, Zendaya, Emma Stone",17722,44.03
+tt1000571,A Mission 464,2007,PG,136,Comedy,6.3,51.0,A thrilling comedy adventure.,Akira Kurosawa,"Natalie Portman, Leonardo DiCaprio, Emma Stone",52271,370.28
+tt1000742,Lost Adventures 635,2020,PG-13,148,"Mystery, Adventure, Horror",6.3,,A mystery film set in 2020.,Akira Kurosawa,"Emma Stone, Jack Nicholson, Timothée Chalamet, Tom Cruise, Samuel L. Jackson",3641,
+tt1000233,Secret Dreams 126,2024,R,116,Animation,6.3,68.0,An epic animation tale directed by Kathryn Bigelow.,Kathryn Bigelow,"Christian Bale, Edward Norton, Robert Downey Jr., Denzel Washington",288806,34.15
+tt1000575,Last Chronicles 468,2016,R,141,"Action, Animation",6.3,64.0,An epic action tale directed by Ang Lee.,Ang Lee,"Robert Downey Jr., Cate Blanchett, Daniel Day-Lewis",201206,226.26
+tt1000490,An Quest 383,2008,PG,143,"Fantasy, War, Western",6.3,75.0,An epic fantasy tale directed by Ryan Coogler.,Ryan Coogler,"Keanu Reeves, Robert Downey Jr., Will Smith, Edward Norton",48970,365.46
+tt1000237,First Mystery 130,2006,R,118,Musical,6.3,62.0,A thrilling musical adventure.,Frank Darabont,"Viola Davis, Jennifer Lawrence, Natalie Portman",108956,385.04
+tt1000412,Last Story 305,2001,PG,153,"Romance, War",6.3,67.0,A thrilling romance adventure.,Quentin Tarantino,"Denzel Washington, Robert Downey Jr., Anthony Hopkins, Daniel Day-Lewis, Jack Nicholson",140571,
+tt1000790,Last Adventures 683,2004,R,116,"Fantasy, Animation, Sci-Fi",6.3,60.0,A thrilling fantasy adventure.,Ryan Coogler,"Daniel Day-Lewis, Gary Oldman, Emma Stone",76117,211.08
+tt1000497,First Revolution 390,2000,PG-13,171,Animation,6.3,,A thrilling animation adventure.,Taika Waititi,"Matt Damon, Harrison Ford, Will Smith, Jack Nicholson",78970,198.71
+tt1000695,Lost Love 588,2014,PG-13,95,"Adventure, Biography",6.3,65.0,An epic adventure tale directed by Danny Boyle.,Danny Boyle,"Robert Downey Jr., Mark Ruffalo, Viola Davis",47969,24.49
+tt1000102,The Sting,1982,R,145,"Musical, Family",6.3,,A critically acclaimed musical masterpiece.,Clint Eastwood,"Harrison Ford, Anthony Hopkins, Matt Damon",81619,39.08
+tt1000500,Secret Quest 393,2000,PG,135,Fantasy,6.3,72.0,A critically acclaimed fantasy masterpiece.,Ava DuVernay,"Leonardo DiCaprio, Edward Norton, Amy Adams, Robert Downey Jr.",17548,106.52
+tt1000100,One Flew Over the Cuckoo's Nest,1985,PG,103,Mystery,6.3,49.0,A critically acclaimed mystery masterpiece.,Bong Joon-ho,"Mark Ruffalo, Harrison Ford, Samuel L. Jackson, Robert Downey Jr.",110206,133.09
+tt1000156,Secret Mission 49,1996,PG,109,"Horror, Crime",6.3,,A critically acclaimed horror masterpiece.,Ron Howard,"Mark Ruffalo, Emma Stone, Robert De Niro",39633,59.28
+tt1000149,Dark War 42,1999,PG-13,101,"Drama, Thriller, Biography",6.3,71.0,A thrilling drama adventure.,Coen Brothers,"Margot Robbie, Anthony Hopkins, Morgan Freeman",12224,299.01
+tt1000151,Final Kingdom 44,1997,R,130,Crime,6.3,,A crime film set in 1997.,Ang Lee,"Natalie Portman, Harrison Ford, Edward Norton",18227,189.95
+tt1000512,Secret Empire 405,2010,R,130,"Sci-Fi, War",6.3,48.0,A critically acclaimed sci-fi masterpiece.,Kathryn Bigelow,"Denzel Washington, Leonardo DiCaprio, Zendaya, Scarlett Johansson",10353,355.68
+tt1000554,Final Dreams 447,2004,R,77,"Comedy, Animation, Drama",6.3,74.0,A critically acclaimed comedy masterpiece.,Ridley Scott,"Zendaya, Matt Damon, Jennifer Lawrence, Scarlett Johansson",418943,356.71
+tt1000336,A Kingdom 229,2020,R,140,"Romance, War",6.3,,A thrilling romance adventure.,Jordan Peele,"Gary Oldman, Daniel Day-Lewis, Samuel L. Jackson",431961,
+tt1000340,An Journey 233,2000,Not Rated,130,"Adventure, Action",6.3,,A critically acclaimed adventure masterpiece.,Akira Kurosawa,"Denzel Washington, Al Pacino, Margot Robbie",57726,242.04
+tt1000253,An Love 146,2022,R,134,"Fantasy, Sci-Fi",6.3,50.0,A thrilling fantasy adventure.,Clint Eastwood,"Daniel Day-Lewis, Matt Damon, Timothée Chalamet, Margot Robbie",71898,
+tt1000351,Last Quest 244,2008,PG-13,125,Crime,6.3,,A critically acclaimed crime masterpiece.,Kathryn Bigelow,"Cate Blanchett, Gary Oldman, Matt Damon, Johnny Depp, Tom Hanks",21863,252.14
+tt1000949,A Secrets 842,2016,R,103,"Biography, Romance",6.3,61.0,A thrilling biography adventure.,Ron Howard,"Meryl Streep, Mark Ruffalo, Amy Adams, Denzel Washington",26670,167.6
+tt1000953,A Adventures 846,2016,PG,123,"War, Romance",6.3,78.0,An epic war tale directed by Coen Brothers.,Coen Brothers,"Brad Pitt, Florence Pugh, Tom Cruise, Edward Norton",123724,338.05
+tt1000171,First Story 64,1982,R,101,"Crime, Drama",6.3,51.0,A critically acclaimed crime masterpiece.,Christopher Nolan,"Tom Cruise, Morgan Freeman, Leonardo DiCaprio, Anthony Hopkins, Natalie Portman",111553,263.65
+tt1000638,Final Kingdom 531,2016,PG,83,"Action, Drama",6.3,53.0,An epic action tale directed by Edgar Wright.,Edgar Wright,"Cate Blanchett, Samuel L. Jackson, Amy Adams",18367,422.3
+tt1000930,The Legend 823,2003,PG-13,131,"Family, Documentary, Adventure",6.3,48.0,A thrilling family adventure.,George Lucas,"Johnny Depp, Tom Hanks, Margot Robbie",32225,148.58
+tt1000936,Lost Mission 829,2011,G,138,"Family, Adventure",6.3,,An epic family tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Tom Hanks, Will Smith, Cate Blanchett, Matt Damon, Christian Bale",50254,
+tt1000385,Last War 278,2003,PG-13,140,Romance,6.2,68.0,A critically acclaimed romance masterpiece.,Christopher Nolan,"Timothée Chalamet, Jennifer Lawrence, Harrison Ford, Scarlett Johansson",1756183,328.97
+tt1000611,Final Chronicles 504,2014,PG,125,"Fantasy, Romance",6.2,70.0,An epic fantasy tale directed by Sam Mendes.,Sam Mendes,"Morgan Freeman, Robert De Niro, Samuel L. Jackson, Harrison Ford",102976,31.42
+tt1000973,Secret Awakening 866,2003,PG-13,145,"Western, Adventure, Crime",6.2,,An epic western tale directed by Wes Anderson.,Wes Anderson,"Scarlett Johansson, Margot Robbie, Florence Pugh, Jennifer Lawrence, Tom Cruise",183048,214.67
+tt1000369,The Love 262,2022,PG-13,98,"Crime, Musical, Sci-Fi",6.2,47.0,An epic crime tale directed by Ang Lee.,Ang Lee,"Harrison Ford, Cate Blanchett, Al Pacino, Chris Hemsworth, Emma Stone",1057107,
+tt1000740,Final Dreams 633,2021,PG-13,112,"Horror, Sci-Fi, Mystery",6.2,48.0,A horror film set in 2021.,Peter Jackson,"Meryl Streep, Anthony Hopkins, Denzel Washington, Cate Blanchett, Matt Damon",182825,263.28
+tt1000718,Secret Journey 611,2010,R,94,"War, Drama",6.2,,A thrilling war adventure.,Sam Mendes,"Gary Oldman, Zendaya, Brad Pitt",34105,218.4
+tt1000445,Lost Mission 338,2000,PG,113,"Western, Fantasy",6.2,,A critically acclaimed western masterpiece.,Spike Lee,"Florence Pugh, Meryl Streep, Robert De Niro, Natalie Portman, Gary Oldman",38036,98.29
+tt1000867,Lost Mission 760,2005,PG,132,"Crime, Drama, Adventure",6.2,66.0,An epic crime tale directed by Spike Lee.,Spike Lee,"Morgan Freeman, Jack Nicholson, Jennifer Lawrence, Gary Oldman",10051,
+tt1000466,A Destiny 359,2012,NC-17,144,"Biography, War",6.2,72.0,A biography film set in 2012.,Pedro Almodóvar,"Jack Nicholson, Anthony Hopkins, Robert Downey Jr., Cate Blanchett, Johnny Depp",12451,
+tt1000221,A Mission 114,2002,PG-13,109,"Sci-Fi, Romance, Drama",6.2,,An epic sci-fi tale directed by James Cameron.,James Cameron,"Kate Winslet, Amy Adams, Tom Hanks, Timothée Chalamet",70238,36.72
+tt1000419,Lost War 312,2004,Not Rated,128,"Biography, Action",6.2,,A critically acclaimed biography masterpiece.,Bong Joon-ho,"Robert Downey Jr., Matt Damon, Scarlett Johansson",55069,105.26
+tt1000691,Secret Kingdom 584,2006,PG-13,123,"Adventure, Horror",6.2,72.0,A thrilling adventure adventure.,Martin Scorsese,"Daniel Day-Lewis, Matt Damon, Robert Downey Jr., Will Smith, Leonardo DiCaprio",37268,
+tt1000405,Dark Story 298,2011,PG,144,"Crime, Drama",6.2,68.0,An epic crime tale directed by Sam Mendes.,Sam Mendes,"Will Smith, Keanu Reeves, Viola Davis",90988,251.49
+tt1000247,An Secrets 140,2003,PG-13,94,Comedy,6.2,,A thrilling comedy adventure.,Steven Spielberg,"Keanu Reeves, Johnny Depp, Cate Blanchett, Timothée Chalamet",62263,28.32
+tt1000324,Dark Empire 217,2015,PG,136,"Comedy, Thriller",6.2,74.0,A critically acclaimed comedy masterpiece.,Sam Mendes,"Jack Nicholson, Christian Bale, Robert De Niro, Florence Pugh, Cate Blanchett",30660,204.22
+tt1000402,The Secrets 295,2010,PG-13,105,"Drama, Sci-Fi",6.2,,A thrilling drama adventure.,Christopher Nolan,"Amy Adams, Leonardo DiCaprio, Matt Damon, Gary Oldman, Mark Ruffalo",7303,235.3
+tt1000741,The Adventures 634,2007,PG,116,"Musical, Biography",6.2,55.0,A thrilling musical adventure.,Ron Howard,"Kate Winslet, Natalie Portman, Emma Stone, Samuel L. Jackson",434502,168.04
+tt1000772,An Quest 665,2014,NC-17,136,"Thriller, Romance",6.2,51.0,A thrilling thriller adventure.,Alfred Hitchcock,"Matt Damon, Tom Cruise, Christian Bale, Jack Nicholson",25914,29.0
+tt1000743,An Quest 636,2013,Not Rated,140,Fantasy,6.2,60.0,A critically acclaimed fantasy masterpiece.,James Cameron,"Mark Ruffalo, Robert Downey Jr., Brad Pitt",196013,482.73
+tt1000760,Final Story 653,2010,PG-13,85,"Action, Fantasy",6.2,72.0,An epic action tale directed by Spike Lee.,Spike Lee,"Viola Davis, Scarlett Johansson, Jennifer Lawrence",359031,
+tt1000757,The War 650,2007,PG-13,110,"Comedy, Animation, Mystery",6.2,,A critically acclaimed comedy masterpiece.,Denis Villeneuve,"Cate Blanchett, Samuel L. Jackson, Viola Davis, Zendaya",63021,159.86
+tt1000283,Secret Empire 176,2013,PG,109,"Animation, Mystery",6.2,55.0,A critically acclaimed animation masterpiece.,Ron Howard,"Brad Pitt, Margot Robbie, Natalie Portman, Meryl Streep, Matt Damon",26024,419.59
+tt1000249,A Journey 142,2001,R,104,Western,6.2,64.0,An epic western tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Chris Hemsworth, Tom Hanks, Natalie Portman, Margot Robbie, Cate Blanchett",7259,301.2
+tt1000334,The Dreams 227,2011,R,121,Comedy,6.2,,A critically acclaimed comedy masterpiece.,Frank Darabont,"Robert Downey Jr., Samuel L. Jackson, Denzel Washington",170644,
+tt1000471,A Empire 364,2010,R,163,"Sci-Fi, Documentary",6.2,73.0,A thrilling sci-fi adventure.,Wes Anderson,"Daniel Day-Lewis, Leonardo DiCaprio, Harrison Ford",240809,
+tt1000834,Lost Revolution 727,2006,G,113,"Drama, Musical, Adventure",6.2,69.0,A thrilling drama adventure.,Stanley Kubrick,"Jennifer Lawrence, Emma Stone, Mark Ruffalo, Will Smith, Tom Hanks",11757,321.99
+tt1000816,Secret Journey 709,2006,R,104,"Mystery, Musical",6.2,,An epic mystery tale directed by Robert Zemeckis.,Robert Zemeckis,"Timothée Chalamet, Cate Blanchett, Brad Pitt, Margot Robbie",15149,
+tt1000830,Final Love 723,2006,PG-13,119,"Crime, Romance",6.2,73.0,A critically acclaimed crime masterpiece.,Quentin Tarantino,"Scarlett Johansson, Samuel L. Jackson, Natalie Portman, Keanu Reeves, Tom Hanks",28575,289.4
+tt1000433,First Mission 326,2019,PG,126,Animation,6.2,52.0,A critically acclaimed animation masterpiece.,Wes Anderson,"Tom Cruise, Robert De Niro, Emma Stone, Denzel Washington",265153,101.48
+tt1000618,A Kingdom 511,2024,PG,140,"Horror, Biography",6.2,47.0,An epic horror tale directed by Clint Eastwood.,Clint Eastwood,"Leonardo DiCaprio, Morgan Freeman, Chris Hemsworth, Margot Robbie, Samuel L. Jackson",483447,175.39
+tt1000248,Last War 141,2016,R,130,"Thriller, Documentary",6.1,75.0,A thriller film set in 2016.,Ridley Scott,"Meryl Streep, Emma Stone, Anthony Hopkins",79233,170.4
+tt1000681,An Mystery 574,2005,R,123,"Mystery, Documentary",6.1,55.0,An epic mystery tale directed by Sam Mendes.,Sam Mendes,"Scarlett Johansson, Brad Pitt, Viola Davis",321755,
+tt1000591,A Kingdom 484,2016,PG-13,123,Thriller,6.1,,A thriller film set in 2016.,Alfred Hitchcock,"Amy Adams, Timothée Chalamet, Denzel Washington, Morgan Freeman",8266,36.63
+tt1000290,A Destiny 183,2023,PG,116,"Comedy, Musical, Documentary",6.1,60.0,A thrilling comedy adventure.,Ang Lee,"Natalie Portman, Emma Stone, Matt Damon",7562,107.98
+tt1000659,An Legend 552,2003,PG-13,138,"Animation, Mystery",6.1,71.0,An epic animation tale directed by Spike Lee.,Spike Lee,"Amy Adams, Natalie Portman, Christian Bale, Leonardo DiCaprio, Scarlett Johansson",110258,265.94
+tt1000667,An Empire 560,2008,PG-13,117,Drama,6.1,,A thrilling drama adventure.,Jordan Peele,"Christian Bale, Florence Pugh, Tom Cruise, Leonardo DiCaprio, Daniel Day-Lewis",37724,
+tt1000598,Secret Secrets 491,2002,PG-13,124,"Animation, Musical",6.1,72.0,A critically acclaimed animation masterpiece.,Denis Villeneuve,"Keanu Reeves, Tom Cruise, Samuel L. Jackson, Brad Pitt, Margot Robbie",37101,
+tt1000434,Last Revolution 327,2010,PG,116,"Adventure, Thriller",6.1,72.0,An epic adventure tale directed by Danny Boyle.,Danny Boyle,"Robert De Niro, Anthony Hopkins, Natalie Portman, Brad Pitt",133888,
+tt1000626,Lost Destiny 519,2011,PG-13,86,"Fantasy, Western, War",6.1,,A thrilling fantasy adventure.,Ryan Coogler,"Keanu Reeves, Robert De Niro, Florence Pugh, Amy Adams, Scarlett Johansson",254556,164.26
+tt1000903,Secret Quest 796,2023,R,151,Animation,6.1,56.0,A thrilling animation adventure.,Bong Joon-ho,"Meryl Streep, Emma Stone, Mark Ruffalo, Robert Downey Jr.",596331,
+tt1000909,Secret Awakening 802,2009,Not Rated,146,"Comedy, Family",6.1,60.0,An epic comedy tale directed by James Cameron.,James Cameron,"Jennifer Lawrence, Robert De Niro, Will Smith",28912,275.74
+tt1000107,In the Heat of the Night,1996,PG,131,"Documentary, War",6.1,,A critically acclaimed documentary masterpiece.,Peter Jackson,"Jack Nicholson, Robert Downey Jr., Harrison Ford",1381362,262.67
+tt1000138,Secret Love 31,1989,PG-13,126,Adventure,6.1,72.0,A thrilling adventure adventure.,Danny Boyle,"Samuel L. Jackson, Cate Blanchett, Morgan Freeman",368023,115.3
+tt1000468,The Legend 361,2000,R,139,"Horror, Fantasy, Family",6.1,,An epic horror tale directed by James Cameron.,James Cameron,"Brad Pitt, Harrison Ford, Viola Davis, Al Pacino, Timothée Chalamet",7095,279.05
+tt1000670,Last Love 563,2000,PG-13,87,Fantasy,6.1,64.0,An epic fantasy tale directed by Bong Joon-ho.,Bong Joon-ho,"Brad Pitt, Chris Hemsworth, Denzel Washington, Anthony Hopkins, Robert Downey Jr.",18888,115.49
+tt1000529,An Secrets 422,2013,PG-13,112,Comedy,6.1,,A comedy film set in 2013.,Ridley Scott,"Natalie Portman, Daniel Day-Lewis, Denzel Washington, Scarlett Johansson, Matt Damon",68132,
+tt1000920,The Love 813,2022,PG,132,"Drama, Musical",6.1,,A drama film set in 2022.,Ridley Scott,"Keanu Reeves, Jennifer Lawrence, Gary Oldman",229356,
+tt1000391,Secret Mission 284,2001,PG-13,118,"Mystery, Animation",6.1,69.0,A thrilling mystery adventure.,Ridley Scott,"Keanu Reeves, Emma Stone, Kate Winslet",39300,290.8
+tt1000411,The Empire 304,2024,PG-13,171,Western,6.1,,A western film set in 2024.,Stanley Kubrick,"Meryl Streep, Anthony Hopkins, Margot Robbie",699887,224.88
+tt1000491,An Mystery 384,2002,PG-13,120,"Mystery, Comedy",6.1,,A thrilling mystery adventure.,Francis Ford Coppola,"Jennifer Lawrence, Al Pacino, Christian Bale, Denzel Washington, Robert Downey Jr.",158327,
+tt1000161,Final Mystery 54,1997,PG,124,"Fantasy, Romance",6.1,,An epic fantasy tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Al Pacino, Daniel Day-Lewis, Florence Pugh, Keanu Reeves, Leonardo DiCaprio",7091,233.68
+tt1000520,Final Dreams 413,2007,PG-13,119,"Mystery, Thriller",6.1,67.0,A critically acclaimed mystery masterpiece.,Stanley Kubrick,"Johnny Depp, Matt Damon, Edward Norton",1577,478.37
+tt1000534,A Legend 427,2001,R,107,"Comedy, Fantasy",6.1,57.0,An epic comedy tale directed by Peter Jackson.,Peter Jackson,"Christian Bale, Keanu Reeves, Tom Cruise, Timothée Chalamet, Kate Winslet",29024,84.25
+tt1000126,Secret Quest 19,1988,PG-13,163,"Drama, Romance",6.1,71.0,A drama film set in 1988.,Alfred Hitchcock,"Tom Cruise, Will Smith, Brad Pitt, Gary Oldman, Jack Nicholson",10194,50.17
+tt1000526,Lost Kingdom 419,2022,PG,105,"War, Biography",6.1,53.0,A critically acclaimed war masterpiece.,Alfred Hitchcock,"Robert De Niro, Amy Adams, Christian Bale, Tom Hanks, Johnny Depp",80890,369.21
+tt1000113,The Mystery 6,1988,PG-13,108,"Romance, Drama",6.1,,A romance film set in 1988.,David Fincher,"Natalie Portman, Scarlett Johansson, Will Smith, Gary Oldman, Keanu Reeves",51777,
+tt1000764,Lost War 657,2020,PG-13,121,"Fantasy, Western, Horror",6.1,60.0,An epic fantasy tale directed by Quentin Tarantino.,Quentin Tarantino,"Kate Winslet, Viola Davis, Edward Norton, Robert De Niro",17228,
+tt1000285,An Chronicles 178,2000,PG,108,Drama,6.1,62.0,An epic drama tale directed by Stanley Kubrick.,Stanley Kubrick,"Robert Downey Jr., Gary Oldman, Amy Adams, Brad Pitt, Natalie Portman",121433,
+tt1000666,Lost Dreams 559,2005,R,116,War,6.1,,A war film set in 2005.,James Cameron,"Kate Winslet, Denzel Washington, Margot Robbie",21747,
+tt1000977,An Secrets 870,2018,PG-13,110,"Documentary, Horror",6.0,72.0,A documentary film set in 2018.,Martin Scorsese,"Christian Bale, Amy Adams, Scarlett Johansson",250935,
+tt1000581,Dark Awakening 474,2017,PG-13,143,"Drama, Biography",6.0,,An epic drama tale directed by Ava DuVernay.,Ava DuVernay,"Amy Adams, Morgan Freeman, Will Smith, Tom Cruise, Tom Hanks",85609,248.38
+tt1000588,Last Quest 481,2006,PG,115,Romance,6.0,59.0,A romance film set in 2006.,Ron Howard,"Emma Stone, Harrison Ford, Matt Damon, Anthony Hopkins, Edward Norton",1554110,213.99
+tt1000456,First Legend 349,2003,Not Rated,111,War,6.0,46.0,An epic war tale directed by Ryan Coogler.,Ryan Coogler,"Viola Davis, Florence Pugh, Denzel Washington, Anthony Hopkins, Edward Norton",46192,287.15
+tt1000196,Dark Journey 89,1980,PG,136,"War, Animation, Fantasy",6.0,70.0,An epic war tale directed by Edgar Wright.,Edgar Wright,"Scarlett Johansson, Samuel L. Jackson, Al Pacino, Edward Norton",39995,60.63
+tt1000804,A War 697,2007,R,97,"Drama, Family, Mystery",6.0,49.0,A drama film set in 2007.,Francis Ford Coppola,"Emma Stone, Timothée Chalamet, Jack Nicholson",275541,
+tt1000844,First Story 737,2013,PG-13,131,"Drama, Romance",6.0,,A drama film set in 2013.,Taika Waititi,"Chris Hemsworth, Edward Norton, Amy Adams",32014,
+tt1000517,Secret Story 410,2008,Not Rated,115,Drama,6.0,,A thrilling drama adventure.,Alfred Hitchcock,"Timothée Chalamet, Al Pacino, Cate Blanchett, Brad Pitt, Amy Adams",17321,317.42
+tt1000883,The Destiny 776,2020,PG-13,138,Romance,6.0,61.0,An epic romance tale directed by Hayao Miyazaki.,Hayao Miyazaki,"Amy Adams, Meryl Streep, Robert De Niro, Zendaya, Timothée Chalamet",584741,
+tt1000955,Last Journey 848,2007,PG,113,"Family, Adventure",6.0,,A critically acclaimed family masterpiece.,Steven Spielberg,"Al Pacino, Amy Adams, Anthony Hopkins, Chris Hemsworth, Gary Oldman",15835,
+tt1000958,A Mystery 851,2022,R,119,"Thriller, Comedy, Family",6.0,65.0,An epic thriller tale directed by Park Chan-wook.,Park Chan-wook,"Emma Stone, Morgan Freeman, Harrison Ford, Denzel Washington, Cate Blanchett",14694,366.94
+tt1000176,The War 69,1996,PG-13,125,"Documentary, Fantasy",6.0,,A critically acclaimed documentary masterpiece.,Martin Scorsese,"Jennifer Lawrence, Leonardo DiCaprio, Christian Bale, Al Pacino",156043,14.91
+tt1000474,Last Secrets 367,2001,PG,112,"Musical, Animation",6.0,,A thrilling musical adventure.,David Fincher,"Mark Ruffalo, Daniel Day-Lewis, Timothée Chalamet",12491,
+tt1000200,A Awakening 93,2005,PG-13,135,"Drama, Thriller, Fantasy",6.0,51.0,A drama film set in 2005.,Wong Kar-wai,"Meryl Streep, Cate Blanchett, Emma Stone",220666,422.35
+tt1000992,Final Revolution 885,2012,Not Rated,145,"Adventure, Comedy",6.0,64.0,A critically acclaimed adventure masterpiece.,Ridley Scott,"Daniel Day-Lewis, Emma Stone, Meryl Streep, Mark Ruffalo",135295,368.92
+tt1000422,Dark Kingdom 315,2011,R,117,"Action, Crime",6.0,,A critically acclaimed action masterpiece.,Kathryn Bigelow,"Margot Robbie, Jennifer Lawrence, Denzel Washington",19864,220.47
+tt1000851,The Empire 744,2022,PG-13,127,"Biography, Thriller, War",6.0,,A critically acclaimed biography masterpiece.,Spike Lee,"Mark Ruffalo, Edward Norton, Robert De Niro, Al Pacino",133511,357.12
+tt1000782,Secret Awakening 675,2023,PG,110,"Animation, Romance, Documentary",6.0,60.0,A animation film set in 2023.,Ron Howard,"Jack Nicholson, Morgan Freeman, Daniel Day-Lewis, Cate Blanchett",169433,343.64
+tt1000164,Lost Journey 57,1988,PG-13,121,"Animation, Biography",6.0,,A critically acclaimed animation masterpiece.,Francis Ford Coppola,"Samuel L. Jackson, Anthony Hopkins, Scarlett Johansson, Tom Cruise, Daniel Day-Lewis",352871,173.2
+tt1000110,Dark Legend 3,1999,R,119,War,6.0,,A critically acclaimed war masterpiece.,George Lucas,"Denzel Washington, Keanu Reeves, Christian Bale, Robert De Niro",67084,60.44
+tt1000700,Secret Legend 593,2020,PG-13,127,Adventure,6.0,73.0,An epic adventure tale directed by Coen Brothers.,Coen Brothers,"Amy Adams, Cate Blanchett, Margot Robbie",16244,260.55
+tt1000165,A Quest 58,1991,PG-13,130,"Documentary, Sci-Fi",5.9,55.0,An epic documentary tale directed by Wes Anderson.,Wes Anderson,"Keanu Reeves, Will Smith, Natalie Portman",45003,147.22
+tt1000368,Final Revolution 261,2005,PG-13,142,"Musical, Romance",5.9,44.0,An epic musical tale directed by Taika Waititi.,Taika Waititi,"Daniel Day-Lewis, Chris Hemsworth, Al Pacino, Brad Pitt, Leonardo DiCaprio",150115,235.48
+tt1000606,A Dreams 499,2022,G,115,"Horror, Drama",5.9,67.0,An epic horror tale directed by Danny Boyle.,Danny Boyle,"Cate Blanchett, Timothée Chalamet, Denzel Washington, Brad Pitt",49173,
+tt1000934,First Love 827,2013,PG,126,"Western, Crime",5.9,52.0,A western film set in 2013.,Coen Brothers,"Morgan Freeman, Al Pacino, Samuel L. Jackson, Harrison Ford, Jennifer Lawrence",51885,147.4
+tt1000383,Lost Destiny 276,2009,Not Rated,103,"Sci-Fi, Documentary",5.9,68.0,A critically acclaimed sci-fi masterpiece.,Kathryn Bigelow,"Al Pacino, Keanu Reeves, Mark Ruffalo",2368,273.34
+tt1000853,First Love 746,2002,PG-13,138,"War, Thriller",5.9,45.0,A thrilling war adventure.,Wes Anderson,"Johnny Depp, Chris Hemsworth, Brad Pitt",68086,
+tt1000172,Lost Awakening 65,1984,PG-13,130,Family,5.9,61.0,A thrilling family adventure.,Taika Waititi,"Will Smith, Daniel Day-Lewis, Natalie Portman, Gary Oldman, Mark Ruffalo",41696,177.68
+tt1000152,An Quest 45,1984,PG,117,Comedy,5.9,57.0,A thrilling comedy adventure.,Clint Eastwood,"Robert De Niro, Scarlett Johansson, Samuel L. Jackson, Gary Oldman, Anthony Hopkins",15657,216.48
+tt1000118,Dark Kingdom 11,1997,R,119,Horror,5.9,71.0,A critically acclaimed horror masterpiece.,Robert Zemeckis,"Timothée Chalamet, Al Pacino, Scarlett Johansson",58234,33.79
+tt1000565,Last Quest 458,2013,PG-13,158,"Animation, Fantasy",5.9,,An epic animation tale directed by Kathryn Bigelow.,Kathryn Bigelow,"Leonardo DiCaprio, Emma Stone, Robert Downey Jr.",21663,231.86
+tt1000327,Dark Awakening 220,2004,R,128,"Documentary, Musical",5.9,,A critically acclaimed documentary masterpiece.,Bong Joon-ho,"Viola Davis, Keanu Reeves, Samuel L. Jackson, Harrison Ford",55738,315.38
+tt1000545,The Secrets 438,2018,R,111,"Mystery, Drama, Sci-Fi",5.9,,A mystery film set in 2018.,Peter Jackson,"Margot Robbie, Morgan Freeman, Gary Oldman, Samuel L. Jackson",113028,168.63
+tt1000515,Last Mystery 408,2005,PG-13,129,"Romance, Drama",5.9,64.0,An epic romance tale directed by Denis Villeneuve.,Denis Villeneuve,"Cate Blanchett, Robert De Niro, Johnny Depp, Edward Norton",94154,250.35
+tt1000891,An Kingdom 784,2013,NC-17,109,Musical,5.9,44.0,A thrilling musical adventure.,Francis Ford Coppola,"Denzel Washington, Edward Norton, Daniel Day-Lewis, Johnny Depp",3152,156.55
+tt1000527,Last Story 420,2002,R,142,"Adventure, Musical",5.9,48.0,A adventure film set in 2002.,George Lucas,"Chris Hemsworth, Amy Adams, Gary Oldman, Timothée Chalamet, Kate Winslet",65678,417.22
+tt1000855,A Love 748,2015,PG,111,"Family, Comedy",5.9,57.0,An epic family tale directed by Ridley Scott.,Ridley Scott,"Johnny Depp, Robert De Niro, Amy Adams, Keanu Reeves, Christian Bale",159007,58.53
+tt1000454,Secret Chronicles 347,2009,PG,122,"Comedy, Mystery",5.9,,A comedy film set in 2009.,Pedro Almodóvar,"Johnny Depp, Cate Blanchett, Leonardo DiCaprio",360359,193.82
+tt1000414,Last Legend 307,2002,PG-13,108,"Sci-Fi, Documentary, Horror",5.9,62.0,A sci-fi film set in 2002.,Pedro Almodóvar,"Kate Winslet, Matt Damon, Jennifer Lawrence, Brad Pitt, Meryl Streep",22608,421.98
+tt1000879,Secret Mystery 772,2018,NC-17,138,"Horror, Documentary",5.9,,A critically acclaimed horror masterpiece.,David Fincher,"Viola Davis, Brad Pitt, Meryl Streep, Natalie Portman, Robert De Niro",108759,
+tt1000810,Final Legend 703,2015,PG,131,"Family, Crime",5.9,69.0,A thrilling family adventure.,David Fincher,"Zendaya, Gary Oldman, Emma Stone",57795,157.12
+tt1000277,Secret Legend 170,2024,G,101,Fantasy,5.9,64.0,A critically acclaimed fantasy masterpiece.,Pedro Almodóvar,"Harrison Ford, Zendaya, Timothée Chalamet",18926,
+tt1000211,The Destiny 104,2024,PG,111,"War, Thriller",5.9,,A thrilling war adventure.,Denis Villeneuve,"Daniel Day-Lewis, Keanu Reeves, Timothée Chalamet, Christian Bale, Harrison Ford",5002,185.4
+tt1000395,An Mission 288,2000,PG,138,"Horror, Comedy",5.9,74.0,A horror film set in 2000.,Alfred Hitchcock,"Christian Bale, Robert Downey Jr., Johnny Depp, Matt Damon, Samuel L. Jackson",42746,
+tt1000793,The Kingdom 686,2000,PG-13,125,"Horror, Sci-Fi",5.9,67.0,A thrilling horror adventure.,Ron Howard,"Johnny Depp, Gary Oldman, Margot Robbie",14246,118.86
+tt1000160,An Chronicles 53,1982,R,117,"Sci-Fi, Crime, Horror",5.9,61.0,A sci-fi film set in 1982.,Francis Ford Coppola,"Robert De Niro, Tom Hanks, Keanu Reeves, Daniel Day-Lewis, Natalie Portman",3227,
+tt1000704,Secret Empire 597,2018,PG-13,120,Adventure,5.9,64.0,A critically acclaimed adventure masterpiece.,Ava DuVernay,"Jennifer Lawrence, Amy Adams, Natalie Portman",181904,
+tt1000555,Secret Revolution 448,2007,PG,119,"Animation, Horror, Action",5.9,49.0,A critically acclaimed animation masterpiece.,Peter Jackson,"Tom Hanks, Jack Nicholson, Morgan Freeman, Emma Stone, Johnny Depp",28080,
+tt1000331,A Mission 224,2018,PG-13,106,"Thriller, War",5.9,,A thriller film set in 2018.,Ryan Coogler,"Zendaya, Denzel Washington, Jennifer Lawrence, Chris Hemsworth",39275,446.76
+tt1000396,An Revolution 289,2013,PG,131,"Adventure, Drama, Action",5.9,,A thrilling adventure adventure.,Alfred Hitchcock,"Johnny Depp, Gary Oldman, Margot Robbie, Samuel L. Jackson",70127,38.87
+tt1000251,A Adventures 144,2010,PG-13,141,"Fantasy, Adventure, Comedy",5.9,45.0,A fantasy film set in 2010.,Ava DuVernay,"Kate Winslet, Denzel Washington, Brad Pitt, Tom Hanks, Amy Adams",2500000,472.21
+tt1000907,Secret Chronicles 800,2007,PG-13,109,"Mystery, Adventure",5.8,,An epic mystery tale directed by Bong Joon-ho.,Bong Joon-ho,"Edward Norton, Al Pacino, Timothée Chalamet",552658,
+tt1000948,Secret Love 841,2007,PG,124,Documentary,5.8,,An epic documentary tale directed by Peter Jackson.,Peter Jackson,"Anthony Hopkins, Morgan Freeman, Jennifer Lawrence, Gary Oldman",24752,321.97
+tt1000204,Last Mission 97,2020,R,125,"Western, Crime, Drama",5.8,58.0,A critically acclaimed western masterpiece.,Ryan Coogler,"Brad Pitt, Samuel L. Jackson, Meryl Streep, Viola Davis, Kate Winslet",2346951,
+tt1000858,Secret Legend 751,2013,PG,172,"Sci-Fi, Action, Biography",5.8,,A critically acclaimed sci-fi masterpiece.,Spike Lee,"Timothée Chalamet, Chris Hemsworth, Harrison Ford, Margot Robbie",538350,51.57
+tt1000429,Lost Journey 322,2012,R,130,"Drama, Musical, Sci-Fi",5.8,,A thrilling drama adventure.,Wes Anderson,"Natalie Portman, Amy Adams, Scarlett Johansson",2370,
+tt1000374,Last Journey 267,2002,PG,132,Musical,5.8,,A musical film set in 2002.,Danny Boyle,"Chris Hemsworth, Jennifer Lawrence, Natalie Portman, Mark Ruffalo",693944,73.26
+tt1000986,First Secrets 879,2003,PG,142,Western,5.8,,A western film set in 2003.,Clint Eastwood,"Daniel Day-Lewis, Amy Adams, Harrison Ford",17382,149.53
+tt1000885,The Love 778,2019,R,137,Action,5.8,,A action film set in 2019.,James Cameron,"Viola Davis, Edward Norton, Keanu Reeves, Meryl Streep",227605,314.67
+tt1000180,The Mission 73,1987,PG-13,136,"Biography, Documentary",5.8,72.0,A critically acclaimed biography masterpiece.,Clint Eastwood,"Robert Downey Jr., Al Pacino, Daniel Day-Lewis",79528,72.83
+tt1000789,Last Dreams 682,2004,PG-13,85,Romance,5.8,,A thrilling romance adventure.,Denis Villeneuve,"Samuel L. Jackson, Christian Bale, Florence Pugh, Tom Hanks",382206,440.93
+tt1000623,The Quest 516,2020,PG,111,Drama,5.8,67.0,A critically acclaimed drama masterpiece.,Martin Scorsese,"Johnny Depp, Tom Hanks, Jack Nicholson, Natalie Portman",43374,471.81
+tt1000775,An Revolution 668,2024,PG,133,"War, Animation",5.8,68.0,A thrilling war adventure.,Steven Spielberg,"Jack Nicholson, Margot Robbie, Mark Ruffalo, Amy Adams",33501,472.68
+tt1000546,Lost Revolution 439,2004,R,161,"Action, Crime",5.8,49.0,A critically acclaimed action masterpiece.,Bong Joon-ho,"Harrison Ford, Christian Bale, Anthony Hopkins, Natalie Portman",62089,323.07
+tt1000758,An Kingdom 651,2011,PG,98,"Mystery, Drama, Thriller",5.8,45.0,A mystery film set in 2011.,Greta Gerwig,"Mark Ruffalo, Robert Downey Jr., Harrison Ford, Matt Damon, Daniel Day-Lewis",165886,
+tt1000754,Final Destiny 647,2022,PG-13,144,"Animation, Action",5.8,48.0,A animation film set in 2022.,Wong Kar-wai,"Tom Cruise, Meryl Streep, Daniel Day-Lewis, Edward Norton",166096,
+tt1000225,The Chronicles 118,2000,R,104,"Musical, Animation",5.8,,A critically acclaimed musical masterpiece.,Steven Spielberg,"Zendaya, Chris Hemsworth, Jennifer Lawrence, Keanu Reeves",829356,277.07
+tt1000870,Final Kingdom 763,2016,R,133,"Biography, Sci-Fi",5.8,50.0,A critically acclaimed biography masterpiece.,Edgar Wright,"Daniel Day-Lewis, Natalie Portman, Margot Robbie",44256,420.73
+tt1000162,Final Destiny 55,1999,PG,107,Adventure,5.8,51.0,A thrilling adventure adventure.,Ron Howard,"Johnny Depp, Amy Adams, Zendaya, Meryl Streep, Scarlett Johansson",752166,228.38
+tt1000328,Last Chronicles 221,2017,R,119,War,5.8,60.0,A war film set in 2017.,James Cameron,"Kate Winslet, Margot Robbie, Anthony Hopkins, Emma Stone",570973,476.76
+tt1000503,Lost Dreams 396,2012,PG-13,149,"Fantasy, Family",5.8,54.0,A critically acclaimed fantasy masterpiece.,Pedro Almodóvar,"Keanu Reeves, Edward Norton, Denzel Washington",44779,160.16
+tt1000919,Secret Kingdom 812,2001,PG-13,104,"Horror, Adventure",5.8,61.0,An epic horror tale directed by Robert Zemeckis.,Robert Zemeckis,"Al Pacino, Timothée Chalamet, Christian Bale",152369,186.95
+tt1000135,A Destiny 28,1981,PG-13,132,"Fantasy, Comedy",5.8,,A fantasy film set in 1981.,Ron Howard,"Al Pacino, Viola Davis, Kate Winslet, Margot Robbie",29016,167.4
+tt1000881,First Journey 774,2024,PG,106,"Romance, Animation",5.8,57.0,A thrilling romance adventure.,Steven Spielberg,"Kate Winslet, Samuel L. Jackson, Viola Davis",18450,
+tt1000927,An Mystery 820,2009,R,107,"Drama, Musical",5.7,64.0,An epic drama tale directed by George Lucas.,George Lucas,"Emma Stone, Zendaya, Chris Hemsworth",12543,146.87
+tt1000617,Lost War 510,2017,PG,155,"Documentary, Horror",5.7,49.0,A critically acclaimed documentary masterpiece.,Edgar Wright,"Jennifer Lawrence, Brad Pitt, Leonardo DiCaprio, Will Smith",237692,290.58
+tt1000643,The Love 536,2013,PG-13,159,"Action, Horror",5.7,47.0,An epic action tale directed by Wes Anderson.,Wes Anderson,"Meryl Streep, Chris Hemsworth, Kate Winslet, Gary Oldman",126127,226.56
+tt1000722,A Awakening 615,2023,PG-13,103,"Sci-Fi, Family",5.7,59.0,An epic sci-fi tale directed by Ron Howard.,Ron Howard,"Mark Ruffalo, Al Pacino, Kate Winslet",42149,488.82
+tt1000345,A Kingdom 238,2014,PG,151,"Horror, Romance",5.7,,A thrilling horror adventure.,Coen Brothers,"Natalie Portman, Christian Bale, Kate Winslet, Margot Robbie",6657,455.8
+tt1000561,A Awakening 454,2008,PG,126,"Animation, War",5.7,51.0,A critically acclaimed animation masterpiece.,Ryan Coogler,"Robert De Niro, Kate Winslet, Christian Bale, Meryl Streep",355584,
+tt1000264,Dark War 157,2016,PG-13,125,"Horror, Western, Comedy",5.7,70.0,A critically acclaimed horror masterpiece.,Stanley Kubrick,"Amy Adams, Robert De Niro, Harrison Ford",11830,
+tt1000232,The Dreams 125,2018,PG-13,126,"Action, Documentary, Thriller",5.7,58.0,A action film set in 2018.,Martin Scorsese,"Tom Cruise, Harrison Ford, Daniel Day-Lewis",239435,267.36
+tt1000108,A Journey 1,1988,PG,99,"Action, Adventure",5.7,,A thrilling action adventure.,Peter Jackson,"Daniel Day-Lewis, Meryl Streep, Timothée Chalamet, Jennifer Lawrence, Denzel Washington",204094,148.25
+tt1000751,The Empire 644,2008,PG,119,"Musical, Romance",5.7,62.0,A thrilling musical adventure.,Alfred Hitchcock,"Florence Pugh, Jennifer Lawrence, Viola Davis",103305,238.6
+tt1000489,A Mission 382,2001,PG-13,127,"Biography, Animation",5.7,65.0,An epic biography tale directed by Ridley Scott.,Ridley Scott,"Leonardo DiCaprio, Keanu Reeves, Johnny Depp, Brad Pitt",116646,473.79
+tt1000403,Final Destiny 296,2017,R,154,"Family, Drama",5.7,71.0,A family film set in 2017.,Wong Kar-wai,"Morgan Freeman, Zendaya, Anthony Hopkins, Matt Damon, Leonardo DiCaprio",21176,439.59
+tt1000418,Last Empire 311,2014,PG,144,"Mystery, Animation",5.7,45.0,A critically acclaimed mystery masterpiece.,Denis Villeneuve,"Florence Pugh, Leonardo DiCaprio, Robert De Niro",735906,127.12
+tt1000317,Secret Destiny 210,2004,R,127,"Documentary, Mystery, Adventure",5.7,44.0,An epic documentary tale directed by Steven Spielberg.,Steven Spielberg,"Morgan Freeman, Scarlett Johansson, Brad Pitt, Johnny Depp, Chris Hemsworth",522116,
+tt1000143,Final Quest 36,1993,PG,84,"Drama, Animation",5.7,43.0,A critically acclaimed drama masterpiece.,Quentin Tarantino,"Will Smith, Christian Bale, Robert Downey Jr.",2810,
+tt1000701,First Dreams 594,2000,Not Rated,142,Western,5.7,72.0,An epic western tale directed by Denis Villeneuve.,Denis Villeneuve,"Keanu Reeves, Morgan Freeman, Timothée Chalamet, Christian Bale",703631,141.05
+tt1000831,Dark Kingdom 724,2005,R,148,Animation,5.7,,A critically acclaimed animation masterpiece.,Park Chan-wook,"Christian Bale, Viola Davis, Amy Adams, Mark Ruffalo",202765,
+tt1000627,Secret Story 520,2007,PG,152,Family,5.7,55.0,A family film set in 2007.,Danny Boyle,"Brad Pitt, Samuel L. Jackson, Robert Downey Jr., Timothée Chalamet, Margot Robbie",24619,415.12
+tt1000202,Last Adventures 95,2010,G,104,"Animation, Fantasy",5.7,63.0,An epic animation tale directed by Martin Scorsese.,Martin Scorsese,"Amy Adams, Johnny Depp, Florence Pugh, Al Pacino, Jennifer Lawrence",4154,399.25
+tt1000166,Secret Story 59,1999,PG-13,102,Fantasy,5.6,45.0,A fantasy film set in 1999.,Ava DuVernay,"Morgan Freeman, Amy Adams, Natalie Portman, Christian Bale, Gary Oldman",240209,
+tt1000457,Lost Dreams 350,2011,PG-13,154,"Sci-Fi, Horror",5.6,70.0,A sci-fi film set in 2011.,Peter Jackson,"Jennifer Lawrence, Christian Bale, Leonardo DiCaprio, Morgan Freeman",5322,341.45
+tt1000438,Dark Secrets 331,2017,PG-13,120,"Crime, Musical",5.6,46.0,A critically acclaimed crime masterpiece.,Robert Zemeckis,"Florence Pugh, Robert De Niro, Jack Nicholson",12116,458.99
+tt1000428,Secret Quest 321,2010,R,104,"Horror, Crime",5.6,,A critically acclaimed horror masterpiece.,Ridley Scott,"Harrison Ford, Samuel L. Jackson, Leonardo DiCaprio, Chris Hemsworth, Robert Downey Jr.",3811,375.15
+tt1000836,Last Kingdom 729,2023,Not Rated,92,Horror,5.6,63.0,A thrilling horror adventure.,Bong Joon-ho,"Kate Winslet, Leonardo DiCaprio, Meryl Streep",123352,402.95
+tt1000824,First Awakening 717,2007,PG-13,104,"Comedy, War",5.6,53.0,A thrilling comedy adventure.,Francis Ford Coppola,"Daniel Day-Lewis, Harrison Ford, Denzel Washington, Tom Cruise",94440,186.56
+tt1000806,Lost Quest 699,2015,PG-13,127,"Musical, Adventure",5.6,,An epic musical tale directed by Quentin Tarantino.,Quentin Tarantino,"Matt Damon, Keanu Reeves, Leonardo DiCaprio, Al Pacino",288075,
+tt1000449,Dark Adventures 342,2019,PG,138,"Mystery, Sci-Fi",5.6,58.0,A critically acclaimed mystery masterpiece.,Martin Scorsese,"Gary Oldman, Robert Downey Jr., Tom Hanks, Scarlett Johansson, Timothée Chalamet",42738,
+tt1000235,First Awakening 128,2002,PG,132,"Adventure, Thriller, Comedy",5.6,53.0,An epic adventure tale directed by Wong Kar-wai.,Wong Kar-wai,"Florence Pugh, Al Pacino, Tom Cruise, Anthony Hopkins, Keanu Reeves",832502,348.94
+tt1000313,A War 206,2005,PG,108,"Sci-Fi, Biography",5.6,70.0,A critically acclaimed sci-fi masterpiece.,Spike Lee,"Gary Oldman, Zendaya, Denzel Washington, Robert Downey Jr.",221612,81.61
+tt1000792,First Legend 685,2012,PG,112,"Romance, War",5.6,55.0,A thrilling romance adventure.,Guillermo del Toro,"Mark Ruffalo, Christian Bale, Anthony Hopkins, Tom Cruise",32202,63.24
+tt1000784,Last Kingdom 677,2023,R,133,Documentary,5.6,71.0,An epic documentary tale directed by Bong Joon-ho.,Bong Joon-ho,"Margot Robbie, Meryl Streep, Leonardo DiCaprio",368765,302.53
+tt1000465,Last Story 358,2021,Not Rated,123,"Crime, Drama",5.6,56.0,A thrilling crime adventure.,Jordan Peele,"Florence Pugh, Meryl Streep, Margot Robbie",13940,242.85
+tt1000734,Dark Awakening 627,2005,R,134,Musical,5.6,70.0,A thrilling musical adventure.,Quentin Tarantino,"Natalie Portman, Robert Downey Jr., Florence Pugh, Gary Oldman, Christian Bale",14261,72.69
+tt1000250,Last Story 143,2010,PG,101,"Horror, Sci-Fi",5.6,58.0,An epic horror tale directed by James Cameron.,James Cameron,"Mark Ruffalo, Keanu Reeves, Jack Nicholson",13852,
+tt1000564,An Mystery 457,2006,PG-13,137,Comedy,5.6,49.0,A thrilling comedy adventure.,Danny Boyle,"Edward Norton, Margot Robbie, Cate Blanchett, Denzel Washington, Viola Davis",72371,60.43
+tt1000260,A Legend 153,2012,R,123,"War, Crime",5.6,,A critically acclaimed war masterpiece.,Pedro Almodóvar,"Cate Blanchett, Mark Ruffalo, Anthony Hopkins",105904,358.77
+tt1000410,First War 303,2000,PG,108,"Mystery, Horror",5.6,,An epic mystery tale directed by Pedro Almodóvar.,Pedro Almodóvar,"Timothée Chalamet, Denzel Washington, Tom Cruise",52447,243.38
+tt1000355,Last Mystery 248,2015,NC-17,97,"Biography, War, Romance",5.6,,A critically acclaimed biography masterpiece.,Clint Eastwood,"Samuel L. Jackson, Tom Cruise, Margot Robbie, Edward Norton, Christian Bale",341546,
+tt1000674,First Secrets 567,2005,PG-13,147,"Animation, Action",5.6,69.0,A critically acclaimed animation masterpiece.,Alfred Hitchcock,"Zendaya, Leonardo DiCaprio, Christian Bale, Gary Oldman, Amy Adams",1000,238.95
+tt1000660,First Quest 553,2019,PG,100,"Mystery, Comedy, Action",5.6,53.0,A mystery film set in 2019.,Wong Kar-wai,"Amy Adams, Margot Robbie, Chris Hemsworth, Keanu Reeves",23386,90.76
+tt1000384,Secret Adventures 277,2020,R,107,"Horror, Fantasy",5.6,52.0,A critically acclaimed horror masterpiece.,Greta Gerwig,"Edward Norton, Keanu Reeves, Morgan Freeman, Denzel Washington, Florence Pugh",702937,23.67
+tt1000524,Dark Quest 417,2007,PG,125,"Fantasy, Comedy",5.6,,A thrilling fantasy adventure.,Christopher Nolan,"Tom Hanks, Florence Pugh, Mark Ruffalo",120528,294.67
+tt1000888,Secret Legend 781,2008,NC-17,129,"Fantasy, Western",5.6,,A critically acclaimed fantasy masterpiece.,David Fincher,"Viola Davis, Morgan Freeman, Al Pacino, Emma Stone, Timothée Chalamet",213685,
+tt1000448,First Chronicles 341,2003,PG,138,"Comedy, Action",5.5,63.0,A comedy film set in 2003.,Akira Kurosawa,"Cate Blanchett, Johnny Depp, Anthony Hopkins, Natalie Portman",1298,371.58
+tt1000797,Dark Kingdom 690,2021,R,101,"Thriller, Action, Sci-Fi",5.5,45.0,A thrilling thriller adventure.,Pedro Almodóvar,"Amy Adams, Christian Bale, Tom Hanks, Florence Pugh",22583,
+tt1000798,Last Awakening 691,2014,R,118,"Biography, Mystery, Comedy",5.5,69.0,An epic biography tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Brad Pitt, Chris Hemsworth, Daniel Day-Lewis",15021,
+tt1000167,Lost Empire 60,1998,PG,158,"Sci-Fi, Action",5.5,55.0,A thrilling sci-fi adventure.,Denis Villeneuve,"Daniel Day-Lewis, Tom Hanks, Robert Downey Jr., Al Pacino, Natalie Portman",139309,44.74
+tt1000234,The Revolution 127,2014,PG,105,Family,5.5,,An epic family tale directed by Danny Boyle.,Danny Boyle,"Kate Winslet, Tom Hanks, Matt Damon, Emma Stone",5796,255.32
+tt1000904,A Love 797,2000,NC-17,129,"Musical, War",5.5,60.0,A critically acclaimed musical masterpiece.,Ron Howard,"Margot Robbie, Scarlett Johansson, Kate Winslet",103930,189.98
+tt1000882,Final Revolution 775,2011,PG,112,"War, Action",5.5,,A thrilling war adventure.,Peter Jackson,"Jack Nicholson, Robert Downey Jr., Florence Pugh, Denzel Washington, Zendaya",61293,
+tt1000115,First Journey 8,1996,PG-13,124,"Thriller, Drama",5.5,,A critically acclaimed thriller masterpiece.,Taika Waititi,"Robert Downey Jr., Chris Hemsworth, Jack Nicholson, Amy Adams, Robert De Niro",7250,
+tt1000540,Final Adventures 433,2002,PG-13,122,"Biography, Western",5.5,50.0,A thrilling biography adventure.,Frank Darabont,"Jack Nicholson, Al Pacino, Matt Damon, Daniel Day-Lewis",237718,438.34
+tt1000593,Final Quest 486,2003,R,106,Drama,5.5,,A thrilling drama adventure.,Wong Kar-wai,"Denzel Washington, Morgan Freeman, Chris Hemsworth, Daniel Day-Lewis",52856,131.13
+tt1000387,Lost Empire 280,2013,PG-13,165,"Western, Comedy",5.5,54.0,A thrilling western adventure.,George Lucas,"Mark Ruffalo, Tom Cruise, Daniel Day-Lewis, Samuel L. Jackson",5074,
+tt1000382,An Dreams 275,2010,NC-17,98,Horror,5.5,,A thrilling horror adventure.,Peter Jackson,"Daniel Day-Lewis, Kate Winslet, Natalie Portman, Harrison Ford, Zendaya",654585,
+tt1000495,Last Secrets 388,2018,R,138,"Documentary, Action, Western",5.5,43.0,A critically acclaimed documentary masterpiece.,Akira Kurosawa,"Zendaya, Leonardo DiCaprio, Emma Stone",4267,462.3
+tt1000308,Dark Quest 201,2013,PG-13,143,Biography,5.4,,An epic biography tale directed by Wong Kar-wai.,Wong Kar-wai,"Al Pacino, Natalie Portman, Kate Winslet, Gary Oldman, Robert Downey Jr.",25890,192.69
+tt1000157,An Awakening 50,1988,PG,73,"Mystery, Biography",5.4,49.0,A critically acclaimed mystery masterpiece.,Coen Brothers,"Robert Downey Jr., Robert De Niro, Cate Blanchett",279144,219.05
+tt1000715,Lost Journey 608,2005,PG,149,"Musical, Family, Adventure",5.4,42.0,An epic musical tale directed by Ang Lee.,Ang Lee,"Chris Hemsworth, Jack Nicholson, Kate Winslet, Timothée Chalamet, Harrison Ford",17279,166.41
+tt1000892,Last Chronicles 785,2010,PG-13,126,Fantasy,5.4,64.0,A critically acclaimed fantasy masterpiece.,Akira Kurosawa,"Natalie Portman, Daniel Day-Lewis, Edward Norton, Jennifer Lawrence",69079,
+tt1000766,An Mystery 659,2006,PG,133,"Romance, Mystery",5.4,,A romance film set in 2006.,Hayao Miyazaki,"Johnny Depp, Harrison Ford, Margot Robbie, Leonardo DiCaprio",290082,161.81
+tt1000133,Dark Secrets 26,1996,PG-13,144,"Fantasy, Mystery",5.4,,An epic fantasy tale directed by Alfred Hitchcock.,Alfred Hitchcock,"Jennifer Lawrence, Amy Adams, Zendaya, Anthony Hopkins",24365,
+tt1000137,Secret Chronicles 30,1987,R,97,"Musical, Biography",5.4,,A critically acclaimed musical masterpiece.,James Cameron,"Scarlett Johansson, Leonardo DiCaprio, Timothée Chalamet",244186,
+tt1000416,First Quest 309,2017,PG-13,124,"Crime, Family",5.4,49.0,A thrilling crime adventure.,Bong Joon-ho,"Timothée Chalamet, Cate Blanchett, Amy Adams",98353,
+tt1000315,Lost Awakening 208,2000,NC-17,98,"War, Mystery",5.4,,An epic war tale directed by David Fincher.,David Fincher,"Natalie Portman, Johnny Depp, Keanu Reeves",21208,88.02
+tt1000258,First Journey 151,2006,NC-17,132,Romance,5.4,,An epic romance tale directed by Ang Lee.,Ang Lee,"Zendaya, Al Pacino, Leonardo DiCaprio, Keanu Reeves, Daniel Day-Lewis",20116,439.94
+tt1000635,Last Story 528,2001,PG-13,128,"Crime, Drama",5.4,,An epic crime tale directed by Steven Spielberg.,Steven Spielberg,"Natalie Portman, Robert Downey Jr., Edward Norton, Kate Winslet",11046,
+tt1000924,First Chronicles 817,2008,R,116,"Crime, Thriller",5.4,59.0,An epic crime tale directed by Christopher Nolan.,Christopher Nolan,"Jack Nicholson, Timothée Chalamet, Natalie Portman, Kate Winslet",28660,
+tt1000394,Dark Journey 287,2017,PG,138,"Fantasy, Western",5.4,52.0,A critically acclaimed fantasy masterpiece.,Frank Darabont,"Margot Robbie, Daniel Day-Lewis, Meryl Streep, Viola Davis, Tom Hanks",13569,19.3
+tt1000699,Final Story 592,2016,PG-13,98,"War, Drama",5.4,,A war film set in 2016.,Coen Brothers,"Amy Adams, Al Pacino, Florence Pugh",204195,
+tt1000725,Secret Chronicles 618,2016,PG,161,"Documentary, Mystery, Musical",5.4,,An epic documentary tale directed by Ava DuVernay.,Ava DuVernay,"Robert De Niro, Al Pacino, Mark Ruffalo, Morgan Freeman, Harrison Ford",78992,287.2
+tt1000214,Dark Kingdom 107,2022,G,114,"Documentary, Sci-Fi, Thriller",5.4,64.0,An epic documentary tale directed by Ryan Coogler.,Ryan Coogler,"Brad Pitt, Samuel L. Jackson, Florence Pugh",41414,
+tt1000787,A Mystery 680,2023,R,92,"Sci-Fi, Thriller",5.4,,An epic sci-fi tale directed by Christopher Nolan.,Christopher Nolan,"Leonardo DiCaprio, Denzel Washington, Anthony Hopkins, Morgan Freeman",317753,
+tt1000777,Secret War 670,2012,R,118,War,5.4,69.0,An epic war tale directed by George Lucas.,George Lucas,"Keanu Reeves, Florence Pugh, Meryl Streep",35047,482.45
+tt1000525,First Legend 418,2003,PG,119,"Sci-Fi, Romance, Western",5.3,60.0,An epic sci-fi tale directed by Robert Zemeckis.,Robert Zemeckis,"Jennifer Lawrence, Natalie Portman, Scarlett Johansson, Denzel Washington",343557,181.18
+tt1000943,Lost Revolution 836,2002,G,112,Adventure,5.3,40.0,An epic adventure tale directed by Akira Kurosawa.,Akira Kurosawa,"Brad Pitt, Scarlett Johansson, Al Pacino",14962,172.72
+tt1000173,Dark Legend 66,1997,R,135,"Animation, Sci-Fi",5.3,,A thrilling animation adventure.,James Cameron,"Scarlett Johansson, Kate Winslet, Christian Bale, Jack Nicholson, Natalie Portman",135271,296.61
+tt1000578,The Secrets 471,2022,R,135,"Fantasy, Adventure, Mystery",5.3,,A fantasy film set in 2022.,David Fincher,"Timothée Chalamet, Emma Stone, Johnny Depp",12326,372.15
+tt1000175,First Awakening 68,1991,PG,83,"Animation, Documentary",5.3,,An epic animation tale directed by Quentin Tarantino.,Quentin Tarantino,"Viola Davis, Kate Winslet, Leonardo DiCaprio",64352,16.14
+tt1000979,First Chronicles 872,2012,PG-13,115,Romance,5.3,,An epic romance tale directed by Francis Ford Coppola.,Francis Ford Coppola,"Margot Robbie, Denzel Washington, Emma Stone, Gary Oldman, Matt Damon",33232,309.91
+tt1000716,An Quest 609,2024,PG,117,"Documentary, Musical",5.3,,A thrilling documentary adventure.,Greta Gerwig,"Natalie Portman, Johnny Depp, Margot Robbie, Christian Bale, Cate Blanchett",45991,160.53
+tt1000244,Lost Adventures 137,2021,PG-13,128,Sci-Fi,5.3,59.0,A critically acclaimed sci-fi masterpiece.,Park Chan-wook,"Timothée Chalamet, Emma Stone, Gary Oldman, Denzel Washington, Tom Cruise",280332,242.51
+tt1000240,Final Story 133,2002,PG,126,"Comedy, Romance, Musical",5.3,58.0,A comedy film set in 2002.,Spike Lee,"Tom Cruise, Gary Oldman, Natalie Portman, Denzel Washington",7924,
+tt1000584,A Destiny 477,2018,Not Rated,106,"Romance, Thriller",5.2,46.0,An epic romance tale directed by Akira Kurosawa.,Akira Kurosawa,"Johnny Depp, Emma Stone, Tom Cruise, Robert Downey Jr., Mark Ruffalo",128901,
+tt1000354,Dark Quest 247,2005,R,142,"Sci-Fi, Comedy, Mystery",5.2,,A sci-fi film set in 2005.,Ang Lee,"Samuel L. Jackson, Morgan Freeman, Margot Robbie",34764,465.86
+tt1000755,Final Secrets 648,2000,R,143,War,5.2,59.0,A war film set in 2000.,Park Chan-wook,"Zendaya, Jennifer Lawrence, Will Smith, Kate Winslet",96710,102.04
+tt1000510,Secret War 403,2022,PG,122,"Documentary, Family",5.2,44.0,An epic documentary tale directed by Wes Anderson.,Wes Anderson,"Will Smith, Mark Ruffalo, Morgan Freeman, Christian Bale",97221,465.03
+tt1000932,Secret Kingdom 825,2007,PG-13,131,"Fantasy, Mystery",5.2,,A thrilling fantasy adventure.,Ang Lee,"Tom Hanks, Robert De Niro, Jack Nicholson, Brad Pitt, Scarlett Johansson",34910,430.32
+tt1000989,Lost Kingdom 882,2005,PG-13,108,"Mystery, Fantasy",5.2,59.0,A mystery film set in 2005.,Wong Kar-wai,"Tom Hanks, Viola Davis, Harrison Ford, Edward Norton, Daniel Day-Lewis",89777,498.0
+tt1000450,Last Quest 343,2001,PG-13,96,"Fantasy, Family",5.2,43.0,A thrilling fantasy adventure.,Edgar Wright,"Margot Robbie, Matt Damon, Kate Winslet, Leonardo DiCaprio, Robert De Niro",134887,
+tt1000601,The Dreams 494,2010,PG,89,Family,5.2,53.0,An epic family tale directed by Clint Eastwood.,Clint Eastwood,"Kate Winslet, Robert Downey Jr., Scarlett Johansson, Cate Blanchett",5562,230.26
+tt1000504,An Revolution 397,2008,R,105,"Fantasy, Mystery",5.1,44.0,An epic fantasy tale directed by Denis Villeneuve.,Denis Villeneuve,"Leonardo DiCaprio, Denzel Washington, Margot Robbie",52890,
+tt1000189,Lost Destiny 82,1989,PG-13,99,"Western, Comedy",5.1,,A thrilling western adventure.,Kathryn Bigelow,"Johnny Depp, Christian Bale, Timothée Chalamet, Gary Oldman",21202,203.59
+tt1000850,Last Love 743,2018,R,88,Western,5.1,61.0,A thrilling western adventure.,James Cameron,"Christian Bale, Brad Pitt, Tom Hanks",990978,
+tt1000417,First Revolution 310,2018,PG,136,Mystery,5.0,,An epic mystery tale directed by Park Chan-wook.,Park Chan-wook,"Viola Davis, Scarlett Johansson, Leonardo DiCaprio",104933,174.47
+tt1000330,First War 223,2005,R,124,"Animation, Biography",5.0,58.0,A critically acclaimed animation masterpiece.,Kathryn Bigelow,"Denzel Washington, Tom Hanks, Meryl Streep, Brad Pitt",41325,201.78
+tt1000672,Last Awakening 565,2024,NC-17,114,"Adventure, Action",5.0,56.0,A critically acclaimed adventure masterpiece.,Edgar Wright,"Harrison Ford, Natalie Portman, Edward Norton",155302,230.34
+tt1000127,The Kingdom 20,1983,PG-13,108,"Documentary, Crime",4.9,,An epic documentary tale directed by Danny Boyle.,Danny Boyle,"Christian Bale, Meryl Streep, Mark Ruffalo, Viola Davis",16326,184.66
+tt1000605,Lost Legend 498,2002,PG,102,Romance,4.9,51.0,A thrilling romance adventure.,Ron Howard,"Tom Cruise, Keanu Reeves, Chris Hemsworth",20358,
+tt1000960,Last Awakening 853,2010,R,75,Documentary,4.9,44.0,A documentary film set in 2010.,Robert Zemeckis,"Tom Cruise, Leonardo DiCaprio, Matt Damon, Natalie Portman, Tom Hanks",24093,
+tt1000957,Last Legend 850,2008,G,129,"Action, Mystery",4.9,62.0,A critically acclaimed action masterpiece.,Quentin Tarantino,"Jennifer Lawrence, Natalie Portman, Zendaya, Cate Blanchett",24911,486.51
+tt1000965,First Love 858,2023,PG-13,198,Sci-Fi,4.9,46.0,An epic sci-fi tale directed by Steven Spielberg.,Steven Spielberg,"Cate Blanchett, Denzel Washington, Tom Cruise",795753,349.91
+tt1000147,Secret Destiny 40,1988,PG-13,119,"Action, Sci-Fi, Mystery",4.9,,An epic action tale directed by Greta Gerwig.,Greta Gerwig,"Mark Ruffalo, Zendaya, Robert De Niro, Margot Robbie",31429,142.57
+tt1000781,Lost Dreams 674,2020,PG,109,"Sci-Fi, Fantasy",4.9,39.0,An epic sci-fi tale directed by James Cameron.,James Cameron,"Christian Bale, Viola Davis, Robert De Niro",310434,30.48
+tt1000694,Final War 587,2008,PG-13,91,"Comedy, Musical",4.7,42.0,A critically acclaimed comedy masterpiece.,Ryan Coogler,"Natalie Portman, Tom Cruise, Florence Pugh",26217,333.74
+tt1000531,First Empire 424,2010,PG-13,138,"Comedy, Crime",4.7,50.0,An epic comedy tale directed by Greta Gerwig.,Greta Gerwig,"Mark Ruffalo, Cate Blanchett, Meryl Streep",13166,148.28
+tt1000181,A Mystery 74,1985,PG-13,148,"Horror, Adventure, Crime",4.6,38.0,An epic horror tale directed by Bong Joon-ho.,Bong Joon-ho,"Jennifer Lawrence, Samuel L. Jackson, Natalie Portman",10870,109.29
+tt1000215,An Empire 108,2009,PG,114,"Comedy, Mystery, Musical",4.4,,A comedy film set in 2009.,Ron Howard,"Chris Hemsworth, Meryl Streep, Anthony Hopkins",55191,205.9
+tt1000583,An Chronicles 476,2016,PG-13,140,"Mystery, Animation",4.4,43.0,A mystery film set in 2016.,Spike Lee,"Cate Blanchett, Meryl Streep, Tom Cruise, Timothée Chalamet",165514,456.06
+tt1000961,Final Empire 854,2024,R,129,"Documentary, Drama, Fantasy",4.3,,A thrilling documentary adventure.,Ava DuVernay,"Viola Davis, Samuel L. Jackson, Robert Downey Jr., Morgan Freeman",28293,279.37
+tt1000530,First Journey 423,2014,PG,98,"Animation, Adventure",4.2,54.0,A critically acclaimed animation masterpiece.,Taika Waititi,"Edward Norton, Cate Blanchett, Will Smith, Jack Nicholson, Robert De Niro",115247,329.82
+tt1000982,The Mystery 875,2001,G,121,"Comedy, Horror",4.1,30.0,An epic comedy tale directed by George Lucas.,George Lucas,"Harrison Ford, Samuel L. Jackson, Robert De Niro, Cate Blanchett, Emma Stone",45236,
